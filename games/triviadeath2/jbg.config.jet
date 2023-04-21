@@ -10,7 +10,7 @@
 	"canPauseOnPressStart":"true",
 	"protocol":"https",
 	"showBuildVersion":"true",
-	"joinUrl":"jackbox.gg",
+	"joinUrl":"jackbox.de",
 	"connectingDurationTrouble":"15000",
 	"reportMetrics":"false",
 	"supportsFullScreen":"true",

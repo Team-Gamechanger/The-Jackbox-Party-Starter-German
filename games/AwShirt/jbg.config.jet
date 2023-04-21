@@ -29,7 +29,7 @@
 	"flashKeyboard":"true",
 	"dev-console":"false",
 	"canPauseOnPressStart":"true",
-	"joinUrl":"jackbox.gg",
+	"joinUrl":"jackbox.de",
 	"buildTimeStamp":"2022-07-15 08:52:05",
 	"buildVersion":"216"
 }
