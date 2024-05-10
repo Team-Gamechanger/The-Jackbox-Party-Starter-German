@@ -37,15 +37,6 @@
    "x": false
   },
   {
-   "id": "55690_de-DE",
-   "includesPlayerName": false,
-   "isValid": "",
-   "prompt": "[EventName=HOST/AltHost]Die bizarrste Verwendungsmöglichkeit für einen Eiskübel",
-   "safetyQuips": [],
-   "us": false,
-   "x": false
-  },
-  {
    "id": "55691_de-DE",
    "includesPlayerName": false,
    "isValid": "",
@@ -59,15 +50,6 @@
    "includesPlayerName": false,
    "isValid": "",
    "prompt": "[EventName=HOST/AltHost]Ein deutliches Zeichen dafür, dass dein Bett verflucht ist",
-   "safetyQuips": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "id": "55693_de-DE",
-   "includesPlayerName": false,
-   "isValid": "",
-   "prompt": "[EventName=HOST/AltHost]Die unpassendste Form, die das Bett in der Honeymoon-Suite haben könnte",
    "safetyQuips": [],
    "us": false,
    "x": false
@@ -167,15 +149,6 @@
    "includesPlayerName": false,
    "isValid": "",
    "prompt": "[EventName=HOST/AltHost]Vergiss Pfefferminzbonbons! Das willst du lieber auf deinem Kopfkissen finden",
-   "safetyQuips": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "id": "55926_de-DE",
-   "includesPlayerName": false,
-   "isValid": "",
-   "prompt": "[EventName=HOST/AltHost]Ein treffenderer Name für die Honeymoon-Suite",
    "safetyQuips": [],
    "us": false,
    "x": false
@@ -469,15 +442,6 @@
    "x": false
   },
   {
-   "id": "56126_de-DE",
-   "includesPlayerName": false,
-   "isValid": "",
-   "prompt": "[EventName=HOST/AltHost]Ein abgefahrener Prompt, der in Quiplash gefragt werden könnte",
-   "safetyQuips": [],
-   "us": false,
-   "x": false
-  },
-  {
    "id": "56127_de-DE",
    "includesPlayerName": false,
    "isValid": "",
@@ -500,15 +464,6 @@
    "includesPlayerName": false,
    "isValid": "",
    "prompt": "[EventName=HOST/AltHost]Ich bin klein, mein Herz ist rein, soll niemand drin wohnen als <BLANK> allein",
-   "safetyQuips": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "id": "56523_de-DE",
-   "includesPlayerName": false,
-   "isValid": "",
-   "prompt": "[EventName=HOST/AltHost]Was der Rabe in dem Gedicht von Edgar Allan Poe EIGENTLICH hätte sagen sollen",
    "safetyQuips": [],
    "us": false,
    "x": false
@@ -640,15 +595,6 @@
    "x": false
   },
   {
-   "id": "56543_de-DE",
-   "includesPlayerName": false,
-   "isValid": "",
-   "prompt": "[EventName=HOST/AltHost]Der beste Titel für eine Fernsehserie aus den 80ern, in denen ein griesgrämiger Detektiv zusammen mit einem Werwolf Verbrechen aufklärt",
-   "safetyQuips": [],
-   "us": false,
-   "x": false
-  },
-  {
    "id": "56544_de-DE",
    "includesPlayerName": false,
    "isValid": "",
@@ -752,15 +698,6 @@
    "includesPlayerName": false,
    "isValid": "",
    "prompt": "[EventName=HOST/AltHost]Wenn du einen ganzen Einkaufswagen mit <BLANK> vollmachst, rufen sie garantiert die Polizei",
-   "safetyQuips": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "id": "56569_de-DE",
-   "includesPlayerName": false,
-   "isValid": "",
-   "prompt": "[EventName=HOST/AltHost]Einer deiner Quiplash-Witze, den niemand verstanden hat",
    "safetyQuips": [],
    "us": false,
    "x": false

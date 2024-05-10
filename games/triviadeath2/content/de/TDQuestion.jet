@@ -1040,34 +1040,6 @@
    "choices": [
     {
      "correct": false,
-     "text": "Winston Churchill"
-    },
-    {
-     "correct": false,
-     "text": "Julius Caesar"
-    },
-    {
-     "correct": false,
-     "text": "Dschingis Khan"
-    },
-    {
-     "correct": true,
-     "text": "Napoleon"
-    }
-   ],
-   "hasIntro": false,
-   "hasOutro": false,
-   "id": "54077_de-DE",
-   "isValid": "",
-   "pic": false,
-   "text": "Wessen Armee entdeckte den Stein von Rosette?",
-   "us": false,
-   "x": false
-  },
-  {
-   "choices": [
-    {
-     "correct": false,
      "text": "Kleidung"
     },
     {
@@ -1767,34 +1739,6 @@
   {
    "choices": [
     {
-     "correct": true,
-     "text": "Delphine Cormier"
-    },
-    {
-     "correct": false,
-     "text": "Alison Hendrix"
-    },
-    {
-     "correct": false,
-     "text": "Beth Childs"
-    },
-    {
-     "correct": false,
-     "text": "Cosima Niehaus"
-    }
-   ],
-   "hasIntro": false,
-   "hasOutro": false,
-   "id": "54158_de-DE",
-   "isValid": "",
-   "pic": false,
-   "text": "Welche dieser Figuren aus [i]Orphan Black[/i] wurde nicht von Tatiana Maslany gespielt?",
-   "us": false,
-   "x": false
-  },
-  {
-   "choices": [
-    {
      "correct": false,
      "text": "Demokratische Volksrepublik Hongkong"
     },
@@ -1817,34 +1761,6 @@
    "isValid": "",
    "pic": false,
    "text": "Was ist der offizielle Name von Hongkong?",
-   "us": false,
-   "x": false
-  },
-  {
-   "choices": [
-    {
-     "correct": false,
-     "text": "Baum"
-    },
-    {
-     "correct": false,
-     "text": "Farn"
-    },
-    {
-     "correct": false,
-     "text": "Blume"
-    },
-    {
-     "correct": true,
-     "text": "Moos"
-    }
-   ],
-   "hasIntro": false,
-   "hasOutro": false,
-   "id": "54163_de-DE",
-   "isValid": "",
-   "pic": false,
-   "text": "Welche dieser Pflanzen verfügt NICHT über ein Stückgewebe?",
    "us": false,
    "x": false
   },
@@ -2125,34 +2041,6 @@
    "isValid": "",
    "pic": false,
    "text": "Wofür steht das „J. J.” in J. J. Abrams?",
-   "us": false,
-   "x": false
-  },
-  {
-   "choices": [
-    {
-     "correct": true,
-     "text": "[i]Coraline[/i]"
-    },
-    {
-     "correct": false,
-     "text": "[i]Matilda[/i]"
-    },
-    {
-     "correct": false,
-     "text": "[i]Olivia[/i]"
-    },
-    {
-     "correct": false,
-     "text": "[i]Eloise[/i]"
-    }
-   ],
-   "hasIntro": false,
-   "hasOutro": false,
-   "id": "54202_de-DE",
-   "isValid": "",
-   "pic": false,
-   "text": "Welches der folgenden Bücher wurde von Neil Gaiman geschrieben?",
    "us": false,
    "x": false
   },
@@ -3476,34 +3364,6 @@
    "choices": [
     {
      "correct": false,
-     "text": "1 Atrium"
-    },
-    {
-     "correct": true,
-     "text": "2 Atrien"
-    },
-    {
-     "correct": false,
-     "text": "3 Atrien"
-    },
-    {
-     "correct": false,
-     "text": "4 Atrien"
-    }
-   ],
-   "hasIntro": false,
-   "hasOutro": false,
-   "id": "54374_de-DE",
-   "isValid": "",
-   "pic": false,
-   "text": "Wenn Sie tief in Ihr Herz schauen, was sehen Sie dann?",
-   "us": false,
-   "x": false
-  },
-  {
-   "choices": [
-    {
-     "correct": false,
      "text": "auf seiner Stirn"
     },
     {
@@ -3924,62 +3784,6 @@
    "choices": [
     {
      "correct": false,
-     "text": "Haruki Murakami"
-    },
-    {
-     "correct": true,
-     "text": "Junot Diaz"
-    },
-    {
-     "correct": false,
-     "text": "Michael Chabon"
-    },
-    {
-     "correct": false,
-     "text": "Sandra Cisneros"
-    }
-   ],
-   "hasIntro": false,
-   "hasOutro": false,
-   "id": "54402_de-DE",
-   "isValid": "",
-   "pic": false,
-   "text": "Wer schrieb [i]Das kurze wundersame Leben des Oscar Wao[/i]?",
-   "us": false,
-   "x": false
-  },
-  {
-   "choices": [
-    {
-     "correct": false,
-     "text": "Milch"
-    },
-    {
-     "correct": false,
-     "text": "Sprudelwasser"
-    },
-    {
-     "correct": true,
-     "text": "Ei"
-    },
-    {
-     "correct": false,
-     "text": "Sirup"
-    }
-   ],
-   "hasIntro": false,
-   "hasOutro": false,
-   "id": "54403_de-DE",
-   "isValid": "",
-   "pic": false,
-   "text": "Welche Zutat gehört NICHT in das amerikanische Getränk Egg Cream?",
-   "us": false,
-   "x": false
-  },
-  {
-   "choices": [
-    {
-     "correct": false,
      "text": "Ginger"
     },
     {
@@ -4232,62 +4036,6 @@
    "choices": [
     {
      "correct": false,
-     "text": "als Rampensau"
-    },
-    {
-     "correct": true,
-     "text": "als Anfänger"
-    },
-    {
-     "correct": false,
-     "text": "als Volltrottel"
-    },
-    {
-     "correct": false,
-     "text": "als Schniefnase"
-    }
-   ],
-   "hasIntro": false,
-   "hasOutro": false,
-   "id": "54429_de-DE",
-   "isValid": "",
-   "pic": false,
-   "text": "Als was könnte man ein „Greenhorn” noch bezeichnen?",
-   "us": false,
-   "x": false
-  },
-  {
-   "choices": [
-    {
-     "correct": false,
-     "text": "Halsey"
-    },
-    {
-     "correct": true,
-     "text": "Lana Del Rey"
-    },
-    {
-     "correct": false,
-     "text": "Ariana Grande"
-    },
-    {
-     "correct": false,
-     "text": "Taylor Swift"
-    }
-   ],
-   "hasIntro": false,
-   "hasOutro": false,
-   "id": "54435_de-DE",
-   "isValid": "",
-   "pic": false,
-   "text": "Wessen echter Name ist Elizabeth Woolridge Grant?",
-   "us": false,
-   "x": false
-  },
-  {
-   "choices": [
-    {
-     "correct": false,
      "text": "V für Vehikel"
     },
     {
@@ -4309,34 +4057,6 @@
    "isValid": "",
    "pic": false,
    "text": "Wofür steht das V in „V8-Motor”?",
-   "us": false,
-   "x": false
-  },
-  {
-   "choices": [
-    {
-     "correct": true,
-     "text": "Very Peri"
-    },
-    {
-     "correct": false,
-     "text": "Cyber Grape"
-    },
-    {
-     "correct": false,
-     "text": "Regal Purple"
-    },
-    {
-     "correct": false,
-     "text": "Super Plum"
-    }
-   ],
-   "hasIntro": false,
-   "hasOutro": false,
-   "id": "54438_de-DE",
-   "isValid": "",
-   "pic": false,
-   "text": "Wie hieß die Pantone-Farbe des Jahres 2022?",
    "us": false,
    "x": false
   },
@@ -4449,34 +4169,6 @@
    "isValid": "",
    "pic": false,
    "text": "Wie hoch sind die Buchstaben des berühmten Hollywood-Schriftzugs?",
-   "us": false,
-   "x": false
-  },
-  {
-   "choices": [
-    {
-     "correct": false,
-     "text": "Samantha Wheeler aus [i]Suits[/i]"
-    },
-    {
-     "correct": false,
-     "text": "Jessica Pearson aus [i]Suits[/i]"
-    },
-    {
-     "correct": false,
-     "text": "Donna Paulsen aus [i]Suits[/i]"
-    },
-    {
-     "correct": true,
-     "text": "Rachel Zane aus [i]Suits[/i]"
-    }
-   ],
-   "hasIntro": true,
-   "hasOutro": false,
-   "id": "54458_de-DE",
-   "isValid": "",
-   "pic": false,
-   "text": "Wen hat Prince Harry 2018 geheiratet?",
    "us": false,
    "x": false
   },
@@ -4848,34 +4540,6 @@
    "choices": [
     {
      "correct": false,
-     "text": "1,5 Kilometer"
-    },
-    {
-     "correct": false,
-     "text": "15 Kilometer"
-    },
-    {
-     "correct": false,
-     "text": "6,5 Kilometer"
-    },
-    {
-     "correct": true,
-     "text": "27 Kilometer"
-    }
-   ],
-   "hasIntro": false,
-   "hasOutro": false,
-   "id": "54486_de-DE",
-   "isValid": "",
-   "pic": false,
-   "text": "Der Large Hadron Collider ist derzeit die größte Maschine der Welt. Welchen Umfang hat er?",
-   "us": false,
-   "x": false
-  },
-  {
-   "choices": [
-    {
-     "correct": false,
      "text": "wie ein Menschenauge"
     },
     {
@@ -4953,62 +4617,6 @@
    "isValid": "",
    "pic": false,
    "text": "Wer wurde laut der Sage auf eine mystische Insel gebracht, um dort zu heilen, bis England ihn wieder braucht?",
-   "us": false,
-   "x": false
-  },
-  {
-   "choices": [
-    {
-     "correct": false,
-     "text": "Schokoladencreme"
-    },
-    {
-     "correct": false,
-     "text": "Erdbeercreme"
-    },
-    {
-     "correct": true,
-     "text": "Bananencreme"
-    },
-    {
-     "correct": false,
-     "text": "Es war schon immer Vanillecreme."
-    }
-   ],
-   "hasIntro": false,
-   "hasOutro": false,
-   "id": "54491_de-DE",
-   "isValid": "",
-   "pic": false,
-   "text": "Womit waren Twinkies ursprünglich gefüllt?",
-   "us": false,
-   "x": false
-  },
-  {
-   "choices": [
-    {
-     "correct": false,
-     "text": "Lebensmittelvergiftung"
-    },
-    {
-     "correct": true,
-     "text": "gebrochenes Bein"
-    },
-    {
-     "correct": false,
-     "text": "in der Badewanne ertrunken"
-    },
-    {
-     "correct": false,
-     "text": "hohes Alter"
-    }
-   ],
-   "hasIntro": false,
-   "hasOutro": false,
-   "id": "54495_de-DE",
-   "isValid": "",
-   "pic": false,
-   "text": "Woran ist nach gängiger Meinung Tutanchamun gestorben?",
    "us": false,
    "x": false
   },
@@ -5296,34 +4904,6 @@
    "choices": [
     {
      "correct": false,
-     "text": "Italien"
-    },
-    {
-     "correct": false,
-     "text": "Argentinien"
-    },
-    {
-     "correct": true,
-     "text": "Uruguay"
-    },
-    {
-     "correct": false,
-     "text": "USA"
-    }
-   ],
-   "hasIntro": false,
-   "hasOutro": false,
-   "id": "54538_de-DE",
-   "isValid": "",
-   "pic": false,
-   "text": "Welches dieser Länder gewann die Fußballweltmeisterschaft im Jahr 1930?",
-   "us": false,
-   "x": false
-  },
-  {
-   "choices": [
-    {
-     "correct": false,
      "text": "Lila"
     },
     {
@@ -5429,34 +5009,6 @@
    "isValid": "",
    "pic": false,
    "text": "Ein Mensch hat sieben Halswirbel. Wie viele hat eine Giraffe?",
-   "us": false,
-   "x": false
-  },
-  {
-   "choices": [
-    {
-     "correct": false,
-     "text": "Blutrot"
-    },
-    {
-     "correct": true,
-     "text": "Grünblau"
-    },
-    {
-     "correct": false,
-     "text": "wirklich krasses Violett"
-    },
-    {
-     "correct": false,
-     "text": "Neonorange"
-    }
-   ],
-   "hasIntro": false,
-   "hasOutro": false,
-   "id": "54553_de-DE",
-   "isValid": "",
-   "pic": false,
-   "text": "Welche Farbe hat der Jarrahdale-Kürbis?",
    "us": false,
    "x": false
   },
@@ -5736,7 +5288,7 @@
    "id": "54576_de-DE",
    "isValid": "",
    "pic": false,
-   "text": "Wann will Marc Foster an Ihrer Seite sein?",
+   "text": "Wann will Mark Forster an Ihrer Seite sein?",
    "us": false,
    "x": false
   },
@@ -6724,34 +6276,6 @@
    "choices": [
     {
      "correct": true,
-     "text": "Es ist magnetisch"
-    },
-    {
-     "correct": false,
-     "text": "Es ist fluoreszierend"
-    },
-    {
-     "correct": false,
-     "text": "Es schwimmt auf Wasser"
-    },
-    {
-     "correct": false,
-     "text": "Es ist sehr groß"
-    }
-   ],
-   "hasIntro": false,
-   "hasOutro": false,
-   "id": "54673_de-DE",
-   "isValid": "",
-   "pic": false,
-   "text": "Was ist das Besondere an einem Eisenoxiduloxid?",
-   "us": false,
-   "x": false
-  },
-  {
-   "choices": [
-    {
-     "correct": true,
      "text": "Er ist von Geburt an entstellt"
     },
     {
@@ -6941,62 +6465,6 @@
    "isValid": "",
    "pic": false,
    "text": "Wo liegt Transsilvanien?",
-   "us": false,
-   "x": false
-  },
-  {
-   "choices": [
-    {
-     "correct": true,
-     "text": "Ein Wasserbad"
-    },
-    {
-     "correct": false,
-     "text": "Eine Salzkruste"
-    },
-    {
-     "correct": false,
-     "text": "Ein Flambierbrenner"
-    },
-    {
-     "correct": false,
-     "text": "Eine Fritteuse"
-    }
-   ],
-   "hasIntro": false,
-   "hasOutro": false,
-   "id": "54706_de-DE",
-   "isValid": "",
-   "pic": false,
-   "text": "Was wird verwendet, wenn man etwas mit einem Bain-Marie zubereitet?",
-   "us": false,
-   "x": false
-  },
-  {
-   "choices": [
-    {
-     "correct": true,
-     "text": "Kricket"
-    },
-    {
-     "correct": false,
-     "text": "Rugby"
-    },
-    {
-     "correct": false,
-     "text": "Lacrosse"
-    },
-    {
-     "correct": false,
-     "text": "Darts"
-    }
-   ],
-   "hasIntro": false,
-   "hasOutro": false,
-   "id": "54711_de-DE",
-   "isValid": "",
-   "pic": false,
-   "text": "Bei welcher sehr ernsten Sportart gibt es eine Position namens „Silly Point”?",
    "us": false,
    "x": false
   },
@@ -8040,34 +7508,6 @@
    "choices": [
     {
      "correct": false,
-     "text": "Moriarty"
-    },
-    {
-     "correct": true,
-     "text": "Javert"
-    },
-    {
-     "correct": false,
-     "text": "Fagin"
-    },
-    {
-     "correct": false,
-     "text": "Olaf"
-    }
-   ],
-   "hasIntro": false,
-   "hasOutro": false,
-   "id": "54810_de-DE",
-   "isValid": "",
-   "pic": false,
-   "text": "Wer jagt Jean Valjean in [i]Les Misérables[/i]?",
-   "us": false,
-   "x": false
-  },
-  {
-   "choices": [
-    {
-     "correct": false,
      "text": "Rooibos Tee"
     },
     {
@@ -8089,34 +7529,6 @@
    "isValid": "",
    "pic": false,
    "text": "Welcher dieser Tees kommt aus Indien?",
-   "us": false,
-   "x": false
-  },
-  {
-   "choices": [
-    {
-     "correct": false,
-     "text": "6"
-    },
-    {
-     "correct": false,
-     "text": "8"
-    },
-    {
-     "correct": false,
-     "text": "10"
-    },
-    {
-     "correct": true,
-     "text": "12"
-    }
-   ],
-   "hasIntro": true,
-   "hasOutro": false,
-   "id": "54813_de-DE",
-   "isValid": "",
-   "pic": false,
-   "text": "Wie viele Richter erwarten mich in London, wenn ich dort irgendwann mal für Mord vor Gericht gestellt werde?",
    "us": false,
    "x": false
   },
@@ -8208,34 +7620,6 @@
    "choices": [
     {
      "correct": true,
-     "text": "Jolene"
-    },
-    {
-     "correct": false,
-     "text": "Aimee"
-    },
-    {
-     "correct": false,
-     "text": "Lorraine"
-    },
-    {
-     "correct": false,
-     "text": "Gloria"
-    }
-   ],
-   "hasIntro": true,
-   "hasOutro": false,
-   "id": "54819_de-DE",
-   "isValid": "",
-   "pic": false,
-   "text": "Wen flehte Dolly Parton an: „Please don’t take my man”?",
-   "us": false,
-   "x": false
-  },
-  {
-   "choices": [
-    {
-     "correct": true,
      "text": "[i]E.T. – der Außerirdische[/i]"
     },
     {
@@ -8257,62 +7641,6 @@
    "isValid": "",
    "pic": false,
    "text": "Welcher Film erhielt in Skandinavien keine Jugendfreigabe, da er Erwachsene als die Bösen darstellt?",
-   "us": false,
-   "x": false
-  },
-  {
-   "choices": [
-    {
-     "correct": false,
-     "text": "[i]Das Spiel der Macht[/i]"
-    },
-    {
-     "correct": false,
-     "text": "[i]Im Westen nichts Neues[/i]"
-    },
-    {
-     "correct": false,
-     "text": "[i]Ende gut, alles gut[/i]"
-    },
-    {
-     "correct": true,
-     "text": "[i]All die schönen Pferde[/i]"
-    }
-   ],
-   "hasIntro": false,
-   "hasOutro": false,
-   "id": "54824_de-DE",
-   "isValid": "",
-   "pic": false,
-   "text": "Welches Buch schrieb Cormac McCarthy?",
-   "us": false,
-   "x": false
-  },
-  {
-   "choices": [
-    {
-     "correct": false,
-     "text": "Flaggen statt Torpfosten"
-    },
-    {
-     "correct": true,
-     "text": "kein harter Körperkontakt"
-    },
-    {
-     "correct": false,
-     "text": "kein Mundschutz"
-    },
-    {
-     "correct": false,
-     "text": "Trikots immer in Nationalfarben"
-    }
-   ],
-   "hasIntro": false,
-   "hasOutro": false,
-   "id": "54828_de-DE",
-   "isValid": "",
-   "pic": false,
-   "text": "Was unterscheidet Flag Football vom American Football?",
    "us": false,
    "x": false
   },
@@ -8488,34 +7816,6 @@
    "choices": [
     {
      "correct": false,
-     "text": "Einen Kochtopf"
-    },
-    {
-     "correct": false,
-     "text": "Eine Bettpfanne"
-    },
-    {
-     "correct": true,
-     "text": "Ein Rasierbecken"
-    },
-    {
-     "correct": false,
-     "text": "Einen Wassereimer"
-    }
-   ],
-   "hasIntro": false,
-   "hasOutro": false,
-   "id": "54851_de-DE",
-   "isValid": "",
-   "pic": false,
-   "text": "Was trug Don Quijote auf dem Kopf, weil er dachte, es sei ein sagenumwobener Helm?",
-   "us": false,
-   "x": false
-  },
-  {
-   "choices": [
-    {
-     "correct": false,
      "text": "Der Uterus"
     },
     {
@@ -8649,34 +7949,6 @@
    "isValid": "",
    "pic": false,
    "text": "Wie wird das Polarlicht offiziell genannt?",
-   "us": false,
-   "x": false
-  },
-  {
-   "choices": [
-    {
-     "correct": false,
-     "text": "Geister"
-    },
-    {
-     "correct": true,
-     "text": "Klone"
-    },
-    {
-     "correct": false,
-     "text": "Aliens"
-    },
-    {
-     "correct": false,
-     "text": "Vögel"
-    }
-   ],
-   "hasIntro": false,
-   "hasOutro": false,
-   "id": "54859_de-DE",
-   "isValid": "",
-   "pic": false,
-   "text": "[i]Alles, was wir geben mussten[/i] ist ein Coming-of-Age-Roman über eine Gruppe Kinder, die sich als was herausstellten?",
    "us": false,
    "x": false
   },
@@ -8964,34 +8236,6 @@
    "choices": [
     {
      "correct": false,
-     "text": "Auf ihrem rechten Arm"
-    },
-    {
-     "correct": false,
-     "text": "Auf ihrem linken Bein"
-    },
-    {
-     "correct": false,
-     "text": "Um ihren Hals"
-    },
-    {
-     "correct": true,
-     "text": "Auf ihrem Rücken"
-    }
-   ],
-   "hasIntro": false,
-   "hasOutro": false,
-   "id": "54884_de-DE",
-   "isValid": "",
-   "pic": false,
-   "text": "Wo befindet sich das Drachentattoo der Protagonistin in [i]Verblendung[/i] von Stieg Larsson?",
-   "us": false,
-   "x": false
-  },
-  {
-   "choices": [
-    {
-     "correct": false,
      "text": "10 Tage"
     },
     {
@@ -9041,34 +8285,6 @@
    "isValid": "",
    "pic": false,
    "text": "Welcher dieser Weine wurde nach dem Ort benannt, an dem er hergestellt wurde?",
-   "us": false,
-   "x": false
-  },
-  {
-   "choices": [
-    {
-     "correct": false,
-     "text": "Die Fürstin von Cornwall"
-    },
-    {
-     "correct": false,
-     "text": "Die Fürstin von Wales"
-    },
-    {
-     "correct": false,
-     "text": "Die Herzogin von Cambridge"
-    },
-    {
-     "correct": true,
-     "text": "Die Herzogin von Sussex"
-    }
-   ],
-   "hasIntro": false,
-   "hasOutro": false,
-   "id": "54900_de-DE",
-   "isValid": "",
-   "pic": false,
-   "text": "Wer ist Meghan Markle?",
    "us": false,
    "x": false
   },
@@ -9209,34 +8425,6 @@
    "isValid": "",
    "pic": false,
    "text": "Welche ägyptische Gottheit hat das Gesicht einer Katze?",
-   "us": false,
-   "x": false
-  },
-  {
-   "choices": [
-    {
-     "correct": false,
-     "text": "Luxemburg"
-    },
-    {
-     "correct": true,
-     "text": "Monaco"
-    },
-    {
-     "correct": false,
-     "text": "England"
-    },
-    {
-     "correct": false,
-     "text": "Jordanien"
-    }
-   ],
-   "hasIntro": false,
-   "hasOutro": false,
-   "id": "54910_de-DE",
-   "isValid": "",
-   "pic": false,
-   "text": "Die amerikanische Filmschauspielerin Grace Kelly wurde zur Fürstin welches Landes?",
    "us": false,
    "x": false
   },
@@ -9489,34 +8677,6 @@
    "isValid": "",
    "pic": false,
    "text": "Welche ist die Hauptstadt eines Landes?",
-   "us": false,
-   "x": false
-  },
-  {
-   "choices": [
-    {
-     "correct": false,
-     "text": "Den „von vorne nach hinten”"
-    },
-    {
-     "correct": true,
-     "text": "Den „bücken und hepp”"
-    },
-    {
-     "correct": false,
-     "text": "Den „dreh dich und spring”"
-    },
-    {
-     "correct": false,
-     "text": "Den „Beine hoch und wieder runter”"
-    }
-   ],
-   "hasIntro": false,
-   "hasOutro": false,
-   "id": "54931_de-DE",
-   "isValid": "",
-   "pic": false,
-   "text": "Welche ikonische Bewegung bringt Elle Woods in [i]Natürlich blond[/i] den Leuten im Schönheitssalon bei?",
    "us": false,
    "x": false
   },
@@ -9999,34 +9159,6 @@
   {
    "choices": [
     {
-     "correct": true,
-     "text": "Joe Frazier"
-    },
-    {
-     "correct": false,
-     "text": "Sonny Liston"
-    },
-    {
-     "correct": false,
-     "text": "George Foreman"
-    },
-    {
-     "correct": false,
-     "text": "Evander Holyfield"
-    }
-   ],
-   "hasIntro": false,
-   "hasOutro": false,
-   "id": "54966_de-DE",
-   "isValid": "",
-   "pic": false,
-   "text": "Wer kämpfte gegen Muhammad Ali beim Thrilla in Manila?",
-   "us": false,
-   "x": false
-  },
-  {
-   "choices": [
-    {
      "correct": false,
      "text": "3"
     },
@@ -10105,34 +9237,6 @@
    "isValid": "",
    "pic": false,
    "text": "Welche Hunderasse bringt die süßesten, kleinen Fellbällchen hervor? Also wirklich, welche ist die kleinste?",
-   "us": false,
-   "x": false
-  },
-  {
-   "choices": [
-    {
-     "correct": false,
-     "text": "[i]Auf den Flügeln der Zeit[/i]"
-    },
-    {
-     "correct": true,
-     "text": "[i]Auf der Suche nach der verlorenen Zeit[/i]"
-    },
-    {
-     "correct": false,
-     "text": "[i]Der Sommer, in dem die Zeit stehenblieb[/i]"
-    },
-    {
-     "correct": false,
-     "text": "[i]Das Buch von Zeit und Ewigkeit[/i]"
-    }
-   ],
-   "hasIntro": false,
-   "hasOutro": false,
-   "id": "54977_de-DE",
-   "isValid": "",
-   "pic": false,
-   "text": "Welcher ist ein Roman von Marcel Proust?",
    "us": false,
    "x": false
   },
@@ -10280,34 +9384,6 @@
    "choices": [
     {
      "correct": false,
-     "text": "Um die 1.500 Tonnen"
-    },
-    {
-     "correct": false,
-     "text": "Um die 35.000 Tonnen"
-    },
-    {
-     "correct": true,
-     "text": "Um die 150.000 Tonnen"
-    },
-    {
-     "correct": false,
-     "text": "Um die 250.000 Tonnen"
-    }
-   ],
-   "hasIntro": false,
-   "hasOutro": false,
-   "id": "54987_de-DE",
-   "isValid": "",
-   "pic": false,
-   "text": "Wie viel wiegt der Transatlantikliner [i]Queen Mary 2[/i]?",
-   "us": false,
-   "x": false
-  },
-  {
-   "choices": [
-    {
-     "correct": false,
      "text": "Stahl"
     },
     {
@@ -10357,34 +9433,6 @@
    "isValid": "",
    "pic": false,
    "text": "Wer gilt als der erste Herrscher des Heiligen Römischen Reiches?",
-   "us": false,
-   "x": false
-  },
-  {
-   "choices": [
-    {
-     "correct": true,
-     "text": "Ein Linguist"
-    },
-    {
-     "correct": false,
-     "text": "Ein Dichter"
-    },
-    {
-     "correct": false,
-     "text": "Ein Physiker"
-    },
-    {
-     "correct": false,
-     "text": "Ein Romanautor"
-    }
-   ],
-   "hasIntro": true,
-   "hasOutro": false,
-   "id": "54993_de-DE",
-   "isValid": "",
-   "pic": false,
-   "text": "Wer ist Noam Chomsky?",
    "us": false,
    "x": false
   },

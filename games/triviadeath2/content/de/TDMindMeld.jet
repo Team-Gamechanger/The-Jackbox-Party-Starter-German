@@ -1099,7 +1099,7 @@
     }
    ],
    "id": "56075_de-DE",
-   "text": "eines der originalen [i]Harry Potter[/i]-Bücher: [i]Harry Potter und ________[/i]",
+   "text": "Eines der originalen [i]Harry Potter[/i]-Bücher: [i]Harry Potter und ________[/i]",
    "us": false,
    "x": false
   },
@@ -1356,81 +1356,6 @@
    ],
    "id": "57798_de-DE",
    "text": "Eine Gitarrensaite<br>nur ein Buchstabe",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "alt": [
-      "Raychel",
-      "Rachel Green",
-      "Rachael",
-      "Racheal",
-      "Rachele",
-      "",
-      "Rach",
-      "Raych"
-     ],
-     "answer": "Rachel"
-    },
-    {
-     "alt": [
-      "Monika",
-      "Monnica",
-      "Monica Geller",
-      "Monica Geler",
-      "Mon"
-     ],
-     "answer": "Monica"
-    },
-    {
-     "alt": [
-      "Pheebe",
-      "Fibie",
-      "Phobe",
-      "Phoebe Buffay",
-      "Phoebe Buffet",
-      "Phoebe Hannigan",
-      "Phoebe Buffay Hannigan",
-      "Phoebe Buffay-Hannigan"
-     ],
-     "answer": "Phoebe"
-    },
-    {
-     "alt": [
-      "Joe",
-      "Joey Tribbiani",
-      "Joie",
-      "Joseph",
-      "Joseph Francis \"Joey\" Tribbiani Jr."
-     ],
-     "answer": "Joey"
-    },
-    {
-     "alt": [
-      "Chandeler",
-      "Chandler Bing",
-      "Chandalar",
-      "Chadelar",
-      "Chanandler Bong",
-      "Chandler Muriel Bing"
-     ],
-     "answer": "Chandler"
-    },
-    {
-     "alt": [
-      "Roz",
-      "Russ",
-      "Ross Geller",
-      "Ross Geler",
-      "Ross Eustace Geller"
-     ],
-     "answer": "Ross"
-    }
-   ],
-   "id": "57800_de-DE",
-   "text": "Einer der sechs Freunde aus [i]Friends[/i]",
    "us": false,
    "x": false
   },
@@ -1799,36 +1724,6 @@
    "answers": [
     {
      "alt": [],
-     "answer": "Erde"
-    },
-    {
-     "alt": [],
-     "answer": "Feuer"
-    },
-    {
-     "alt": [],
-     "answer": "Wasser"
-    },
-    {
-     "alt": [],
-     "answer": "Luft"
-    },
-    {
-     "alt": [
-      "Herz"
-     ],
-     "answer": "Liebe"
-    }
-   ],
-   "id": "TMP2-MM-12_de-DE",
-   "text": "Eines der fünf Elemente, die das „Planetenteam” von [i]Captain Planet[/i] kontrollieren kann",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "alt": [],
      "answer": "Berlin"
     },
     {
@@ -1911,136 +1806,6 @@
    "answers": [
     {
      "alt": [
-      "Iambus"
-     ],
-     "answer": "Jambus"
-    },
-    {
-     "alt": [
-      "Trocheus"
-     ],
-     "answer": "Trochäus"
-    },
-    {
-     "alt": [
-      "Dacktylus",
-      "Dacktülus",
-      "Daktülus"
-     ],
-     "answer": "Daktylus"
-    },
-    {
-     "alt": [
-      "Annapäst",
-      "Anapest",
-      "Annapest"
-     ],
-     "answer": "Anapäst"
-    },
-    {
-     "alt": [
-      "Amfibrachys"
-     ],
-     "answer": "Amphibrachys"
-    },
-    {
-     "alt": [],
-     "answer": "Kretikus"
-    }
-   ],
-   "id": "TMP2-MM-15_de-DE",
-   "text": "Einer der zwei- und dreigliedrigen Versfüße",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "alt": [
-      "You Dont Know Jack",
-      "You Don’t Know Jack - Quiz Pack",
-      "You Dont Know Jack - Quiz Pack",
-      "YDKJ"
-     ],
-     "answer": "You Don’t Know Jack"
-    },
-    {
-     "alt": [
-      "You Dont Know Jack 2",
-      "You Don’t Know Jack - Special Edition",
-      "You Dont Know Jack - Special Edition",
-      "You Don’t Know Jack - Quiz Pack",
-      "You Dont Know Jack - Quiz Pack",
-      "YDKJ 2"
-     ],
-     "answer": "You Don’t Know Jack 2"
-    },
-    {
-     "alt": [
-      "TMP 2",
-      "Trivia Murderparty 2",
-      "Trivia Murder Party"
-     ],
-     "answer": "Trivia Murder Party 2"
-    },
-    {
-     "alt": [
-      "You Dont Know Jack 3",
-      "You Don’t Know Jack 3 - Abwärts",
-      "You Dont Know Jack - Abwärts",
-      "You Don’t Know Jack - Geschenkbox",
-      "You Dont Know Jack - Geschenkbox",
-      "YDKJ 3"
-     ],
-     "answer": "You Don’t Know Jack 3"
-    },
-    {
-     "alt": [
-      "You Dont Know Jack PlayStation",
-      "YDKJ PlayStation"
-     ],
-     "answer": "You Don’t Know Jack PlayStation"
-    },
-    {
-     "alt": [
-      "You Dont Know Jack 4",
-      "YDKJ 4"
-     ],
-     "answer": "You Don’t Know Jack 4"
-    },
-    {
-     "alt": [
-      "Quiplash InterLASHional"
-     ],
-     "answer": "Quiplash 2 InterLASHional"
-    },
-    {
-     "alt": [
-      "Drawful International"
-     ],
-     "answer": "Drawful 2 International"
-    },
-    {
-     "alt": [
-      "TKO",
-      "Tee KO"
-     ],
-     "answer": "TeeKO"
-    },
-    {
-     "alt": [],
-     "answer": "Quiplash 3"
-    }
-   ],
-   "id": "TMP2-MM-16_de-DE",
-   "text": "Ein Jackbox-Spiel, das 2022 auf Deutsch erschienen ist",
-   "us": true,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "alt": [
       "Kämpfer"
      ],
      "answer": "Krieger"
@@ -2079,7 +1844,7 @@
     },
     {
      "alt": [],
-     "answer": "Herbs"
+     "answer": "Herbst"
     },
     {
      "alt": [],
@@ -2096,50 +1861,6 @@
    "id": "TMP2-MM-18_de-DE",
    "text": "Eine Jahreszeit",
    "us": true,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "alt": [],
-     "answer": "Black Lotus"
-    },
-    {
-     "alt": [],
-     "answer": "Mox Pearl"
-    },
-    {
-     "alt": [],
-     "answer": "Mox Sapphire"
-    },
-    {
-     "alt": [],
-     "answer": "Mox Jet"
-    },
-    {
-     "alt": [],
-     "answer": "Mox Ruby"
-    },
-    {
-     "alt": [],
-     "answer": "Mox Emerald"
-    },
-    {
-     "alt": [],
-     "answer": "Time Walk"
-    },
-    {
-     "alt": [],
-     "answer": "Ancestral Recall"
-    },
-    {
-     "alt": [],
-     "answer": "Timetwister"
-    }
-   ],
-   "id": "TMP2-MM-19_de-DE",
-   "text": "Eine der „Power Nine”, den neun stärksten und wertvollsten Karten aus [i]Magic: The Gathering[/i]",
-   "us": false,
    "x": false
   },
   {
@@ -2500,47 +2221,6 @@
   {
    "answers": [
     {
-     "alt": [
-      "Washington"
-     ],
-     "answer": "George Washington"
-    },
-    {
-     "alt": [
-      "Lincoln",
-      "Abe Lincoln",
-      "Abraham Lincon",
-      "Lincon"
-     ],
-     "answer": "Abraham Lincoln"
-    },
-    {
-     "alt": [
-      "Jefferson",
-      "Tomas Jefferson",
-      "Thom Jefferson",
-      "Tom Jefferson"
-     ],
-     "answer": "Thomas Jefferson"
-    },
-    {
-     "alt": [
-      "Roosevelt",
-      "Theodore Roosvelt",
-      "Roosvelt",
-      "Teddy Roosevelt"
-     ],
-     "answer": "Theodore Roosevelt"
-    }
-   ],
-   "id": "TMP2-MM-6_de-DE",
-   "text": "Eines der Gesichter am Mount Rushmore",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
      "alt": [],
      "answer": "Q"
     },
@@ -2631,43 +2311,6 @@
    ],
    "id": "TMP2-MM-8_de-DE",
    "text": "Einer der Vornamen der Familienmitglieder der [i]Simpsons[/i]",
-   "us": false,
-   "x": false
-  },
-  {
-   "answers": [
-    {
-     "alt": [
-      "Nationel",
-      "Neschenel",
-      "Nationale"
-     ],
-     "answer": "National"
-    },
-    {
-     "alt": [
-      "Aeronautiks",
-      "Äronautics",
-      "Äronautiks",
-      "Aeronautisch",
-      "Aeronautische"
-     ],
-     "answer": "Aeronautics"
-    },
-    {
-     "alt": [],
-     "answer": "Space"
-    },
-    {
-     "alt": [
-      "Admin",
-      "Adminestration"
-     ],
-     "answer": "Administration"
-    }
-   ],
-   "id": "TMP2-MM-9_de-DE",
-   "text": "Ein Wort, für das die Buchstaben aus „NASA” stehen",
    "us": false,
    "x": false
   }
