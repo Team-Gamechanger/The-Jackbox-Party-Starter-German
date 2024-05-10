@@ -1,0 +1,564 @@
+{
+ "content": [
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Hey Jude[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Let It Be[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Imagine[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]All My Loving[/i]"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "55325_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "Was ist das erste Lied, das die Beatles jemals live im amerikanischen Fernsehen spielten?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "[i]Dumbo[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Dornröschen[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Susi und Strolch[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]101 Dalmatiner[/i]"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "55329_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "Du hast immer erzählt, dass du nur ein einziges Mal in deinem Leben geweint hast. 1952, bei einem Disneyfilm der gerade in den deutschen Kinos anlief. Welcher Film war das, Mutter?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "McDonald’s"
+    },
+    {
+     "correct": true,
+     "text": "KFC"
+    },
+    {
+     "correct": false,
+     "text": "Pizza Hut"
+    },
+    {
+     "correct": false,
+     "text": "Subway"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "55346_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "Womit hast du meinen Bruder damals, 1969, anstelle von Babynahrung gefüttert?",
+   "us": true,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Borussia Dortmund"
+    },
+    {
+     "correct": false,
+     "text": "FC St. Pauli"
+    },
+    {
+     "correct": true,
+     "text": "FC Bayern München"
+    },
+    {
+     "correct": false,
+     "text": "FC Augsburg"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "55347_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "Sag mir, Mutter ... Von welchem Fußballverein war Oma damals 1905 schon erbitterter Fan?",
+   "us": true,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Ravensburger"
+    },
+    {
+     "correct": true,
+     "text": "Haba"
+    },
+    {
+     "correct": false,
+     "text": "Hasbro"
+    },
+    {
+     "correct": false,
+     "text": "Bandai"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "55362_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "Mutter, welche Marke stellt die pädagogisch wertvollen Kinderspiele aus Holz her, die du mir immer verboten hast?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "[i]Der Exorzist[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Shining[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Die Fliege[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Das Ding aus einer anderen Welt[/i]"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "55375_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "Du hast damals einen deiner Stöckelschuhe auf den Fernseher geworfen, Mutter, als welcher Film bei den Oscars 1974 nicht als bester Film ausgezeichnet wurde?",
+   "us": true,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Neil Armstrong"
+    },
+    {
+     "correct": false,
+     "text": "John Glenn"
+    },
+    {
+     "correct": true,
+     "text": "Yuri A. Gagarin"
+    },
+    {
+     "correct": false,
+     "text": "Valentina Vladimirovna Tereshkova"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "55437_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "In einer sternenklaren Nacht 1961 zeigtest du in den Himmel und sagtest, mein echter Vater sei dort oben. Das würde bedeuten, dass wer mein Vater ist?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "„Ich hab so getan, als sei ich eine Medizinerin!”"
+    },
+    {
+     "correct": true,
+     "text": "„Ich hab so getan, als hätte ich einen Ehrendoktor!”"
+    },
+    {
+     "correct": false,
+     "text": "„Ich hab so getan, als sei ich eine Psychologin!”"
+    },
+    {
+     "correct": false,
+     "text": "„Ich hab so getan, als hätte ich einen Doktor mit Lehrerlaubnis!”"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "55445_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "Ich musste dich immer Dr. h. c. Mutter nennen! Was soll das überhaupt bedeuten?!",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "die Pikkönigin"
+    },
+    {
+     "correct": false,
+     "text": "die Karokönigin"
+    },
+    {
+     "correct": false,
+     "text": "die Kreuzkönigin"
+    },
+    {
+     "correct": true,
+     "text": "die Herzkönigin"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "55475_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "Wenn du mir Gutenachtgeschichten vorgelesen hast, hast du immer manisch angefangen zu lachen, wenn welche Figur aus [i]Alice im Wunderland[/i] nach einer Enthauptung verlangt hat?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "1 Mark"
+    },
+    {
+     "correct": false,
+     "text": "65 Pfennig"
+    },
+    {
+     "correct": false,
+     "text": "20 Pfennig"
+    },
+    {
+     "correct": true,
+     "text": "95 Pfennig"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "55477_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "Wieviel hat noch mal ein Hamburger gekostet, als wir damals 1971 in der ersten deutschen McDonald’s-Filiale waren?",
+   "us": true,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "souriceau"
+    },
+    {
+     "correct": false,
+     "text": "serpent venimeux"
+    },
+    {
+     "correct": false,
+     "text": "chameau"
+    },
+    {
+     "correct": false,
+     "text": "cheval"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "55588_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "Wie hast du mich als Baby immer genannt? Du weißt schon, das französische Wort für „Mäuschen”?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "in einem Konzertflügel"
+    },
+    {
+     "correct": false,
+     "text": "in einem Cello"
+    },
+    {
+     "correct": false,
+     "text": "in einem riesigen Cembalo"
+    },
+    {
+     "correct": true,
+     "text": "in einem ganz normalen Sarg"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "55589_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "Du hast uns immer gesagt, du möchtest „genau wie Beethoven” begraben werden. Wie war das noch mal?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Kreis"
+    },
+    {
+     "correct": false,
+     "text": "Dreieck"
+    },
+    {
+     "correct": true,
+     "text": "Stern"
+    },
+    {
+     "correct": false,
+     "text": "Pyramide"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "56043_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "Mutter, welche Form hatte noch mal dieses Trilma-Spiel, das wir immer gespielt haben, wenn der Nebel aufzog?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Audrey Hepburn"
+    },
+    {
+     "correct": false,
+     "text": "Vivien Leigh"
+    },
+    {
+     "correct": true,
+     "text": "Joan Crawford"
+    },
+    {
+     "correct": false,
+     "text": "Lauren Bacall"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "56046_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "Mutter, du hast einmal den Herrn von der Reinigung angeschrien, weil er Drahtkleiderbügel benutzt hat. Welche ikonische Hollywoodschauspielerin war der Auslöser dafür?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "[i]Gilmore Girls[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Mann muss nicht sein[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Good Girls[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Grace & Frankie[/i]"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "56084_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "Du hast uns immer mit einem klassischen Mutter-Tochter-Gespann aus Stars Hollow verglichen. Aus welcher Serie hattest du das noch mal, Mutter?",
+   "us": true,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Pizza Hut"
+    },
+    {
+     "correct": false,
+     "text": "McDonald's"
+    },
+    {
+     "correct": false,
+     "text": "Subway"
+    },
+    {
+     "correct": true,
+     "text": "KFC"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "TMP2-END-20_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "Womit hast du meinen Bruder damals, 1969, anstelle von Babynahrung gefüttert?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "FC Bayern München"
+    },
+    {
+     "correct": false,
+     "text": "FC St. Pauli"
+    },
+    {
+     "correct": false,
+     "text": "Borussia Dortmund"
+    },
+    {
+     "correct": false,
+     "text": "FC Augsburg"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "TMP2-END-21_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "Sag mir, Mutter ... Von welchem Fußballverein war Oma damals 1905 schon erbitterter Fan?",
+   "us": true,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Das Ding aus einer anderen Welt[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Die Fliege[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Shining[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Der Exorzist[/i]"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "TMP2-END-22_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "Du hast damals einen deiner Stöckelschuhe auf den Fernseher geworfen, Mutter, als welcher Film bei den Oscars 1974 nicht als bester Film ausgezeichnet wurde?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "20 Pfennig"
+    },
+    {
+     "correct": false,
+     "text": "1 Mark"
+    },
+    {
+     "correct": true,
+     "text": "95 Pfennig"
+    },
+    {
+     "correct": false,
+     "text": "65 Pfennig"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "TMP2-END-23_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "Wieviel hat noch mal ein Hamburger gekostet, als wir damals 1971 in der ersten deutschen McDonald's-Filiale waren?",
+   "us": true,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "1284 mal"
+    },
+    {
+     "correct": false,
+     "text": "803 mal"
+    },
+    {
+     "correct": true,
+     "text": "551 mal"
+    },
+    {
+     "correct": false,
+     "text": "112 mal"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "TMP2-END-24_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "Als du mich damals im Petersdom bei jeder Stufe gezwungen hast, „Entschuldigung, Mutter” zu sagen, wie oft habe ich mich da bei dir entschuldigt?",
+   "us": false,
+   "x": false
+  }
+ ]
+}

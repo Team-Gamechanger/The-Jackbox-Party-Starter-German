@@ -1,0 +1,452 @@
+{
+ "content": [
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Arnold Schwarzenegger"
+    },
+    {
+     "correct": false,
+     "text": "Bruce Willis"
+    },
+    {
+     "correct": true,
+     "text": "Harrison Ford"
+    },
+    {
+     "correct": false,
+     "text": "Chevy Chase"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "55722_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Wer spielte Indiana Jones?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Sauerstoff"
+    },
+    {
+     "correct": false,
+     "text": "Wasserstoff"
+    },
+    {
+     "correct": true,
+     "text": "Eisen"
+    },
+    {
+     "correct": false,
+     "text": "Helium"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "55723_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Welcher dieser Stoffe ist ein Metall?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Mexico"
+    },
+    {
+     "correct": false,
+     "text": "El Salvador"
+    },
+    {
+     "correct": true,
+     "text": "Brasilien"
+    },
+    {
+     "correct": false,
+     "text": "Haiti"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "55724_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Welches dieser Länder liegt in Südamerika?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "8 Zoll"
+    },
+    {
+     "correct": false,
+     "text": "10 Zoll"
+    },
+    {
+     "correct": true,
+     "text": "12 Zoll"
+    },
+    {
+     "correct": false,
+     "text": "24 Zoll"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "55725_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Wie lang ist ein Fuß?",
+   "us": true,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Sting"
+    },
+    {
+     "correct": true,
+     "text": "Beyoncé"
+    },
+    {
+     "correct": false,
+     "text": "Prince"
+    },
+    {
+     "correct": false,
+     "text": "Eminem"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "55726_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Wer sang „Single Ladies”?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "14. Feb"
+    },
+    {
+     "correct": false,
+     "text": "1. Mai"
+    },
+    {
+     "correct": true,
+     "text": "31. Okt"
+    },
+    {
+     "correct": false,
+     "text": "1. Nov"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "55729_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Wann ist Halloween?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "den Monstern"
+    },
+    {
+     "correct": true,
+     "text": "den Raben"
+    },
+    {
+     "correct": false,
+     "text": "dem Nichts"
+    },
+    {
+     "correct": false,
+     "text": "dem Sumpf"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "55743_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Von wem könnte der Reiter im Kinderreim „Hoppe, hoppe Reiter” gefressen werden?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "4"
+    },
+    {
+     "correct": false,
+     "text": "3"
+    },
+    {
+     "correct": false,
+     "text": "2"
+    },
+    {
+     "correct": true,
+     "text": "1"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "55822_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Was ist die Wurzel von 1?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Mond"
+    },
+    {
+     "correct": false,
+     "text": "Mars"
+    },
+    {
+     "correct": false,
+     "text": "Sonne"
+    },
+    {
+     "correct": false,
+     "text": "Milchstraße"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "55823_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Welcher Himmelskörper kreist um die Erde?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Löwe"
+    },
+    {
+     "correct": false,
+     "text": "Reh"
+    },
+    {
+     "correct": false,
+     "text": "Giraffe"
+    },
+    {
+     "correct": false,
+     "text": "Schaf"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "55824_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Welches dieser Tiere frisst andere Tiere?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Killerrobbe"
+    },
+    {
+     "correct": true,
+     "text": "Killerwal"
+    },
+    {
+     "correct": false,
+     "text": "Killerhund"
+    },
+    {
+     "correct": false,
+     "text": "Killerbiene"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "55961_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Welches Tier kommt im Film [i]Free Willy[/i] vor?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Tiger"
+    },
+    {
+     "correct": true,
+     "text": "Giraffe"
+    },
+    {
+     "correct": false,
+     "text": "Pinguin"
+    },
+    {
+     "correct": false,
+     "text": "Dosenschildkröte"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "55993_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Welches dieser Tiere hat den längsten Hals?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "ein Hund"
+    },
+    {
+     "correct": false,
+     "text": "eine Katze"
+    },
+    {
+     "correct": false,
+     "text": "eine Schlange"
+    },
+    {
+     "correct": true,
+     "text": "ein Pferd"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "55998_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Wer gewann 2007 das Kentucky Derby?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "der Mond"
+    },
+    {
+     "correct": true,
+     "text": "die Sonne"
+    },
+    {
+     "correct": false,
+     "text": "die Erde"
+    },
+    {
+     "correct": false,
+     "text": "der Pluto"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "56006_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Welcher dieser Himmelskörper ist ein Zwergstern?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Luke Skywalker"
+    },
+    {
+     "correct": true,
+     "text": "C-3PO"
+    },
+    {
+     "correct": false,
+     "text": "Han Solo"
+    },
+    {
+     "correct": false,
+     "text": "Prinzessin Leia"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "56007_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Welche dieser Figuren ist ein Roboter?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "8 Zoll"
+    },
+    {
+     "correct": false,
+     "text": "24 Zoll"
+    },
+    {
+     "correct": true,
+     "text": "12 Zoll"
+    },
+    {
+     "correct": false,
+     "text": "10 Zoll"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "TMP2-END-19_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Wie lang ist ein Fuß?",
+   "us": false,
+   "x": false
+  }
+ ]
+}

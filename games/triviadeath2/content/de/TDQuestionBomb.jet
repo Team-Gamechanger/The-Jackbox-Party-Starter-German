@@ -1,0 +1,516 @@
+{
+ "content": [
+  {
+   "choices": [
+    {
+     "controllerClass": "yellow",
+     "correct": false,
+     "text": "gelb"
+    },
+    {
+     "controllerClass": "blue",
+     "correct": false,
+     "text": "blau"
+    },
+    {
+     "controllerClass": "green",
+     "correct": true,
+     "text": "grün"
+    },
+    {
+     "controllerClass": "white",
+     "correct": false,
+     "text": "weiß"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "55351_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Im Leitfaden steht: „Den smaragdfarbenen Draht durchtrennen.”",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "controllerClass": "yellow",
+     "correct": false,
+     "text": "gelb"
+    },
+    {
+     "controllerClass": "blue",
+     "correct": false,
+     "text": "blau"
+    },
+    {
+     "controllerClass": "red",
+     "correct": false,
+     "text": "rot"
+    },
+    {
+     "controllerClass": "green",
+     "correct": true,
+     "text": "grün"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "55457_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Da steht: „Durchtrennen Sie den Draht, der eine Primärfarbe der Lichtfarben ist, aber keine Primärfarbe der Körperfarben.”",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "controllerClass": "red",
+     "correct": false,
+     "text": "rot"
+    },
+    {
+     "controllerClass": "orange",
+     "correct": false,
+     "text": "orange"
+    },
+    {
+     "controllerClass": "green",
+     "correct": true,
+     "text": "grün"
+    },
+    {
+     "controllerClass": "blue",
+     "correct": false,
+     "text": "blau"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "55745_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Da steht: „Couper le fil vert.”",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "controllerClass": "yellow",
+     "correct": false,
+     "text": "gelb"
+    },
+    {
+     "controllerClass": "green",
+     "correct": false,
+     "text": "grün"
+    },
+    {
+     "controllerClass": "white",
+     "correct": false,
+     "text": "weiß"
+    },
+    {
+     "controllerClass": "purple",
+     "correct": true,
+     "text": "lila"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "55827_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Da steht, der richtige Draht hätte dieselbe Farbe wie die Blüten der Glyzine.",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "controllerClass": "yellow",
+     "correct": false,
+     "text": "gelb"
+    },
+    {
+     "controllerClass": "blue",
+     "correct": false,
+     "text": "blau"
+    },
+    {
+     "controllerClass": "red",
+     "correct": true,
+     "text": "rot"
+    },
+    {
+     "controllerClass": "white",
+     "correct": false,
+     "text": "weiß"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "55875_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Da steht: „Durchtrennen Sie den Draht in der Farbe eines traditionellen chinesischen Hochzeitskleides.”",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "controllerClass": "black",
+     "correct": true,
+     "text": "schwarz"
+    },
+    {
+     "controllerClass": "green",
+     "correct": false,
+     "text": "grün"
+    },
+    {
+     "controllerClass": "red",
+     "correct": false,
+     "text": "rot"
+    },
+    {
+     "controllerClass": "blue",
+     "correct": false,
+     "text": "blau"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "55877_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Man soll wohl den „rappenfarbenen” Draht durchschneiden.",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "controllerClass": "red",
+     "correct": false,
+     "text": "rot"
+    },
+    {
+     "controllerClass": "green",
+     "correct": true,
+     "text": "grün"
+    },
+    {
+     "controllerClass": "yellow",
+     "correct": false,
+     "text": "gelb"
+    },
+    {
+     "controllerClass": "blue",
+     "correct": false,
+     "text": "blau"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "55905_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Da steht: „Durchtrennen Sie den Draht in der Farbe des Zeitsteins aus [i]Avengers: Infinity War[/i].”",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "controllerClass": "red",
+     "correct": false,
+     "text": "rot"
+    },
+    {
+     "controllerClass": "green",
+     "correct": false,
+     "text": "grün"
+    },
+    {
+     "controllerClass": "yellow",
+     "correct": false,
+     "text": "gelb"
+    },
+    {
+     "controllerClass": "blue",
+     "correct": true,
+     "text": "blau"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "55908_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Da steht: „Durchtrennen Sie den Draht, für den sich Pablo Picasso von 1901 bis 1904 entschieden hätte.”",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "controllerClass": "red",
+     "correct": false,
+     "text": "rot"
+    },
+    {
+     "controllerClass": "green",
+     "correct": false,
+     "text": "grün"
+    },
+    {
+     "controllerClass": "yellow",
+     "correct": true,
+     "text": "gelb"
+    },
+    {
+     "controllerClass": "blue",
+     "correct": false,
+     "text": "blau"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "55910_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Da steht nur: „Schneiden Sie den Draht durch, der dieselbe Farbe hat wie der Pulli vom Pumuckl.”",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "controllerClass": "yellow",
+     "correct": false,
+     "text": "gelb"
+    },
+    {
+     "controllerClass": "green",
+     "correct": false,
+     "text": "grün"
+    },
+    {
+     "controllerClass": "blue",
+     "correct": true,
+     "text": "blau"
+    },
+    {
+     "controllerClass": "red",
+     "correct": false,
+     "text": "rot"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "55972_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Da steht: „Durchtrennen Sie den Draht in derselben Farbe wie die Schlossallee bei Monopoly.”",
+   "us": true,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "controllerClass": "red",
+     "correct": true,
+     "text": "rot"
+    },
+    {
+     "controllerClass": "green",
+     "correct": false,
+     "text": "grün"
+    },
+    {
+     "controllerClass": "yellow",
+     "correct": false,
+     "text": "gelb"
+    },
+    {
+     "controllerClass": "blue",
+     "correct": false,
+     "text": "blau"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "55990_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Da steht: „Schneiden Sie den Draht in der Farbe durch, die auch der Name von Morgan Freemans Figur in [i]Die Verurteilten[/i] ist.”",
+   "us": true,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "controllerClass": "green",
+     "correct": false,
+     "text": "grün"
+    },
+    {
+     "controllerClass": "red",
+     "correct": true,
+     "text": "rot"
+    },
+    {
+     "controllerClass": "black",
+     "correct": false,
+     "text": "schwarz"
+    },
+    {
+     "controllerClass": "blue",
+     "correct": false,
+     "text": "blau"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "56021_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Da steht, man soll den Draht durchschneiden, der an derselben Stelle in der Reihe ist, wie [i]Die Kammer des Schreckens[/i] bei den „Harry Potter”-Büchern.",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "controllerClass": "red",
+     "correct": true,
+     "text": "rot"
+    },
+    {
+     "controllerClass": "black",
+     "correct": false,
+     "text": "schwarz"
+    },
+    {
+     "controllerClass": "green",
+     "correct": false,
+     "text": "grün"
+    },
+    {
+     "controllerClass": "blue",
+     "correct": false,
+     "text": "blau"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "57030_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Da steht: „Durchtrennen Sie den präantevorletzten Draht.”",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "controllerClass": "white",
+     "correct": false,
+     "text": "weiß"
+    },
+    {
+     "controllerClass": "red",
+     "correct": false,
+     "text": "rot"
+    },
+    {
+     "controllerClass": "blue",
+     "correct": true,
+     "text": "blau"
+    },
+    {
+     "controllerClass": "green",
+     "correct": false,
+     "text": "grün"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "57031_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Da steht, man soll den Tertiärdraht durchtrennen.",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "controllerClass": "red",
+     "correct": false,
+     "text": "rot"
+    },
+    {
+     "controllerClass": "green",
+     "correct": false,
+     "text": "grün"
+    },
+    {
+     "controllerClass": "blue",
+     "correct": true,
+     "text": "blau"
+    },
+    {
+     "controllerClass": "yellow",
+     "correct": false,
+     "text": "gelb"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "TMP2-END-1_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Da steht: „Durchtrennen Sie den Draht in derselben Farbe wie die Schlossallee bei Monopoly.”",
+   "us": true,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "controllerClass": "green",
+     "correct": false,
+     "text": "grün"
+    },
+    {
+     "controllerClass": "yellow",
+     "correct": false,
+     "text": "gelb"
+    },
+    {
+     "controllerClass": "blue",
+     "correct": false,
+     "text": "blau"
+    },
+    {
+     "controllerClass": "red",
+     "correct": true,
+     "text": "rot"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "TMP2-END-2_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Da steht: „Schneiden Sie den Draht in der Farbe durch, die auch der Name von Morgan Freemans Figur in [i]Die Verurteilten[/i] ist.” Den Film wollte ich immer mal sehen. Ich hoffe, Sie können damit was anfangen.",
+   "us": false,
+   "x": false
+  }
+ ]
+}

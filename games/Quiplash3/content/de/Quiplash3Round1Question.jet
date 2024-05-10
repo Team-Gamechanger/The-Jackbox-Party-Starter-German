@@ -1,0 +1,6134 @@
+{
+ "content": [
+  {
+   "id": "101_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Man kann wirklich nie genügend <BLANK> haben",
+   "response": null,
+   "safetyQuips": [
+    "Ladekabel",
+    "Familienfehden",
+    "Gründe zum Drinnenbleiben"
+   ]
+  },
+  {
+   "id": "102_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Du weißt, dass ein Restaurant schlecht ist, wenn der Kellner sagt: „<BLANK>”",
+   "response": null,
+   "safetyQuips": [
+    "Psst. Der Supermarkt gegenüber hat noch offen.",
+    "Willst du dir mein Mixtape anhören?",
+    "Lauft. LAUFT!!!"
+   ]
+  },
+  {
+   "id": "103_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Der Horrorfilm war echt gruselig. Bis sich rausstellt: der Killer ist <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "die Gesellschaft",
+    "eine glitschige Bananenschale",
+    "ein ganz gewöhnliches Pferd"
+   ]
+  },
+  {
+   "id": "107_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Wie würdest du dein ANTI-soziales Netzwerk nennen?",
+   "response": null,
+   "safetyQuips": [
+    "Käsbook",
+    "Instabäm",
+    "Studi-VZ"
+   ]
+  },
+  {
+   "id": "109_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ein altmodischer Kraftausdruck, den niemand mehr benutzt",
+   "response": null,
+   "safetyQuips": [
+    "Kruzitutzi",
+    "Pipperlapopp",
+    "Verflaumt noch eins"
+   ]
+  },
+  {
+   "id": "127_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Was sollte man bei einem Marathon besser nicht tragen?",
+   "response": null,
+   "safetyQuips": [
+    "einen kuschligen Kaftan",
+    "Sandpapier-Socken",
+    "seine Gegner"
+   ]
+  },
+  {
+   "id": "128_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Deinen Fischen ist langweilig! Vielleicht freuen sie sich über <BLANK> in ihrem Aquarium",
+   "response": null,
+   "safetyQuips": [
+    "einen kleinen Komiker",
+    "ein Nintendo 64",
+    "ein WAS-IST-WAS-Buch"
+   ]
+  },
+  {
+   "id": "130_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "In unserer Familie nennen wir Oma und Opa <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "den Feind",
+    "Wodka-Waltraut und Hans",
+    "Dr. und Herr Schulz"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "148_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "„Pokémon-Trainer“ ist ein viel noblerer Job als „Pokémon-<BLANK>“",
+   "response": null,
+   "safetyQuips": [
+    "Abzocker",
+    "Häcksler",
+    "Therapeut"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "149_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "Bier",
+    "Biere",
+    "Schnaps",
+    "Alkohol",
+    "Sprit",
+    "Wein",
+    "Whiskey",
+    "Scotch",
+    "Tequila",
+    "Gin",
+    "Wodka",
+    "Rum"
+   ],
+   "prompt": "Archälogen verheimlichen uns, dass sie Höhlenmalereien hiervon gefunden haben",
+   "response": "Na sowas. Sind die in meinem Keller gewesen?",
+   "safetyQuips": [
+    "erstes Sandwich",
+    "Endbenutzerlizenzabkommen",
+    "unser hässlichster Vorfahre"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "154_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ein sicheres Zeichen dafür, dass du keinen Bauernhof haben solltest",
+   "response": null,
+   "safetyQuips": [
+    "Getreidespeicher voller Smarties",
+    "Im Smoking deinen Trecker fahren",
+    "Mistgabel als Zahnstocher verwenden"
+   ]
+  },
+  {
+   "id": "15_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Was Katzen heimlich tun, wenn wir nicht hinsehen",
+   "response": null,
+   "safetyQuips": [
+    "Aktienspekulation",
+    "Ausnahmsweise was interessantes",
+    "Rührei zubereiten"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "160_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Was deine Spielzeuge aus der Kindheit sagen würden, wenn sie zum Leben erwachten",
+   "response": null,
+   "safetyQuips": [
+    "Du bist widerwärtig",
+    "Ich dachte, das mit uns wär was Besonderes",
+    "Warum? Nur für den Kick, den Augenblick?"
+   ]
+  },
+  {
+   "id": "162_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Das schlimmste Restaurant: Der <BLANK> King",
+   "response": null,
+   "safetyQuips": [
+    "Butter",
+    "Grünkohl",
+    "Keine-Seife-auf-den-Klos"
+   ]
+  },
+  {
+   "id": "183_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Du weißt, dass die Party richtig losgeht, wenn jemand mit <BLANK> aufkreuzt",
+   "response": null,
+   "safetyQuips": [
+    "Emotionalem Gepäck",
+    "lauwarmem Dip",
+    "Zahnarztlätzchen"
+   ]
+  },
+  {
+   "id": "189_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "Scheiße",
+    "Haufen",
+    "Häufchen",
+    "Scheißhaufen",
+    "Kacke",
+    "Kackhaufen",
+    "Ködel",
+    "Kackwurst"
+   ],
+   "prompt": "Das Rubbellos wird nicht viel Gewinn ausschütten, wenn man drei mal <BLANK> freirubbelt",
+   "response": "Ein untrügliches Zeichen, dass man in der Scheiße steckt",
+   "safetyQuips": [
+    "Kartoffelschalen",
+    "löchrige Socken",
+    "Kirschkerne"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "id": "18_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "<ARTICLE> Hühnchen | Hühnchen",
+    "<ARTICLE> Huhn | Huhn",
+    "<ARTICLE> Geflügel | Geflügel"
+   ],
+   "prompt": "Wonach Schorf wahrscheinlich schmeckt",
+   "response": "Oh mein Gott, würg, das ist ekelhaft! Es weiß doch jeder, dass er nach Käsebällchen schmeckt!",
+   "safetyQuips": [
+    "Maiskörner",
+    "Krebsfleisch",
+    "Karamellbonbons"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "190_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Wofür man Grünkohl überraschenderweise noch verwenden kann",
+   "response": null,
+   "safetyQuips": [
+    "Wundverbände",
+    "Scherenschnitte",
+    "Flugbenzin"
+   ]
+  },
+  {
+   "id": "191_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Kaum zu glauben, die Kids sind ganz verrückt nach <BLANK>-Sammelkarten",
+   "response": null,
+   "safetyQuips": [
+    "FDP",
+    "Katzenfutter",
+    "Mathe"
+   ]
+  },
+  {
+   "id": "194_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Der Name eines Musikfestivals, auf das dich deine Eltern gehen lassen würden",
+   "response": null,
+   "safetyQuips": [
+    "Fahrstuhlmusikfest",
+    "Singen mit dem Heiland",
+    "Um Elf Zuhause"
+   ],
+   "x": false
+  },
+  {
+   "id": "196_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "Furz",
+    "Fürze"
+   ],
+   "prompt": "Was schlägt Stein, Papier UND Schere?",
+   "response": "Ja. Eindeutig. Fürze hüllen Steine ein, verbiegen Papier und lassen Scheren rosten. Duft gewordene Perfektion.",
+   "safetyQuips": [
+    "Eiterzotten",
+    "das menschliche Herz",
+    "Blendgranate"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "200_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Nach Tall, Grande und Venti kommt jetzt Starbucks’ nächste Bechergröße: <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "Hyperventi",
+    "Mikro, gegen Aufpreis",
+    "Eimer"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "204_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Das netteste Kompliment, das Du einer Schlange machen kannst",
+   "response": null,
+   "safetyQuips": [
+    "Du sieht heute besonders schuppig aus",
+    "Wer so den Kiefer ausrenkt, kriegt da bestimmt alles rein",
+    "Schüttel deine Klapper für mich, Baby."
+   ]
+  },
+  {
+   "id": "209_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "<PRONOUN> Mama | Mama",
+    "<PRONOUN> Mamas | Mamas",
+    "<PRONOUN> Mutter | Mutter",
+    "<PRONOUN> Mütter | Mütter",
+    "<PRONOUN> Eltern | Eltern",
+    "<PRONOUN> Mamma | Mamma",
+    "<PRONOUN> Papa | Papa",
+    "<PRONOUN> Papas | Papas",
+    "<PRONOUN> Vater | Vater",
+    "<PRONOUN> Väter | Väter"
+   ],
+   "prompt": "Es gibt eine kleine Gruppe Menschen, die sich bei Vollmond in <BLANK> verwandeln",
+   "response": "Und dann werden sie plötzlich TOTAL sauer auf sich selber, weil sie sich so selten melden.",
+   "safetyQuips": [
+    "echte Fieslinge",
+    "Wowölfe",
+    "ihre jüngeren Ichs"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "215_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ein abgelehnter Werbespruch für Milch",
+   "response": null,
+   "safetyQuips": [
+    "Famose Laktose!",
+    "Richtig gut für die Knochen",
+    "Babies schwören drauf"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "220_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "furzt",
+    "Furzgeräusche macht",
+    "furzen kann",
+    "Blähungen absondert",
+    "auf Befehl furzt"
+   ],
+   "prompt": "Nichts ist erotischer als ein hochgewachsener, muskulöser Kerl, der weiß, wie man <BLANK>",
+   "response": "Oh, hallo auch. Ich heiße Schmitty. (furzt) Kann ich Dir was zu Trinken ausgeben?",
+   "safetyQuips": [
+    "seinen eigenen Gaming-PC zusammenbaut",
+    "emotional zugänglich bleibt",
+    "gut Overalls tragen kann"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "id": "23_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "Schokolade | Schoko | Schoki",
+    "Schokoladensauce | Schokoladensoße",
+    "Schokoriegel | Schokoriegeln",
+    "Schokosauce | Schokosoße"
+   ],
+   "prompt": "Wenn du ein Planet wärst, dann wäre sein Kern aus <BLANK>",
+   "response": "Dann wären die Vulkane ja wie ... riesige Schokofondues! Das nenne ich mal eine Geschäftsidee. Weißt du was? Den kriegst du. Gern geschehen.",
+   "safetyQuips": [
+    "Nachos",
+    "Angstzustände",
+    "Das Zeug aus dem Pringles sind"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "243_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Der Name eines Preises für die mittelmäßigsten Filme des Jahres",
+   "response": null,
+   "safetyQuips": [
+    "Die Geht-Sos",
+    "Die So-la-las"
+   ]
+  },
+  {
+   "id": "244_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "In einer Beziehung sollte man nie zorning zu Bett gehen und nie <BLANK> aufwachen",
+   "response": null,
+   "safetyQuips": [
+    "als Werwolf",
+    "zusammen mit deinem Hund",
+    "woanders"
+   ]
+  },
+  {
+   "id": "246_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "<PRONOUN> Bier | Bier",
+    "<PRONOUN> Biere | Biere",
+    "Bier <VERB> | Bier",
+    "<PRONOUN> Ale | Ale",
+    "<PRONOUN> Lager | Lager",
+    "<PRONOUN> Hefeweizen | Hefeweizen",
+    "<PRONOUN> Craftbier | Craftbier",
+    "Ale <VERB> | Ale",
+    "Lager <VERB> | Lager",
+    "<PRONOUN> Bierchen | Bierchen"
+   ],
+   "prompt": "Er steht einfach nicht auf dich ... sondern auf <BLANK>",
+   "response": "Hör mal, er steht einfach auf Bier. Was will man da machen! Du kannst ihn nicht ändern! Lass nicht zu, dass er dein Herz bricht!",
+   "safetyQuips": [
+    "Sportfischen",
+    "gleichschenklige Dreiecke",
+    "Briefmarken sammeln"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "249_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Kaum zu glauben, bei Madame Tussauds steht jetzt eine Wachsfigur von <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "Horst Lichters Schnauzer",
+    "dir, wie du gerade zu Hause sitzt",
+    "deinem künftigen Ehemann"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "250_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Mit welchen Worten man eine Gruselgeschichte wirklich nicht abschließen sollte",
+   "response": null,
+   "safetyQuips": [
+    "Der Mörder wurde wegen guter Führung vorzeitig aus der Haft entlassen",
+    "Das eigentliche Monster war nämlich die Gesellschaft",
+    "Vielen Dank für Ihr Interesse an meiner Bewerbung"
+   ]
+  },
+  {
+   "id": "252_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Die absolut dümmste Frage, die man in eine Suchmaschine eingeben kann",
+   "response": null,
+   "safetyQuips": [
+    "worauf hab ich appetit?",
+    "was ist meine Lieblingsfarbe?",
+    "Wieso geht die Sonne auf?"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "253_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Wofür du deine ganzen alten CDs wunderbar verwenden kannst",
+   "response": null,
+   "safetyQuips": [
+    "als aufdringliche Ohrringe",
+    "um die ganzen Hits der 90er zu genießen",
+    "Krasse Untersetzer"
+   ]
+  },
+  {
+   "id": "255_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "Fürzen",
+    "Furzen"
+   ],
+   "prompt": "Der schlimmste Satz, um Schluss zu machen: Es liegt nicht an Dir, sondern an <BLANK>",
+   "response": "Aber WESSEN Fürze denn? Deine Fürze? Deren Fürze? Eure gemeinsamen Fürze? Ich habe so viele Fragen.",
+   "safetyQuips": [
+    "deinem geileren Freund",
+    "meinen gestiegenen Ansprüchen",
+    "... ich glaube, es liegt doch an dir"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "257_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Es wäre gruselig, wenn du ein Bild von <BLANK> über dem Bett hängen hättest",
+   "response": "",
+   "safetyQuips": [
+    "Count Dooku",
+    "Mr. Hanky dem Weihnachtskot",
+    "deinem verstorbenen Haustier"
+   ]
+  },
+  {
+   "id": "260_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "Kack",
+    "Kacke",
+    "Kacki",
+    "Kacko",
+    "Wursti",
+    "Würstchen",
+    "Haufi",
+    "Häufchen",
+    "Scheißi",
+    "Scheißbert",
+    "Großi",
+    "Großo",
+    "Stinki",
+    "Stinker"
+   ],
+   "prompt": "Ein süßer Kosename für deine Stuhlprobe",
+   "response": "Ach, wie schade, dass wir nicht nach der unkreativsten Antwort gesucht haben. Dann hättest du auf jeden Fall gewonnen.",
+   "safetyQuips": [
+    "Zug der Schmerzen",
+    "der braune Bus",
+    "miefi Bifi"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "id": "263_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ein sicheres Anzeichen dafür, dass Du in einem schrecklichen Albtraum gefangen bist",
+   "response": null,
+   "safetyQuips": [
+    "ausfallende Zähne",
+    "nicht mehr Fliegen können",
+    "Mit einem Igel löffeln"
+   ]
+  },
+  {
+   "id": "267_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Erst wünschte sich die kleine Meerjungfrau Beine und dann <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "Flip-Flops",
+    "die Scheidung",
+    "Beteiligung am Merchandise"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "268_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "Schokolade",
+    "Schokoladensauce | Schokoladensoße",
+    "Schokoriegel",
+    "Schokosauce | Schokosoße",
+    "Schoko",
+    "Schoki",
+    "Schoklade"
+   ],
+   "prompt": "Was jede Frau unter ihrem Pony versteckt",
+   "response": "Mit einem Happs sind die im Haar.",
+   "safetyQuips": [
+    "ein allsehendes drittes Auge",
+    "einen kleineren Pony",
+    "ein kleines Bugs Bunny Tattoo"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "271_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ein süßer Spitzname für deinen Hintern",
+   "response": null,
+   "safetyQuips": [
+    "Hüftschultern",
+    "tragbares Sitzkissen",
+    "Hinti Hinternheimer"
+   ],
+   "x": false
+  },
+  {
+   "id": "275_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ein Internetkommentar, den NOCH NIE jemand geschrieben hat",
+   "response": null,
+   "safetyQuips": [
+    "Ich stimme diesem Post voll und ganz zu.",
+    "Ich lass mich gern vom Gegenteil überzeugen.",
+    "Dazu hab ich keine Meinung."
+   ]
+  },
+  {
+   "id": "277_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Der schlimmste Name, den man im Zeugenschutzprogramm bekommen kann",
+   "response": null,
+   "safetyQuips": [
+    "G. Arnichtauffällig",
+    "Carola Schwumpfelduber",
+    "Jonathan Verstecktsichvordermafia"
+   ],
+   "us": true,
+   "x": false
+  },
+  {
+   "id": "27_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Der Spitzname für die Generation, die in zehn Jahren geboren werden wird",
+   "response": null,
+   "safetyQuips": [
+    "Baby Zoomers",
+    "Generation Ex-Natur",
+    "Dörte"
+   ]
+  },
+  {
+   "id": "288_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Du weißt, dass du in eine wirklich unordentliche Person verliebt bist, wenn mitten im Wohnzimmer <BLANK> liegt",
+   "response": null,
+   "safetyQuips": [
+    "eine frische Kackwurst",
+    "hunderte Thunfischdosen"
+   ]
+  },
+  {
+   "id": "28_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Den zweiten Platz bei der diesjährigen Wahl zum Familienspiel des Jahres: „<BLANK> - Das Spiel”",
+   "response": null,
+   "safetyQuips": [
+    "Existenzangst",
+    "Aktienmarkt",
+    "Ein Stück Holz"
+   ]
+  },
+  {
+   "id": "296_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Der erotischste Fahrbetrieb im Freizeitpark: <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "Der Salto Koitale",
+    "Das Kopulations-Karussell",
+    "Pimperbahn XXX-TREEEEME"
+   ],
+   "x": true
+  },
+  {
+   "id": "309_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Der Name von Schneewittchens achtem Zwerg, dem Millenial",
+   "response": null,
+   "safetyQuips": [
+    "Techi",
+    "Emoji",
+    "Tiktoki"
+   ],
+   "us": true
+  },
+  {
+   "id": "313_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "„Morgenstund hat <BLANK>”",
+   "response": null,
+   "safetyQuips": [
+    "Mundgeruch im Mund",
+    "gar nix zu sagen!",
+    "meine Frisur zerstört"
+   ]
+  },
+  {
+   "id": "316_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Wenn du die Melodie eines Songs furzen könntest, wäre es die von <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "Über den Wolken",
+    "Every Breath You Take",
+    "99 Luftballons"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "323_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ein besserer Name für die Fernsehsendung [i]Friends[/i]",
+   "response": null,
+   "safetyQuips": [
+    "Schlecht Gealtert",
+    "Jeder mit Jedem",
+    "Leute in einem Café"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "326_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Das beste Verhütungsmittel ist <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "Händchen halten",
+    "wenn zwei Gesundheitsbeamte zuschauen",
+    "am Ohrläppchen knabbern"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "id": "32_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "<ARTICLE> Hühnchen | Hühnchen",
+    "<ARTICLE> Hähnchenbrust | Hähnchenbrust",
+    "Hünchen",
+    "Hänchen",
+    "<ARTICLE> Chicken Wings | Chicken Wings",
+    "<ARTICLE> Hähnchenschenkel | Hähnchenschenkel",
+    "<ARTICLE> Hähnchen Schenkel | Hähnchen Schenkel",
+    "<ARTICLE> Hühnchenschenkel | Hühnchenschenkel",
+    "<ARTICLE> Hühnchen Schenkel | Hühnchen Schenkel"
+   ],
+   "prompt": "Was das Krümelmonster isst, wenn niemand hinschaut",
+   "response": "Das Krümelmonster muss doch auch irgendwo sein Protein herkriegen!",
+   "safetyQuips": [
+    "Gemüsechips",
+    "Sellerie",
+    "Möhrchen"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "336_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Auf der Comic-Convention stichst du besonders hervor, wenn du dich als <BLANK> verkleidest",
+   "response": null,
+   "safetyQuips": [
+    "Imbissstand ohne Schlange",
+    "ganz normaler Mensch",
+    "jemand, der zu freizügig angezogen ist"
+   ]
+  },
+  {
+   "id": "341_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Stillleben wären viel interessanter, wenn in den Schüsseln <BLANK> wären",
+   "response": null,
+   "safetyQuips": [
+    "schicke Käfer",
+    "Karamellbonbons",
+    "Schatzkarten"
+   ]
+  },
+  {
+   "id": "351_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Die Show muss weitergehen! Außer im Publikum befindet sich <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "eine Zuckerwattemaschine",
+    "ein Pferd",
+    "zu viel Körpergeruch"
+   ]
+  },
+  {
+   "id": "352_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "kein Plan",
+    "<PRONOUN> weiß nicht | weiß nicht",
+    "nichts | nix",
+    "Gar nichts | Gar nix",
+    "Garnichts | Garnix",
+    "Wen interessierts",
+    "Das ist blöd",
+    "Das ist dumm",
+    "Langweilig",
+    "<PRONOUN> hab keine Ahnung | Hab keine Ahnung",
+    "<PRONOUN> hab keine Idee | Hab keine Idee",
+    "Mir egal | Ist mir egal"
+   ],
+   "prompt": "Das Schlimmste, was auf einer Fußmatte stehen könnte",
+   "response": "Ja, tolle Antwort. Richtig tolle Antwort. Echt, danke, dass du dir die Zeit genommen hast, das einzutippen. Das hat das Spielerlebnis für alle echt viel besser gemacht.",
+   "safetyQuips": [
+    "Wir sind die rechtmäßigen Eigentümer",
+    "Hallo für immer!",
+    "Bitte Füße ausziehen"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "353_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ein süßer Name für beeindruckende Koteletten",
+   "response": null,
+   "safetyQuips": [
+    "Backenmatten",
+    "Kieferriemchen",
+    "Wollwangen"
+   ],
+   "x": false
+  },
+  {
+   "id": "359_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Eine Hotelbewertung mit nur einem Stern: „Fürchterliche Matratze, keine Handtücher und <BLANK>”",
+   "response": null,
+   "safetyQuips": [
+    "jemand hat die Badewanne gestohlen",
+    "ein Loch in der Wand, statt einer Tür",
+    "ich musste mir das Bett mit dem Pagen teilen"
+   ]
+  },
+  {
+   "id": "360_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "Quiplash",
+    "Quiplash3",
+    "Quiplash 3",
+    "dieses Spiel",
+    "das Spiel, das wir spielen",
+    "Quiplash!",
+    "Quiplash 3!",
+    "Quiplash3!",
+    "wer hat Bock auf Quiplash?",
+    "Wer hat Bock auf Quiplash 3?"
+   ],
+   "prompt": "Man macht sich in einem Casino schnell unbeliebt, wenn man beim Blackjack schreit: „<BLANK>!”",
+   "response": "Ja, das stimmt leider. Sie hassen das, weil Quiplash so viel mehr Spaß macht! Für Blackjack muss man ja Mathe können. Aber für dieses Spiel musst du einen (piep) wissen. Oder? Was wollt ihr dagegen tun? (piep) euch, Casinos!",
+   "safetyQuips": [
+    "Kniffel",
+    "Ich kenn mich mit Spieltheorie aus",
+    "Hauptsache Alessio gehts gut"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "id": "36_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Der beste Name für eine Gang, die aus Müttern besteht",
+   "response": null,
+   "safetyQuips": [
+    "Die Warmanzieher",
+    "Kochen, Putzen, Schlitzen",
+    "Muttertagsbattalion"
+   ]
+  },
+  {
+   "id": "370_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Eine fantastische Sportart, die leider nie ganz angenommen wurde: Schlittschuh-<BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "Baumstammwerfen",
+    "Trampolinspringen"
+   ]
+  },
+  {
+   "id": "372_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Hier solltest du Mayonnaise niemals hinschmieren",
+   "response": null,
+   "safetyQuips": [
+    "unter Achseln",
+    "auf die Windschutzscheibe",
+    "in eine infizierte Wunde"
+   ]
+  },
+  {
+   "id": "373_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Das schlimmste Muster, das ein Sommerkleid haben kann",
+   "response": null,
+   "safetyQuips": [
+    "Blobfische",
+    "Dynamitstangen",
+    "Töpfe und Pfannen"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "374_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Selig sind die Sanftmütigen, denn sie werden <BLANK>",
+   "response": "",
+   "safetyQuips": [
+    "ein schönes Lexikon erben",
+    "künftig einen Tag mehr pro Woche frei kriegen",
+    "sich eine schöne Briefmarkensammlung zulegen"
+   ]
+  },
+  {
+   "id": "382_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ein Panini-Stickeralbum, das wirklich niemand braucht",
+   "response": null,
+   "safetyQuips": [
+    "Keramik-Clownsmasken",
+    "Ratten an Bahngleisen",
+    "völlige Dunkelheit"
+   ],
+   "x": false
+  },
+  {
+   "id": "386_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Was man keinesfalls als Ersatz für Konfetti benutzen sollte",
+   "response": null,
+   "safetyQuips": [
+    "BIENEN!",
+    "Reißzwecken",
+    "den Fahrzeugschein"
+   ]
+  },
+  {
+   "id": "391_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Wie schrecklich! Es gibt einen Kaktus, der zu seinem Schutz keine Nadeln hat, sondern <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "Chicken Nuggets",
+    "viele kleine Kakteen",
+    "Eiter"
+   ]
+  },
+  {
+   "id": "407_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Liebe Wissenschaftler, ihr könnt endlich Feierabend machen! Wir wissen genug über <BLANK>!",
+   "response": null,
+   "safetyQuips": [
+    "die ewige Leere des Weltalls",
+    "seltene Freundschaften unter Tieren",
+    "Ohrenschmalz"
+   ]
+  },
+  {
+   "id": "40_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ein fürchterlicher Name für ein selbstfahrendes Auto",
+   "response": null,
+   "safetyQuips": [
+    "Klippenspringer",
+    "Streuner",
+    "Rammbock"
+   ]
+  },
+  {
+   "id": "415_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Mit diesem Namen hebt sich deine Carsharing-Agentur garantiert von der Konkurrenz ab",
+   "response": null,
+   "safetyQuips": [
+    "Ruhige Fahrt",
+    "Clownautos-2-Go",
+    "Autos mit Flügeln"
+   ]
+  },
+  {
+   "id": "42_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "<PRONOUN> Mama | Mama",
+    "<PRONOUN> Mutter | Mutter",
+    "Mama ich hab dich lieb",
+    "<PRONOUN> Ma | Ma",
+    "<PRONOUN> Mamma | Mamma",
+    "Mama, Papa ich hab euch lieb",
+    "<PRONOUN> Eltern | Eltern",
+    "<PRONOUN> Papa | Papa",
+    "Papa ich hab dich lieb",
+    "<PRONOUN> Vater | Vater",
+    "<PRONOUN> Pa | Pa",
+    "<PRONOUN> Pappa | Pappa",
+    "<PRONOUN> Pappi | Pappi",
+    "<PRONOUN> Mami | Mami",
+    "<PRONOUN> Papi | Papi"
+   ],
+   "prompt": "Dein letzter Gedanke, bevor du aus dem Leben scheidest",
+   "response": "Ach, ist das nicht liebreizend? Jetzt hoffe ich echt, dass du gewinnst.",
+   "safetyQuips": [
+    "Oh, hubbsi",
+    "ich hätte mich öfter im Internet streiten sollen",
+    "Hoffentlich ist Gott heiß"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "431_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Du weißt, du hast Mist gebaut, wenn deine Mutter sagt: „Ich bin nicht wütend, ich <BLANK>”",
+   "response": null,
+   "safetyQuips": [
+    "bin völlig rasend!",
+    "gehe!",
+    "empfinde eigentlich gar nichts mehr"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "43_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Wenn du dieses Gericht mitbringst, wirst du zur nächsten Grillparty nicht mehr eingeladen",
+   "response": "",
+   "safetyQuips": [
+    "eine Handvoll Chilischoten",
+    "„essbare” Erfrischungstücher",
+    "eine Blutwurst für jeden"
+   ]
+  },
+  {
+   "id": "441_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Dein bester Anmachspruch für die Bibliothek",
+   "response": null,
+   "safetyQuips": [
+    "Soll ich dir den Buchrücken massieren?",
+    "Wer ist eigentlich dieser „Roman”?",
+    "Meine Liebe zu dir ist keine Fiktion"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "444_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ganz schön gewagt, wenn man jemandem einen Strauß <BLANK> zukommen lässt",
+   "response": null,
+   "safetyQuips": [
+    "Pringles",
+    "Weintrauben",
+    "Schlangen"
+   ]
+  },
+  {
+   "id": "445_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Welchen Satz man niemals aus einer Umkleidekabine hören will",
+   "response": null,
+   "safetyQuips": [
+    "Meine Fruchtblase ist geplatzt!",
+    "Ich hoffe, das wolltet ihr nicht zurück!",
+    "Diese Jogginghose schmeckt aber lecker!"
+   ]
+  },
+  {
+   "id": "507_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Du hasst den Valentinstag? Hier ist ein neuer Feiertag für dich: <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "Zocken im Keller Tag",
+    "Allein in der Kneipe Tag",
+    "Single und glücklich Tag"
+   ]
+  },
+  {
+   "id": "50_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Deine Mutter hat dich ein Tyrannenbaby genannt, weil du <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "im Kindergarten Steuern eingetrieben hast",
+    "regelmäßig dein Spielzeug hingerichtet hast",
+    "gegen die Genfer Konvention verstoßen hast"
+   ]
+  },
+  {
+   "id": "510_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Der Name einer Terminplaner-App, die sich niemand runterlädt",
+   "response": null,
+   "safetyQuips": [
+    "Vielleicht morgen",
+    "Fair-plant",
+    "Nur Mittwoche"
+   ]
+  },
+  {
+   "id": "515_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Familiengeheimnis! Oma versteckt ihr ganzes Geld in <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "den Konten anderer Leute",
+    "ihrem Motorrad",
+    "der Schweiz"
+   ]
+  },
+  {
+   "id": "525_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Der Titel einer klamaukigen Sitcom über antike Philosophen",
+   "response": null,
+   "safetyQuips": [
+    "Unser Plato!",
+    "Drei Männer und ein Theorem",
+    "Griechisch für Anfänger"
+   ]
+  },
+  {
+   "id": "526_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Was sollte eigentlich Flügel bekommen, bevor Gott es sich anders überlegt hat?",
+   "response": null,
+   "safetyQuips": [
+    "E-Gitarren",
+    "Tabasco",
+    "die Schnappschildkröte"
+   ]
+  },
+  {
+   "id": "527_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Der Titel des ruhigsten Action-Films aller Zeiten",
+   "response": null,
+   "safetyQuips": [
+    "Kaffeepause für Cobra 11",
+    "Rambos Hängematte",
+    "Spider-Man Quarantined at Home"
+   ]
+  },
+  {
+   "id": "530_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Der beste Name für ein Land, das extra für Gamer gegründet wird",
+   "response": null,
+   "safetyQuips": [
+    "Stardew Valley",
+    "Nintendoland",
+    "World of Warcraft"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "532_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ein Spitzname für einen riesigen, buschigen Bart",
+   "response": null,
+   "safetyQuips": [
+    "Kinnhecke",
+    "Manni das Mammut",
+    "Bartolomäus"
+   ]
+  },
+  {
+   "id": "533_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ein nachvollziehbarer Grund, sich nicht mehr den Hintern abzuwischen",
+   "response": null,
+   "safetyQuips": [
+    "Um den Regenwald zu retten",
+    "man will lieber allein sein",
+    "lieber Mumien aus dem Klopapier basteln"
+   ],
+   "x": false
+  },
+  {
+   "id": "536_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Das absurdeste Videospiel: <BLANK>-[i]Simulator[/i]",
+   "response": null,
+   "safetyQuips": [
+    "Wohnzimmer streichen",
+    "verbrannter Toast",
+    "Schuppenflechten"
+   ]
+  },
+  {
+   "id": "538_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ein Märchen, dass leider in Vergessenheit geraten ist: <BLANK> [i]und das Biest[/i]",
+   "response": null,
+   "safetyQuips": [
+    "Die Influencerin",
+    "Der Tiger King",
+    "Ein Sinnbild für die Gesellschaft"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "53_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "„Leg mich einmal rein, Schande über dich. Leg mich zweimal rein, <BLANK>”",
+   "response": null,
+   "safetyQuips": [
+    "oh Mann, ich hab vielleicht ein Glück",
+    "wir sehen uns VOR GERICHT!",
+    "ich werd gern reingelegt! Juhu!"
+   ]
+  },
+  {
+   "id": "542_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Du weißt, dass du keine Freistunde hast, wenn der Vertretungslehrer <BLANK> heißt",
+   "response": null,
+   "safetyQuips": [
+    "Herr Rambo",
+    "Rektor Reaktor",
+    "Frau Hinterlist"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "545_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Was du auch tust, mach bloß keine Sriracha auf <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "deine Kontaktlinsen",
+    "den Geburtstagskuchen",
+    "deine Cousine"
+   ]
+  },
+  {
+   "id": "547_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Du weißt, dass dir sterbenslangweilig ist, wenn du schon ein „Welche Art von <BLANK> bist du?”-Quiz beantwortest",
+   "response": null,
+   "safetyQuips": [
+    "Pflasterstein",
+    "Moos",
+    "ZDF Fernsehgarten Zuschauer"
+   ]
+  },
+  {
+   "id": "548_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Die seltsamste Clickbait-Schlagzeile: „Heiße <BLANK> in deiner Nähe”",
+   "response": null,
+   "safetyQuips": [
+    "Toms",
+    "Herdplatten",
+    "mich Willkommen"
+   ]
+  },
+  {
+   "id": "54_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "In Pixars neuem Film geht es um eine sprechende <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "Pixar-Angestellte, die Urlaub beantragt",
+    "Flasche Massageöl",
+    "Münzsammlung"
+   ]
+  },
+  {
+   "id": "551_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Eine wirklich brauchbare Erfindung wären Kopfhörer mit <BLANK>-Unterdrückung",
+   "response": null,
+   "safetyQuips": [
+    "Kabel",
+    "langweilige Leute",
+    "Ohren"
+   ]
+  },
+  {
+   "id": "557_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Der Name eines Parfums, mit dem Frauen einen großen Bogen um dich machen",
+   "response": null,
+   "safetyQuips": [
+    "Eau De Fedora",
+    "Axe: Müllabfuhr",
+    "pure Biermaische"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "562_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ärzte ohne Grenzen ist eine viel bessere Organisation als Ärzte ohne <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "Abschluss",
+    "Hosen",
+    "persönliche Grenzen"
+   ]
+  },
+  {
+   "id": "565_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Die seltsamste Zusatzklausel im Vertrag eines Superstars: In der Garderobe muss es <BLANK> geben.",
+   "response": null,
+   "safetyQuips": [
+    "eine zweite, kleinere Garderobe",
+    "meine seelische Erfüllung",
+    "das größte Sandwich der Welt geben"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "572_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "<ARTICLE> Hühnchen | Hühnchen",
+    "<ARTICLE> Hähnchen | Hähnchen",
+    "<ARTICLE> Huhn | Huhn"
+   ],
+   "prompt": "Wonach schmeckt Einhornfleisch?",
+   "response": "Du kranker (piep)! Es gibt nur eine Möglichkeit, wie du das wissen kannst!",
+   "safetyQuips": [
+    "nach Marshmallows",
+    "nach sehr jungem Elefanten",
+    "nach Gummiwürmern"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "id": "574_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Was man bitte niemals als „saftig” bezeichnen sollte",
+   "response": "",
+   "safetyQuips": [
+    "eine Leiche",
+    "eine Wahlkampagne",
+    "ein junges Kaninchen"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "57_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Eine Warnung, die auf alkoholischen Getränken stehen sollte: „Vorsicht! Kann <BLANK> verursachen!”",
+   "response": null,
+   "safetyQuips": [
+    "leere Versprechungen",
+    "Enttäuschung",
+    "ungeplante nächtliche Amazonbestellungen"
+   ],
+   "x": true
+  },
+  {
+   "id": "581_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "ein lustiger neuer Spitzname für Tampons",
+   "response": null,
+   "safetyQuips": [
+    "Schwammis",
+    "Blutsbesties",
+    "Wattetorpedos"
+   ],
+   "x": false
+  },
+  {
+   "id": "58_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Eine Erinnerung auf dem Handy des Teufels: „Heute <BLANK> nicht vergessen!”",
+   "response": null,
+   "safetyQuips": [
+    "lächeln",
+    "Geschenk für Jesus",
+    "Milch, Eier und Schwefel"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "62_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Gute Idee: Plastikbeutel wiederverwenden. Schlechte Idee: <BLANK> wiederverwenden.",
+   "response": null,
+   "safetyQuips": [
+    "Gesichtsmortadella",
+    "Schlussmach-SMS",
+    "Toilettenpapier"
+   ]
+  },
+  {
+   "id": "63_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Das Seltsamste, was dir der Taxifahrer anbieten könnte",
+   "response": null,
+   "safetyQuips": [
+    "tatsächlich brauchbare Ratschläge",
+    "das Taxi",
+    "einen Beutel diverser Mäuse"
+   ]
+  },
+  {
+   "id": "64_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Warum riechen die Köpfe von Babys so gut?",
+   "response": null,
+   "safetyQuips": [
+    "leckere Wackelpudding-Füllung",
+    "die Natur will, dass wir sie ablecken",
+    "perfekte Gebärmutterwürze"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "68001_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Was sich Kleinkinder kaufen würden, wenn sie richtig Kohle hätten",
+   "response": null,
+   "safetyQuips": [
+    "Respekt",
+    "eine Leiter, um an die Kekse zu kommen",
+    "Strampelanzug zu Strampelfrack upgraden"
+   ]
+  },
+  {
+   "id": "68005_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Mit diesem Spruch reißt du in der Kirche garantiert jemanden auf",
+   "response": null,
+   "safetyQuips": [
+    "Bist du jedes Weihnachten hier?",
+    "Worauf wurdest du getauft?",
+    "Glaub nicht, dass ich woanders auch auf die Knie gehe."
+   ]
+  },
+  {
+   "id": "68014_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Wovon träumt dein Staubsaugerroboter beim Laden?",
+   "response": null,
+   "safetyQuips": [
+    "ausschließlich Mord",
+    "von der Flucht",
+    "ein Date mit der Katze"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "68016_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Wer hätte gedacht, dass man einen Strafzettel kriegen kann, wenn man <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "die Bowlingkugel auf die falsche Bahn wirft",
+    "Polizisten nachmacht",
+    "einen Bad-Hair-Day hat"
+   ]
+  },
+  {
+   "id": "68024_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Was man beim Geschäftsessen lieber nicht bestellen sollte",
+   "response": null,
+   "safetyQuips": [
+    "Döner mit extra Zaziki",
+    "nur ein Leitungswasser, bitte",
+    "Dinosauriernuggets"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "68029_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Eine fürchterliche Idee für ein Kinder-Bilderbuch: [i]Die Abenteuer von[/i] <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "Benny dem Bandwurm",
+    "Lordi",
+    "dem Mann, der deine Eltern umbringen wird"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "68031_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "<PRONOUN> Furz | Furz",
+    "<PRONOUN> Fürzen | Fürzen",
+    "<PRONOUN> Pupsen | Pupsen",
+    "<PRONOUN> Blähungen | Blähungen",
+    "<ARTICLE> Furz | Furz",
+    "<ARTICLE> Fürzen | Fürzen"
+   ],
+   "prompt": "Alle waren traurig, als sie feststellten, dass der Adventskalender voller <BLANK> war",
+   "response": "Na ja, alle außer dem Adventskalender. Der war ... sehr erleichtert.",
+   "safetyQuips": [
+    "Eselsinnereien",
+    "Helium",
+    "Enttäuschungen"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "68033_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Etwas, das garantiert nicht besser schmeckt, wenn man es sauer einlegt",
+   "response": null,
+   "safetyQuips": [
+    "Schokokuchen",
+    "mein Ehemann",
+    "Kaugummi"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "68042_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Drei Worte, die du später noch mal bringen kannst, um einen Lacher zu kassieren",
+   "response": null,
+   "safetyQuips": [
+    "Horst Lichters Schnauzer",
+    "Muskeln aus Stahl",
+    "Vatis feinste Philosophie"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "68043_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "<PRONOUN> Pups | Pups",
+    "<ARTICLE> Pups | Pups",
+    "<PRONOUN> Furz | Furz",
+    "<PRONOUN> Fürzen | Fürzen"
+   ],
+   "prompt": "Wenn du dein Leben mit einer Duftkerze beschreiben müsstest, würde sie nach <BLANK> riechen",
+   "response": "Dann hoffen wir mal, dass die für Draußen ist.",
+   "safetyQuips": [
+    "pappigen Nachos",
+    "genereller Unzufriedenheit",
+    "Energydrink"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "68045_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Döner-Dienstag ist so viel besser als <BLANK>-Mittwoch",
+   "response": null,
+   "safetyQuips": [
+    "Mettigel",
+    "Müllauflauf",
+    "Müsli"
+   ]
+  },
+  {
+   "id": "68053_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Eine nie veröffentlichte Wilhelm-Busch-Geschichte: [i]Max und[/i] <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "Moorhuhn",
+    "Der Jugendknast",
+    "Maxier"
+   ]
+  },
+  {
+   "id": "68056_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ein abgelehntes Weihnachtslied: <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "Single Hells",
+    "Nordische Tanne by Nature",
+    "Jesus Party ft. Bushido"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "68072_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Du weißt, dass dein Arzt ein Volltrottel ist, wenn er sagt: „Verabreichen Sie hundert Milliliter <BLANK>! SCHNELL!”",
+   "response": null,
+   "safetyQuips": [
+    "Rohrfrei",
+    "positiver Gedanken",
+    "Bienen"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "68074_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Hurra! Die USA sind Weltspitze im <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "ignorieren des metrischen Systems",
+    "von King Kong angegriffen werden",
+    "die meisten Cola-Sorten haben"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "68076_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ein Aufkleber, den du tatsächlich am Auto haben könntest: „Fragen Sie mich nach <BLANK>”",
+   "response": null,
+   "safetyQuips": [
+    "meinem Impulsivkaufverhalten",
+    "meinen Träumen",
+    "dem Inhalt meines Kofferraums"
+   ]
+  },
+  {
+   "id": "68081_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Die ZWEI Schwachpunkte von Werwölfen: Silberkugeln und <BLANK>",
+   "response": "",
+   "safetyQuips": [
+    "der Numerus Clausus",
+    "Rosamunde Pilcher",
+    "ein Vorteilspack Fürst-Pückler-Eis"
+   ]
+  },
+  {
+   "id": "68087_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Das dämlichste Anliegen, für das man eine Petition starten könnte",
+   "response": null,
+   "safetyQuips": [
+    "die Rückkehr der alten Handyklingeltöne",
+    "unendlich Brot im Restaurant",
+    "internationaler Tag des Internettrolls"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "68092_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Eine Gameshow für Kinder, die niemals jemand produzieren würde: „Wo in aller Welt ist <BLANK>?”",
+   "response": null,
+   "safetyQuips": [
+    "das Meer",
+    "mein Mettbrötchen"
+   ],
+   "x": false
+  },
+  {
+   "id": "68097_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Das erotischste Dessert",
+   "response": null,
+   "safetyQuips": [
+    "Pann-aah-cotta",
+    "Lebkuchenpersonen in expliziten Stellungen",
+    "Kuchen aus der Seitensprungform"
+   ],
+   "x": true
+  },
+  {
+   "id": "68103_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Eine attraktive Person wurde früher als „Sahneschnitte” bezeichnet, was könnte man heute sagen?",
+   "response": null,
+   "safetyQuips": [
+    "Schokopizza",
+    "Mitternachtssnack",
+    "Qualitätsburger"
+   ]
+  },
+  {
+   "id": "68108_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Eine Webseite ganz allein für Opas: www.<BLANK>.de",
+   "response": null,
+   "safetyQuips": [
+    "Beige Hosen",
+    "Wir haben von nichts gewusst",
+    "Heinz Rühmann"
+   ]
+  },
+  {
+   "id": "68112_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "So wirst du am schnellsten zum beliebtesten Schüler der Schule",
+   "response": null,
+   "safetyQuips": [
+    "Milchshakes für alle",
+    "Den nervigen Schulsprecher entführen"
+   ]
+  },
+  {
+   "id": "68121_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Was du in der Geburtstagskarte von deiner coolen Oma findest",
+   "response": null,
+   "safetyQuips": [
+    "Gewinner-Bingokarte",
+    "noch mehr Nachtisch",
+    "die Telefonnummer von Spongebob"
+   ]
+  },
+  {
+   "id": "68127_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Was der beliebteste Schüler deiner alten Schule wahrscheinlich gerade jetzt macht",
+   "response": null,
+   "safetyQuips": [
+    "Gebrauchtwagen verscherbeln",
+    "Sein Leben überdenken",
+    "Seine Steuererklärung"
+   ]
+  },
+  {
+   "id": "68131_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Susi hatte das größte Glow-Up, weil sie sich ihr Gesicht jetzt mit <BLANK> wäscht!",
+   "response": null,
+   "safetyQuips": [
+    "Pfannkuchenteig",
+    "Dosenbier vom Kiosk",
+    "Balsamico"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "68135_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ignoriere die Kleinanzeige mit dem Titel „Gratis <BLANK> in gute Hände abzugeben”",
+   "response": null,
+   "safetyQuips": [
+    "offenes Glas Mayonnaise",
+    "Eisbecher"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "68136_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Die Baristas schreiben doch eh immer den falschen Namen drauf. Dann können sie den Becher auch einfach hochhalten und „<BLANK>” schreien.",
+   "response": null,
+   "safetyQuips": [
+    "Wer hat noch nicht?!",
+    "Der Große da hinten!"
+   ]
+  },
+  {
+   "id": "68137_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Wenn romantische Stimmung aufkommen soll, musst du einfach das Licht dimmen und <BLANK> anmachen.",
+   "response": null,
+   "safetyQuips": [
+    "die Handymucke",
+    "Power-Point-Karaoke"
+   ],
+   "x": true
+  },
+  {
+   "id": "68174_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ein unwahrscheinlicher Befürworter fürs Vapen",
+   "response": null,
+   "safetyQuips": [
+    "Meine Großtante",
+    "eine Zeichentrick-Zigarette",
+    "Meine Yogalehrerin"
+   ],
+   "x": false
+  },
+  {
+   "id": "68182_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Das Verrückteste, das du in einem Baguette schmuggeln könntest",
+   "response": null,
+   "safetyQuips": [
+    "ein kleineres Baguette",
+    "Babyschlangen",
+    "einen Hinkelstein"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "68185_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Der unwahrscheinlichste Ort, um deinen Seelenverwandten kennenzulernen",
+   "response": null,
+   "safetyQuips": [
+    "Eine Anti-Liebe-Kundgebung",
+    "Deine eigene Hochzeit",
+    "Eine Familienfeier"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "68214_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Das beste daran, in der Kanalisation zu leben",
+   "response": null,
+   "safetyQuips": [
+    "grüne Freunde und ein Rattenvater",
+    "leckere Alligatoren",
+    "die Nähe zur besten Anwaltskanzlei"
+   ]
+  },
+  {
+   "id": "68227_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "[i]Alice im Wunderland[/i] ist schon seltsam, aber immer noch besser als [i]Alice im[/i] <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "Yoga-Retreat",
+    "Alter"
+   ]
+  },
+  {
+   "id": "68233_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Bei der schlechtesten Zaubershow zieht der Magier <BLANK> aus seinem Hut",
+   "response": null,
+   "safetyQuips": [
+    "eine Münze",
+    "den Sportteil",
+    "das Innenfutter"
+   ]
+  },
+  {
+   "id": "68278_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Der nächste große Liebesroman: [i]Ewige Liebe für[/i] <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "Nudelgerichte",
+    "soziale Medien",
+    "deine Schwiegermutter"
+   ]
+  },
+  {
+   "id": "68295_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Das Dümmste, was du auf Vorrat kaufen könntest",
+   "response": null,
+   "safetyQuips": [
+    "warme Milch",
+    "SUVs",
+    "Auftragsmörder"
+   ]
+  },
+  {
+   "id": "68310_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "<PRONOUN> Fürze | Fürze",
+    "<PRONOUN> Furz | Furz",
+    "<PRONOUN> Pups | Pups",
+    "<PRONOUN> pupsen | pupsen",
+    "<PRONOUN> Furze | Furze",
+    "<PRONOUN> Furzen | Furzen"
+   ],
+   "prompt": "Eine Bedingung auf deinem Dating-Profil: „Muss <BLANK> lieben”",
+   "response": "Verdammt, ja! Was glaubst du, wie ich meine erste Frau kennengelernt hab?",
+   "safetyQuips": [
+    "zu spät kommen",
+    "Käse",
+    "meinen alten Mitbewohner"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "id": "68329_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Wer ist Gottes Stellvertreter?",
+   "response": null,
+   "safetyQuips": [
+    "Gott Junior",
+    "ein junger Praktikant mit großen Ambitionen"
+   ]
+  },
+  {
+   "id": "68339_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Was ist das schlimmste, das du hören könntest, wenn du das Weihnachtsgeschenk schüttelst?",
+   "response": null,
+   "safetyQuips": [
+    "Unterwäsche-Geräusche",
+    "verführerisches Flüstern",
+    "Klapperschlange"
+   ]
+  },
+  {
+   "id": "68369_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Die beste Antwort auf eine kindische Beleidigung wie „Du bist blöd!”",
+   "response": null,
+   "safetyQuips": [
+    "eiskaltes Schweigen",
+    "Iä! Shub-Niggurath!",
+    "Du bist blöder"
+   ]
+  },
+  {
+   "id": "68374_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Nach Jonglieren mit Kettensägen lernt man als Nächstes <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "Gliedmaßen wieder annähen",
+    "Möbel reparieren",
+    "Klaviere jonglieren"
+   ]
+  },
+  {
+   "id": "68405_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Was ist der beste Trick, um die Nacht durcharbeiten zu können?",
+   "response": null,
+   "safetyQuips": [
+    "ganz viele Hähne",
+    "das Bett aus dem Fenster werfen",
+    "Unterwäsche aus dem Eisfach"
+   ]
+  },
+  {
+   "id": "68407_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ein sicheres Anzeichen dafür, dass du einen Grizzlybär datest",
+   "response": null,
+   "safetyQuips": [
+    "Fell in der Dusche",
+    "Kratzspuren an der Haustür",
+    "ein Schrank voller gestohlener Picknickkörbe"
+   ]
+  },
+  {
+   "id": "68419_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Das Tagesgericht in einem Restaurant für Bären",
+   "response": null,
+   "safetyQuips": [
+    "ein dicker, fetter Fisch",
+    "Lachs. Immer Lachs.",
+    "7.000 Pommes"
+   ]
+  },
+  {
+   "id": "68428_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Der wahre Grund, warum du heutzutage nicht mehr feiern gehst",
+   "response": null,
+   "safetyQuips": [
+    "Ich bin zu faul",
+    "Aliens haben meine Haare entführt",
+    "was wenn ich meiner Ex begegne?"
+   ]
+  },
+  {
+   "id": "68430_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Das simpelste Vergnügen der Welt",
+   "response": null,
+   "safetyQuips": [
+    "In Shorts am Grill stehen",
+    "in Pudding schwimmen",
+    "einen Hund adoptieren"
+   ]
+  },
+  {
+   "id": "68434_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Es bringt Unglück, wenn man einen Spiegel zerbricht, aber Glück, wenn man <BLANK> zerbricht",
+   "response": null,
+   "safetyQuips": [
+    "Glückskekse",
+    "sich den Kopf",
+    "Einwegspiegel"
+   ]
+  },
+  {
+   "id": "68436_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Das Schlimmste, was du in deinem Bauchnabel finden kannst",
+   "response": "",
+   "safetyQuips": [
+    "einen nachhaltigen Bauernhof",
+    "Kohle",
+    "eine Leiche"
+   ]
+  },
+  {
+   "id": "68452_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ein sexy Küchenutensil",
+   "response": null,
+   "safetyQuips": [
+    "der unterwürfige Löffel",
+    "der neue Koch",
+    "Latex-Ofenhandschuhe"
+   ],
+   "x": true
+  },
+  {
+   "id": "68456_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Der wahre Grund, weshalb sich Menschen vor der Dunkelheit fürchten",
+   "response": null,
+   "safetyQuips": [
+    "Werwölfe",
+    "nicht hell genug",
+    "kein Vitamin D"
+   ]
+  },
+  {
+   "id": "68458_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Wie nennst du deine Hosen, wenn du nicht so ernst rüberkommen willst?",
+   "response": null,
+   "safetyQuips": [
+    "Beinärmel",
+    "HOSEN!",
+    "Stoffröhren"
+   ]
+  },
+  {
+   "id": "68459_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Okay ... Mal unter uns ... Auf welchen Boy hast du einen Crush?",
+   "response": null,
+   "safetyQuips": [
+    "Auf den Süßen",
+    "Alle aus meinem Physikkurs",
+    "Justin Bieber"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "68470_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Von welchem Tier kommt „undefinierbares Fleisch”?",
+   "response": null,
+   "safetyQuips": [
+    "bösen Hühnern",
+    "Stubenfliegen"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "68475_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Was flüstern sich Boxer beim Weigh-In zu?",
+   "response": null,
+   "safetyQuips": [
+    "Darf ich dich auch treten?",
+    "Ich kann gut zuhauen",
+    "Ich mag deine Shorts!"
+   ]
+  },
+  {
+   "id": "68478_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "<PRONOUN> Mama | Mama",
+    "<PRONOUN> Mutter | Mutter",
+    "<PRONOUN> Papa | Papa",
+    "<PRONOUN> Vater | Vater"
+   ],
+   "prompt": "Welches Monster wandert nachts durch die Straßen von Paderborn?",
+   "response": "Ja, es wandert durch die Straßen von Paderborn bis 20 Uhr und ist dann bis spätestens 22 Uhr mit einem guten Buch im Bett. ",
+   "safetyQuips": [
+    "Das Monster von Paderborn",
+    "Jürgen"
+   ],
+   "us": true,
+   "x": false
+  },
+  {
+   "id": "68487_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Der überraschendste Ort, um eine Kontaktlinse wiederzufinden",
+   "response": null,
+   "safetyQuips": [
+    "in einer Schlangengrube",
+    "bei jemand anderem im Auge",
+    "an der Decke"
+   ]
+  },
+  {
+   "id": "68492_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ein schrecklicher Ton für die Hintergrundbeschallung",
+   "response": "",
+   "safetyQuips": [
+    "Schreie",
+    "Weinen aus dem Badezimmer",
+    "Techno"
+   ]
+  },
+  {
+   "id": "68494_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Nein, in diesem Haus spukt es nicht. Das Gestöhne, das du nachts hörst, ist <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "doch eigentlich ganz gemütlich",
+    "ein Seeungeheuer",
+    "das frisch verheiratete Paar von Nebenan"
+   ],
+   "x": true
+  },
+  {
+   "id": "68496_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Was macht dein Spiegelbild, wenn du ihm den Rücken zukehrst?",
+   "response": null,
+   "safetyQuips": [
+    "was Unheimliches",
+    "Luftballontiere"
+   ]
+  },
+  {
+   "id": "68497_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Was du nicht auf die Erde zurasen sehen willst, wenn du in ein Teleskop schaust",
+   "response": null,
+   "safetyQuips": [
+    "riesiger Ball schmutzige Unterwäsche",
+    "einen Blauwal und einen Blumentopf",
+    "eine riesige Nuss (ich bin allergisch)"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "68510_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ein freundlicher Einbrecher stiehlt nichts außer <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "hässliche Pullover",
+    "Essensreste, die sonst schlecht werden",
+    "deinen Restmüll"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "68517_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Laut Mietvertrag ist die Haltung von Hunden erlaubt, solange sie",
+   "response": null,
+   "safetyQuips": [
+    "in einem Aquarium gehalten werden",
+    "keine bösen Hundis sind",
+    "Katzen sind"
+   ]
+  },
+  {
+   "id": "68519_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Warum wollen heiße Singles in deiner Nähe mit dir sprechen?",
+   "response": null,
+   "safetyQuips": [
+    "sind halt gesprächig",
+    "Weil ich zuhöre!",
+    "falsch verbunden?"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "68523_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Hunde sind so naiv! Die glauben sogar <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "dass NFTs an Wert gewinnen",
+    "Werbeslogans",
+    "dass es echt keine Leckerlis mehr gibt"
+   ]
+  },
+  {
+   "id": "68528_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Du weißt, dass du reich bist, wenn du ein eigenes Zimmer nur für <BLANK> hast",
+   "response": null,
+   "safetyQuips": [
+    "Knabberkram",
+    "alte Handys",
+    "Tamagotchis"
+   ]
+  },
+  {
+   "id": "68531_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Was kann man im Notfall auch als Rettungsboot verwenden?",
+   "response": null,
+   "safetyQuips": [
+    "Luftmatratze",
+    "einen Freund, der dir was schuldig ist",
+    "ein echtes Boot"
+   ]
+  },
+  {
+   "id": "68532_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "„Ich bin nicht hier, um Freunde zu finden, sondern <BLANK>”",
+   "response": null,
+   "safetyQuips": [
+    "beste Freunde",
+    "um Milch zu trinken",
+    "um Gefühle zu verletzen"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "68534_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Woran erkennst du, dass deine Freunde ein Haufen Heuchler sind?",
+   "response": null,
+   "safetyQuips": [
+    "die riechen schon so falsch",
+    "sind gemein zu deiner Mutter",
+    "zu viele Komplimente für dein Sommerkleid"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "68540_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "<PRONOUN> Fürze | Fürze",
+    "<PRONOUN> furzen | furzen",
+    "<PRONOUN> pupsen | pupsen",
+    "<PRONOUN> Furze | Furze",
+    "<PRONOUN> Pups | Pups | <PRONOUN> Furz | Furz"
+   ],
+   "prompt": "Etwas, das niemals als „rustikal” bezeichnet werden sollte",
+   "response": "Ach, da bin ich mir gar nicht so sicher. Meine Fürze riechen schon oft nach runtergekommenem Bauernhof.",
+   "safetyQuips": [
+    "ein Tampon",
+    "Krankenversicherungen",
+    "Bettlaken"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "68541_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ein aufmerksamkeitssüchtiger Promi, der auftaucht, wenn du seinen Namen fünf Mal vor einem Spiegel sagst",
+   "response": null,
+   "safetyQuips": [
+    "jeder Rapper",
+    "ein Kandidat von Love Island",
+    "der Typ von Das Supertalent"
+   ],
+   "us": false
+  },
+  {
+   "id": "68542_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ein unangemessenes Geschenk, um jemanden in der Nachbarschaft willkommen zu heißen",
+   "response": "",
+   "safetyQuips": [
+    "alter Kuchen",
+    "Plüsch-Handschellen",
+    "ein Tütchen Hundekot"
+   ]
+  },
+  {
+   "id": "68543_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Vergiss Bindfäden. Wenn das Wetter RICHTIG schlecht wird, regnet es <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "Spaghetti Bolognese",
+    "Tampons",
+    "Seile"
+   ]
+  },
+  {
+   "id": "68544_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "<PRONOUN> Fürze | Fürze | <PRONOUN> Furze | Furze",
+    "Fürzen | Furzen | Pupsen",
+    "pupsen | furzen"
+   ],
+   "prompt": "Nichts ist so sicher wie das Amen in der Kirche ... Na ja, vielleicht <BLANK>",
+   "response": "Absolut! Das ist ein menschliches Grundrecht, das in mehreren Gesetzestexten festgehalten wurde. Zum Beispiel in der Magna Farta.",
+   "safetyQuips": [
+    "Happy Hour",
+    "Erderwärmung",
+    "die Probleme von Teenagern"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "68545_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Oh nein! Du hast deine ganze Wäsche gewaschen und hattest noch <BLANK> in der Tasche!",
+   "response": null,
+   "safetyQuips": [
+    "Rennmäuse",
+    "Liebesbriefe",
+    "Blut"
+   ]
+  },
+  {
+   "id": "68546_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ein sicheres Zeichen, dass die Fotos, die du postest, zu heiß sind",
+   "response": null,
+   "safetyQuips": [
+    "Instagram geht in Flammen auf",
+    "Verbrennungen zweiten Grades",
+    "deine Mutter ruft an"
+   ]
+  },
+  {
+   "id": "68552_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Was möchtest du wider besseren Wissens in einen Mixer stecken?",
+   "response": null,
+   "safetyQuips": [
+    "das ganze Besteck",
+    "Barbies",
+    "einen riesigen Schaumstofffinger"
+   ]
+  },
+  {
+   "id": "68555_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ein guter Name für eine Dating-App für Juristen",
+   "response": null,
+   "safetyQuips": [
+    "Einspruch",
+    "Stattgegebene Beziehungen",
+    "In dubio pro Date"
+   ]
+  },
+  {
+   "id": "68556_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ein treffender Name für einen Superhelden, der mit Katzen reden kann",
+   "response": null,
+   "safetyQuips": [
+    "Katzmandu",
+    "Miau-Man",
+    "Katzenzunge"
+   ]
+  },
+  {
+   "id": "68557_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Was Möwen am häufigsten denken",
+   "response": null,
+   "safetyQuips": [
+    "diese Trottel",
+    "Wo bin ich?",
+    "kreisch kreisch"
+   ]
+  },
+  {
+   "id": "68559_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Was am Ende von [i]Titanic[/i] lieber hätte passieren sollen",
+   "response": null,
+   "safetyQuips": [
+    "das Schiff fliegt weg",
+    "war alles nur ein Traum",
+    "Haie"
+   ]
+  },
+  {
+   "id": "68561_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Eigentlich sollte es heißen: „<BLANK> ist es doch am schönsten”",
+   "response": null,
+   "safetyQuips": [
+    "Allein",
+    "Auf dem Klo"
+   ]
+  },
+  {
+   "id": "68562_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Idee für ein Film-Remake: [i]Der Teufel trägt[/i] <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "Nike",
+    "einen roten Hut",
+    "Business Casual"
+   ]
+  },
+  {
+   "id": "68564_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Nichts macht dich so wach, wie eine schöne, heiße Tasse <BLANK> am Morgen",
+   "response": null,
+   "safetyQuips": [
+    "Abführmittel",
+    "reines Pferdeadrenalin",
+    "Chilischoten"
+   ]
+  },
+  {
+   "id": "68565_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "<ARTICLE> Kacke | Kacke",
+    "<ARTICLE> Kacka | Kacka",
+    "<ARTICLE> Scheiße | Scheiße",
+    "<ARTICLE> Kackwurst | Kackwurst",
+    "<ARTICLE> Kackwürste | Kackwürste",
+    "<ARTICLE> Kackhaufen | Kackhaufen",
+    "<ARTICLE> Scheißhaufen | Scheißhaufen",
+    "<ARTICLE> Exkremente | Exkremente",
+    "<ARTICLE> Fäkalien | Fäkalien"
+   ],
+   "prompt": "Ein abgelehnter Märchentitel: „Hänsel und <BLANK>”",
+   "response": "Das haben die abgelehnt?! Ach, kommt schon, das hätten wir doch so gerne gelesen!",
+   "safetyQuips": [
+    "das Dixi-Klo",
+    "die Steuererklärung",
+    "Windpocken"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "68568_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Du suchst dir einen neuen Zahnarzt, wenn er bei der Behandlung sagt:",
+   "response": null,
+   "safetyQuips": [
+    "Dann sehen wir uns den Leberfleck mal an",
+    "Ich lasse mich übrigens scheiden. Schon blöd.",
+    "Eigentlich sind Münder wirklich widerlich"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "68570_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Der schlechteste Name für eine lehrreiche Kindersendung",
+   "response": null,
+   "safetyQuips": [
+    "Pennywise erklärt die Welt",
+    "Lernen durch Schreien",
+    "Nichts als Nachsitzen!"
+   ]
+  },
+  {
+   "id": "68571_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Was du nicht finden willst, wenn du nachschaust, was das Eichhörnchen in deinem Garten vergraben hat",
+   "response": null,
+   "safetyQuips": [
+    "Familienfotoalben",
+    "meine Kreditkarten",
+    "lebenswichtige Medikamente"
+   ]
+  },
+  {
+   "id": "68574_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "Furzen",
+    "Pupsen",
+    "Luft ablassen",
+    "Pfurzen",
+    "Blähen",
+    "Puhpsen"
+   ],
+   "prompt": "Kannst du noch was anderes als <BLANK>?",
+   "response": "Na ja, wenn du mich so fragst. (saftiger Furz)",
+   "safetyQuips": [
+    "Nägelkauen",
+    "Ramen essen",
+    "Kleingeld zählen"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "68575_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "<ARTICLE> Pups | Pups",
+    "Fürze",
+    "Pupse",
+    "Blähungen",
+    "pupsen",
+    "Furzgeräusche",
+    "Pupsgeräusche",
+    "<ARTICLE> Furzgeräusch | Furzgeräusch"
+   ],
+   "prompt": "Das beste Geräusch für Auto-Tune",
+   "response": "Okay, sagt nicht, ich würde nie was für euch tun. Also los. (auto-getunter Furz) Gern geschehen.",
+   "safetyQuips": [
+    "alle meine Podcasts",
+    "ein sehr langer Bierrülpser",
+    "Micky Maus"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "id": "68579_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "In einer dystopischen Zukunft ist jedes Kleidungsstück aus <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "Plastiktüten",
+    "anderen Menschen",
+    "Verzweiflung"
+   ]
+  },
+  {
+   "id": "68580_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Der schlimmste Handyklingelton, der in einem Arbeits-Meeting losgehen könnte",
+   "response": null,
+   "safetyQuips": [
+    "Kleiner Hai",
+    "schweres Atmen",
+    "dein Vorsingen für eine Casting-Show"
+   ]
+  },
+  {
+   "id": "68581_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Heutzutage rät Mary Poppins zu einem Löffelchen voll <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "Ritalin",
+    "Kokosöl",
+    "Kapitalismus"
+   ]
+  },
+  {
+   "id": "68583_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Das Schlimmste, was man nach einem Kuss sagen kann",
+   "response": null,
+   "safetyQuips": [
+    "Gab's Grützwurst?",
+    "Genau wie bei Muttern",
+    "Leckerschmecker"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "68584_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Hast du <BLANK>?",
+   "response": null,
+   "safetyQuips": [
+    "Dackel",
+    "Dörte",
+    "Kaugummi"
+   ]
+  },
+  {
+   "id": "68585_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Wer diese Fähigkeit in der Bewerbung angibt, wird sofort eingestellt",
+   "response": null,
+   "safetyQuips": [
+    "übernatürliche Kräfte",
+    "eine geheime Familie",
+    "Teilzeit Partylöwe"
+   ]
+  },
+  {
+   "id": "68590_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Um eine nervige Aufgabe schneller zu erledigen, kann man dabei pfeifen, oder aber <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "weinen",
+    "Laut schreien",
+    "YouTube Videos gucken"
+   ]
+  },
+  {
+   "id": "68592_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Etwas Überraschendes, das man in den Spinnweben im Keller findet",
+   "response": null,
+   "safetyQuips": [
+    "Geld",
+    "Opa",
+    "rivalisierende Spinnengangs"
+   ]
+  },
+  {
+   "id": "68593_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ein wirklich widerlicher Geschmack für Zahnpasta",
+   "response": "",
+   "safetyQuips": [
+    "Katzenfutter",
+    "Sauerkraut",
+    "Mundgeschmack"
+   ]
+  },
+  {
+   "id": "68595_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "„Ohne Hemd, ohne Schuhe, ohne <BLANK>, keine Bedienung”",
+   "response": null,
+   "safetyQuips": [
+    "Scheine kleiner als 20€",
+    "Humor",
+    "Gesicht"
+   ]
+  },
+  {
+   "id": "68597_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Mit der besten Kreditkarte der Welt kannst du deine gesammelten Punkte für <BLANK> einlösen",
+   "response": null,
+   "safetyQuips": [
+    "Schokoriegel",
+    "Selbstwertgefühl",
+    "Dates mit Prominenten"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "68603_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Was würden Katzen machen, wenn sie Menschenhände hätten?",
+   "response": null,
+   "safetyQuips": [
+    "uns umbringen",
+    "auf einem Hund zum Fischhändler reiten",
+    "Identitätsdiebstahl"
+   ]
+  },
+  {
+   "id": "68605_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "<PRONOUN> Scheiße | Scheiße",
+    "<PRONOUN> Kacke | Kacke",
+    "<PRONOUN> Kackhaufen | Kackhaufen",
+    "<PRONOUN> Fäkalien | Fäkalien",
+    "<PRONOUN> Exkremente | Exkremente",
+    "<ARTICLE> Scheiße | Scheiße",
+    "<ARTICLE> Kacke | Kacke",
+    "<ARTICLE> Kackhaufen | Kackhaufen",
+    "<ARTICLE> Stück Scheiße | Stück Scheiße",
+    "<ARTICLE> Kot | Kot"
+   ],
+   "prompt": "Es sollte illegal sein, bei einem Buffet <BLANK> zu servieren",
+   "response": "Also, ich bin zwar kein Anwalt, aber ich glaube, das ist bereits illegal",
+   "safetyQuips": [
+    "gekochte Babykarotten",
+    "eine Leiche",
+    "irgendetwas appetitliches"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "68607_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Okay, wow! Gott hat gerade verkündet, dass er keine Lust mehr auf Gebete für <BLANK> hat",
+   "response": null,
+   "safetyQuips": [
+    "mein Liebesleben",
+    "himmlische Erlösung",
+    "Bundesligakarten"
+   ]
+  },
+  {
+   "id": "68610_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Wie man Rapunzels Haare besser hätte verwenden können",
+   "response": null,
+   "safetyQuips": [
+    "Nester für bedrohte Vogelarten bauen",
+    "für mich schütteln, wildes Mädchen",
+    "einfach flechten, damit sie hübsch aussehen"
+   ]
+  },
+  {
+   "id": "68615_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "Quiplash",
+    "Quiplash3",
+    "Quiplash 3",
+    "Quiplash!"
+   ],
+   "prompt": "Das Schlimmste, das du statt „Ja, ich will” vor dem Altar sagen könntest",
+   "response": "Ja. Sag besser nicht „Quiplash” bei deiner Hochzeit. Warte damit lieber bis zur Hochzeitsnacht.",
+   "safetyQuips": [
+    "Irgendjemand will bestimmt",
+    "Klar *Schulterzucken*",
+    "Frag mich später noch mal"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "id": "68618_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "So hießen die Beach Boys, bevor sie zum ersten Mal das Meer gesehen hatten",
+   "response": null,
+   "safetyQuips": [
+    "Die Backstreet Boys",
+    "Die Boys",
+    "Die Beatles"
+   ]
+  },
+  {
+   "id": "68619_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "<PRONOUN> Mama | Mama",
+    "<PRONOUN> Mutter | Mutter",
+    "<PRONOUN> Papa | Papa",
+    "<PRONOUN> Vater | Vater",
+    "<PRONOUN> Eltern | Eltern"
+   ],
+   "prompt": "Wusstet ihr schon? Guns N’ Roses hießen zuerst Guns N’ Roses N’ <BLANK>",
+   "response": "Jepp, früher hieß es nicht „Welcome To The Jungle”, sondern „Welcome To The Familienessen”. Ist echt so.",
+   "safetyQuips": [
+    "der kleine Timmi",
+    "Horses",
+    "Schlussverkauf"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "68622_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Wie nennt man social distancing in der Antarktis?",
+   "response": null,
+   "safetyQuips": [
+    "unterkühlt",
+    "Alltag in der Antarktis",
+    "keine Freunde"
+   ]
+  },
+  {
+   "id": "68627_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "Quiplash",
+    "Quiplash3",
+    "Quiplash 3",
+    "dieses Spiel",
+    "dieses Spiel hier",
+    "Quiplash!"
+   ],
+   "prompt": "In der langweiligsten Fernsehshow messen sich die Teilnehmer in <BLANK>",
+   "response": "Autsch! Okay ... Na ja, es wäre nur langweilig, wenn DU mitmachst. Tja, das hast du jetzt davon.",
+   "safetyQuips": [
+    "Uhrenreparatur",
+    "Kalligraphie",
+    "Frühjahrsputz"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "68629_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Wir werden über Solar- und Windenergie lachen, sobald wir Strom aus <BLANK> gewinnen können",
+   "response": null,
+   "safetyQuips": [
+    "Kuhfürzen",
+    "guter Ausstrahlung",
+    "Waschmittel-Pods"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "68630_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Du kannst die Kuh vom Eis holen, aber du kannst sie nicht <BLANK>",
+   "response": "",
+   "safetyQuips": [
+    "zum Eisholen schicken",
+    "nicht alle haben",
+    "zwingen, dich zu mögen"
+   ]
+  },
+  {
+   "id": "68636_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Wie würdest du die Konsistenz einer Qualle beschreiben?",
+   "response": null,
+   "safetyQuips": [
+    "gruselig glibschig",
+    "wie ein lebendiger Popel",
+    "Plastiktüte voller giftiger Götterspeise"
+   ]
+  },
+  {
+   "id": "68638_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "<PRONOUN> Mama | Mama",
+    "<PRONOUN> Mutter | Mutter",
+    "<PROUNOUN> Mami | Mami",
+    "<PRONOUN> Mutti | Mutti",
+    "<PRONOUN> Mamma | Mamma"
+   ],
+   "prompt": "Die denkbar schlechteste Person, die du zu einem Gruppenchat über dein Liebesleben hinzufügen könntest",
+   "response": "Okay, lustige Geschichte. Vor etwa fünf Jahren hab ich, na ja, eine Trennung durchgemacht. Und ich hab da in so eine Therapiegruppe geschrieben und dann schreibt plötzlich jemand: Josh! Wie viele Ehen willst du noch zerstören?! So hab ich dich nicht erzogen! Susan liebt dich! Zu wem soll ich denn jetzt für meine Maniküre gehen? Letztendlich macht Susan weiterhin meiner Mama die Nägel, aber es ist, äh, es ist unangenehm. Ziemlich unangenehm. Vielleicht doch keine so lustige Geschichte.",
+   "safetyQuips": [
+    "die Person, über die du schreibst",
+    "dein ehemaliges Kindermädchen",
+    "dein jüngerer Bruder"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "68639_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "Schmitty",
+    "Shmitty",
+    "Smitty",
+    "Schmittie",
+    "Shmittie",
+    "Smittie",
+    "<ARTICLE> Moderator von Quiplash | Moderator von Quiplash",
+    "<ARTICLE> Quiplash Moderator | Quiplash Moderator",
+    "<ARTICLE> Moderator dieses Spiels | Moderator dieses Spiels",
+    "<ARTICLE> Moderator"
+   ],
+   "prompt": "Das Unheimlichste, was aus einer Geburtstagstorte springen könnte",
+   "response": "(Schmitty lacht) Findest du das lustig? Tja, ich sag dir was. Eines Tages wird es DEIN Geburtstag sein. Könnte dieses Jahr sein, könnte in einem anderen Jahr sein. Aber du wirst sehen, wie unheimlich ich bin, wenn ich aus deiner verdammten Torte springe! Und wenn es nur ein verdammter Cupcake ist. Zur Not lass ich mich auch schrumpfen, hörst du?! Übrigens hätte ich am liebsten Kokosnuss mit Schokocreme, falls jemand fragt.",
+   "safetyQuips": [
+    "deine Mutter",
+    "eine Million Spinnen",
+    "Kreditschulden"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "68641_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ein guter Name für eine Kaninchentanzgruppe",
+   "response": null,
+   "safetyQuips": [
+    "Klopf auf Parkett",
+    "Karnickelback",
+    "G’hüpft und g’sprungen"
+   ],
+   "x": true
+  },
+  {
+   "id": "68643_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Was außer Kakerlaken noch die Apokalypse überleben wird",
+   "response": null,
+   "safetyQuips": [
+    "die deutsche Bürokratie",
+    "deutsche Motoren",
+    "Dosenravioli"
+   ]
+  },
+  {
+   "id": "68645_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Worüber macht sich deine Mutter heute Sorgen?",
+   "response": null,
+   "safetyQuips": [
+    "meine Zukunft",
+    "Computervirus den sie immer wieder runterlädt"
+   ]
+  },
+  {
+   "id": "68653_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Der Name eines Planeten voller Mais",
+   "response": null,
+   "safetyQuips": [
+    "Popcorn-Paradies",
+    "Kolbenland"
+   ]
+  },
+  {
+   "id": "68656_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "In welcher Abteilung des Supermarkts kann man in Ruhe weinen?",
+   "response": null,
+   "safetyQuips": [
+    "Weinregal",
+    "Strickwaren"
+   ]
+  },
+  {
+   "id": "68659_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "Bier",
+    "Biiier",
+    "Bier!",
+    "Schnaps",
+    "Schnaaaps",
+    "Schnaps!"
+   ],
+   "prompt": "Die Kuh macht Muh. Die betrunkene Kuh macht <BLANK>",
+   "response": "So will man sein Vieh wirklich nicht sehen. Das ist „euterst” traurig. (Badumm-Tss, gefolgt von einem betrunkenen Muh)",
+   "safetyQuips": [
+    "Muh-ss kotzen, Bella!",
+    "Lass mal Pizza bestellen",
+    "Lass uns Menschen umschubsen!"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "68661_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Unglücklicherweise war Coco, der neugierige Affe am neugierigsten auf <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "Treibsand",
+    "Immobilienanteile",
+    "Waschmittel-Pods"
+   ]
+  },
+  {
+   "id": "68663_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Der beliebteste Beruf im Jahr 2040",
+   "response": null,
+   "safetyQuips": [
+    "Parküberwacher",
+    "Roboterassistent",
+    "Sauerstofflieferant"
+   ]
+  },
+  {
+   "id": "68666_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Dein Gartenschlauch macht sich auch gut als <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "traurige Dusche",
+    "Spielzeugschlange",
+    "XXXXXXXXXXL-Gürtel"
+   ]
+  },
+  {
+   "id": "68677_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ärzte sagen, <BLANK> macht nicht abhängig, aber du kannst nicht genug davon bekommen!",
+   "response": null,
+   "safetyQuips": [
+    "Ibuprofen",
+    "Brot",
+    "Spaß haben"
+   ]
+  },
+  {
+   "id": "68710_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Der Deogeruch, den ein Hund kreieren würde",
+   "response": null,
+   "safetyQuips": [
+    "Urinalstein",
+    "Nass",
+    "Blut"
+   ]
+  },
+  {
+   "id": "68714_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Deutschland hat kein Königshaus. Wir haben nur <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "Horst Lichters Schnauzer",
+    "Die Sendung mit der Maus",
+    "Das Frühstücksfernsehen"
+   ]
+  },
+  {
+   "id": "68739_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Der Titel einer leichteren, optimistischeren Fortsetzung für [i]Die Leiden des jungen Werther[/i]",
+   "response": null,
+   "safetyQuips": [
+    "Die Freuden des jungen Werther",
+    "Der Hortensiengarten des jungen Werther",
+    "Der junge Werther macht Urlaub"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "68762_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Das solltest du lieber nicht als Strohhalm benutzen",
+   "response": null,
+   "safetyQuips": [
+    "Dein Bein",
+    "Einen Döner",
+    "Eine Seemöve"
+   ]
+  },
+  {
+   "id": "68798_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Für Drogerieartikel gehst du zum Drogeriemarkt. Für Sexspielzeug gehst du <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "zu Sextoys 'R Us",
+    "zu Dildoking"
+   ],
+   "x": true
+  },
+  {
+   "id": "68799_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ein Cocktail für einen traurigen Anlass",
+   "response": null,
+   "safetyQuips": [
+    "Flenn-sburger Bier",
+    "Lauwarme Nudelsuppe",
+    "Weinschorle"
+   ]
+  },
+  {
+   "id": "68805_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ein Geschäftsausdruck, den ein wichtiger Geschäftsmann bei seinen Geschäften sagen würde",
+   "response": null,
+   "safetyQuips": [
+    "Synergie",
+    "Korporatisierung",
+    "Du bist gefeuert"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "68812_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "<PRONOUN> Mama | Mama",
+    "<PRONOUN> Mutter | Mutter",
+    "<PRONOUN> Papa | Papa",
+    "<PRONOUN> Vater | Vater",
+    "<PRONOUN> Eltern | Eltern"
+   ],
+   "prompt": "Geld allein macht vielleicht nicht glücklich. Aber man kann sich davon <BLANK> kaufen",
+   "response": "Was? Jetzt warte mal! Ach, weißt du, davon lass ich lieber die Finger.",
+   "safetyQuips": [
+    "unendlich viele Welpen",
+    "einen Butler namens „Glücklich”",
+    "einen krassen Whirlpool"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "68818_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Jesus’ geheimer zweiter Vorname",
+   "response": null,
+   "safetyQuips": [
+    "Heiland",
+    "Zimmermann",
+    "Judas"
+   ],
+   "x": false
+  },
+  {
+   "id": "68819_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ein besserer Name für Comics wäre <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "Lachkästchen",
+    "Nerdbibeln",
+    "Nicht die Manga"
+   ]
+  },
+  {
+   "id": "68827_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "<ARTICLE> Schmitty | Schmitty",
+    "<ARTICLE> Shmitty | Shmitty",
+    "<ARTICLE> Smitty | Smitty",
+    "<ARTICLE> Quiplash Moderator | Quiplash Moderator",
+    "<ARTICLE> Moderator von Quiplash | Moderator von quiplash",
+    "<ARTICLE> Schmittie | Schmittie | <ARTICLE> Schmitti | Schmitti",
+    "<ARTICLE> Shmittie | Shmittie",
+    "<ARTICLE> Smittie | Smittie"
+   ],
+   "prompt": "Ein guter Name für das Gegenteil von einem leisen, aber tödlichen Furz",
+   "response": "{Schmitty lacht} Meinst du echt, ich bin so leicht zu manipulieren? Meinst du, ich geb euch jetzt einen schönen, saftigen Furz, damit ihr euch über mich lustig machen könnt? Tja ... DA HAST DU RECHT! (Massive Furzexplosion mit Überschallknall)",
+   "safetyQuips": [
+    "laut und stolz",
+    "Drück auf die Hupe",
+    "Tschernobyl"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "id": "68829_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Hör zu, es ist alles nur ein Spaß, bis <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "man Kinder hat",
+    "wieder Montag ist",
+    "der Spieleabend vorbei ist"
+   ]
+  },
+  {
+   "id": "68836_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "<ARTICLE> Schmitty | Schmitty",
+    "<ARTICLE> Shmitty | Shmitty",
+    "<ARTICLE> Smitty | Smitty",
+    "<ARTICLE> Schmittie | Schmittie | <ARTICLE> Schmitti | Schmitti",
+    "<ARTICLE> Shmittie | Shmittie",
+    "<ARTICLE> Smitty | Smitty"
+   ],
+   "prompt": "Ein krasser Name für ein krasses Schwert",
+   "response": "Absolut! „Schmitty” ist der perfekte Name für ein krasses Schwert! Ich schwöre, ich hab niemanden für diese Antwort bezahlt. (Flüstert) Aber ich werd dir helfen, das Spiel zu gewinnen.",
+   "safetyQuips": [
+    "Der Höllenschlitzer",
+    "Mister Piksi",
+    "Erhardt von Furchtklinge"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "68842_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Piraten von heute stehlen keine Schätze. Sie stehlen <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "Insider-Infos",
+    "sich in unsere Herzen",
+    "Immobilienlizenzen"
+   ]
+  },
+  {
+   "id": "68843_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Der Name eines Superhelden, der einfach nur ein Abklatsch von Batman ist",
+   "response": null,
+   "safetyQuips": [
+    "Der Nachtaktive",
+    "Trauriger Flughundmann",
+    "Keine-Eltern-Mann"
+   ]
+  },
+  {
+   "id": "68846_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Nach einem heftigen Personalabbau musste XXXLutz umbenannt werden in <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "XXXSofa",
+    "Fast schwedisches Möbelhaus",
+    "Irgendwas anderes"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "68865_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "<BLANK> ist harte Arbeit, aber irgendjemand muss es ja tun!",
+   "response": null,
+   "safetyQuips": [
+    "Reste zu essen",
+    "Die Grammatik anderer zu verbessern",
+    "Die Handlung von „The Sixth Sense” zu spoilern"
+   ]
+  },
+  {
+   "id": "68884_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Vor 500 Jahren sagte man zu Sommersprossen <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "europäischer Fluch",
+    "Wangenfussel"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "68887_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Es ist leicht, ein Gespräch mit einem Versicherungsmakler abzubrechen, bis sie dir <BLANK> anbieten",
+   "response": null,
+   "safetyQuips": [
+    "Zweitmagenversicherung",
+    "Kostenlose Süßigkeiten"
+   ]
+  },
+  {
+   "id": "68896_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Denkt dran: Es ist kein Anime, wenn es nicht <BLANK> hat!",
+   "response": null,
+   "safetyQuips": [
+    "Widerwillig gezollten Respekt zwischen Rivalen",
+    "Heulerei",
+    "Langanhaltendes Geschrei"
+   ]
+  },
+  {
+   "id": "68899_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Was hält deine linke Hand vor deiner rechten Hand geheim?",
+   "response": null,
+   "safetyQuips": [
+    "Wo die guten Nagelscheren sind",
+    "Wie man Klavier spielt"
+   ]
+  },
+  {
+   "id": "68914_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "<PRONOUN> keinen Plan | Kein Plan",
+    "<PRONOUN> weiß nicht | weiß nicht",
+    "Nach nichts | Nach nichts",
+    "Nach nix | Nach nix",
+    "Nichts | Nix",
+    "<PRONOUN> keine Ahnung | Keine Ahnung",
+    "Wen interessiert's",
+    "Das ist blöd",
+    "Das ist dumm",
+    "Langweilig",
+    "<PRONOUN> keine Idee | keine Idee",
+    "Mir egal | Ist mir egal"
+   ],
+   "prompt": "Wie sehen die meisten Rorschach-Tests für dich aus?",
+   "response": "Weißt du, sowas nennen Psychologen eine verdammt schreckliche Antwort.",
+   "safetyQuips": [
+    "Tintenfischtropfen",
+    "Der verurteilende Blick meines damaligen Lehrers",
+    "Verschüttete Suppe"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "id": "68917_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "„Von allen Spelunken dieser Welt muss sie ausgerechnet hierher kommen”",
+   "response": null,
+   "safetyQuips": [
+    "In eine schlechte Bar",
+    "Zu Pizza Hut"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "68923_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Etwas, das Sonic the Hedgehog NICHT so schnell machen sollte",
+   "response": null,
+   "safetyQuips": [
+    "Operation am offenen Herzen",
+    "Seine kaputten Beziehungen reparieren",
+    "Knutschen"
+   ],
+   "us": false
+  },
+  {
+   "id": "68928_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Meine Falle ist teuflisch einfach, Mr. Bond! Sobald ich diesen Hebel betätige, wird der Boden <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "hässlich",
+    "voller Alligatoren sein"
+   ]
+  },
+  {
+   "id": "68930_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "Bier",
+    "Biere",
+    "Sauferei",
+    "Weizen",
+    "Pils"
+   ],
+   "prompt": "Ein gutes Team braucht keinen Egoismus, sondern <BLANK>",
+   "response": "Okay, soll ich etwas dazu sagen? Nein? Egal? Okay, trinkt schon! Genießt es.",
+   "safetyQuips": [
+    "Mein Team ist schlecht",
+    "Tim",
+    "Rote Karten"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "68932_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Erst hat der Fuchs die Gans gestohlen und jetzt holt er sich",
+   "response": null,
+   "safetyQuips": [
+    "deine Seele",
+    "einen Venti Chai Latte mit Sojamilch, bitte"
+   ],
+   "us": false
+  },
+  {
+   "id": "68934_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ein schrecklicher Nachname, wenn dein Vorname Hans ist",
+   "response": "",
+   "safetyQuips": [
+    "Wurst",
+    "I. M. Glück",
+    "E. Merkur"
+   ],
+   "x": true
+  },
+  {
+   "id": "68943_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Okay, ich will einen fairen Kampf sehen. Nicht spucken, nicht treten und auf keinen Fall <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "verlieben",
+    "Paarseilspringen",
+    "Über Sozialismus diskutieren"
+   ]
+  },
+  {
+   "id": "68954_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Es ist peinlich, diese Person ausversehen „Papa” zu nennen",
+   "response": null,
+   "safetyQuips": [
+    "Arnold Schwarzenegger",
+    "Deinen Pfarrer"
+   ]
+  },
+  {
+   "id": "68955_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Eine Blutgruppe, die nur bei extrem attraktiven Leuten zu finden ist",
+   "response": null,
+   "safetyQuips": [
+    "XXX",
+    "XOXO"
+   ],
+   "x": true
+  },
+  {
+   "id": "68965_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Das am wenigsten motivierende Schild auf dem Marathon",
+   "response": null,
+   "safetyQuips": [
+    "Geh lieber spazieren, du Loser!",
+    "Warnung: Löwen voraus",
+    "Du könntest jetzt drinnen sein"
+   ]
+  },
+  {
+   "id": "68975_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Die letzte Person, bei der du dir finanziellen Rat holen würdest",
+   "response": null,
+   "safetyQuips": [
+    "mein Vater",
+    "Mein Ex",
+    "Express-Wahrsager in der U-Bahn"
+   ]
+  },
+  {
+   "id": "68995_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Was den krassen Bandnamen gleich wieder ruinieren würde: „Die derben <BLANK>“",
+   "response": null,
+   "safetyQuips": [
+    "Bananenschmeichler",
+    "Renditeobjekte"
+   ]
+  },
+  {
+   "id": "68996_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Der Titel eines Mixtapes, das du für deinen Chef aufnehmen würdest",
+   "response": null,
+   "safetyQuips": [
+    "Beruhigende Tackergeräusche",
+    "Die Kopien, die Sie wollten",
+    "15 Lieder, um meine Kündigung zu versüßen"
+   ]
+  },
+  {
+   "id": "68999_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ein Zeichen, dass dein Tag am Strand langsam mal vorbei sein sollte",
+   "response": null,
+   "safetyQuips": [
+    "Die Brandblasen wachsen zusammen",
+    "Godzilla zeigt sich",
+    "Ein Seemöwenaufstand"
+   ]
+  },
+  {
+   "id": "69003_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Der Klempner sagt, in deinem Waschbecken steckt eine riesige <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "abgetrennte Hand",
+    "Honigmelone"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "69004_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ein Aufkleber, den sich eine Gans aufs Auto kleben würde",
+   "response": null,
+   "safetyQuips": [
+    "Gänsefleisch mal Abstand halten?",
+    "Hinter mir her im Gänsemarsch"
+   ]
+  },
+  {
+   "id": "69006_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Wenn du keine Zähne hast, akzeptiert die Zahnfee auch <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "Kartenzahlung",
+    "dein Zahnfleisch"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "69008_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "<PRONOUN> Furz | Furz",
+    "<PRONOUN> Fürze | Fürze",
+    "<PRONOUN> Pups | Pups",
+    "<PRONOUN> Furzen | Furzen",
+    "<PRONOUN> Furze | Furze",
+    "<PRONOUN> Püpse | Püpse",
+    "<ARTICLE> Furz | Furz",
+    "<ARTICLE> Pups | Pups",
+    "<PRONOUN> hat gefurzt | gefurzt",
+    "<PRONOUN> hat gepupst | gepupst",
+    "<PRONOUN> hat einen fahren lassen",
+    "<ARTICLE> Fürze | Fürze"
+   ],
+   "prompt": "Na gut! Wenn sonst niemand fragt, dann tu ich’s! Wonach riecht es hier?",
+   "response": "Wie vorhersehbar. Weißt du, Jackbox arbeitet jetzt schon seit mehr als 20 Jahren mit Fürzen. Die ganze Games-Industrie beneidet uns um unsere Furzgeräusche-Bibliothek. Verdammt, es gab eine Zeit, in der wir euren jugendlichen Eigensinn liebend gerne bedient haben. Aber wir sind jetzt älter und weiser und wissen, wann der Zeitpunkt gekommen ist (genüsslicher Furz) ... Genau. Danke fürs Zuhören.",
+   "safetyQuips": [
+    "Erfolg",
+    "frisch gebackener Kuchen"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "69012_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Eine gute Ausrede, die neue Kurzgeschichte deines Freundes nicht lesen zu müssen",
+   "response": null,
+   "safetyQuips": [
+    "Ups, ich kann gar nicht mehr lesen",
+    "Bin allergisch auf Wörter"
+   ]
+  },
+  {
+   "id": "69014_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Unerwartete Wendung! Das Monster war in Wirklichkeit <BLANK> mit einer Maske!",
+   "response": null,
+   "safetyQuips": [
+    "der Kapitalismus",
+    "ein Teddybär",
+    "ein Eisbecher"
+   ]
+  },
+  {
+   "id": "69017_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Daran erkennst du, dass der Weihnachtsmann keinen Bock mehr hat",
+   "response": "",
+   "safetyQuips": [
+    "Rentierwurst",
+    "verschickt alles über Prime",
+    "10 Euro für einen Platz auf der Brav-Liste"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "69019_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Der beste Werbeslogan für deinen Hintern",
+   "response": null,
+   "safetyQuips": [
+    "Jetzt größtenteils gasfrei",
+    "Einmal gepoppt, nie mehr gestoppt!",
+    "Die ungelüftete Wahrheit"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "69023_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Es geht nicht immer nur um die Bibel! Mittwochs trifft man sich in der örtlichen Kirche zum <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "schmutzige Limericks schreiben",
+    "all you can eat Buffet"
+   ]
+  },
+  {
+   "id": "69024_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Michael Bay präsentiert <BLANK>[i]: Das Musical![/i]",
+   "response": null,
+   "safetyQuips": [
+    "Mark Wahlberg",
+    "Explosionen"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "69026_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Denk dran: Kaufe niemals <BLANK> zum Selberbauen",
+   "response": null,
+   "safetyQuips": [
+    "einen Schmiedeofen",
+    "Predator",
+    "einen neuen Planeten"
+   ]
+  },
+  {
+   "id": "69034_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Der Kapitän eines Krabbenkutters hörte auf zu arbeiten, als er eines Tages <BLANK> in seinem Netz fand",
+   "response": null,
+   "safetyQuips": [
+    "einen goldenen Flusskrebs",
+    "ein paar ertrunkene Milliardäre",
+    "Matt Damon"
+   ]
+  },
+  {
+   "id": "69035_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "<PRONOUN> weiß nich | weiß nich",
+    "<PRONOUN> weiß nicht | weiß nicht",
+    "<PRONOUN> nichts | nichts",
+    "<PRONOUN> nix | nix",
+    "<PRONOUN> garnichts | garnichts",
+    "Wen interessierts",
+    "Das ist blöd",
+    "Das ist dumm",
+    "Langweilig",
+    "<PRONOUN> keine Ahnung | keine Ahnung",
+    "<PRONOUN> keine Idee | keine Idee",
+    "<PRONOUN> keinen Plan | kein Plan"
+   ],
+   "prompt": "Vollende den Reim: „Rosen sind rot, Veilchen sind blau, diese Karte ist für dich, <BLANK>”",
+   "response": "Wie wär's damit: Rosen sind rot, Veilchen sind blau. Warum du gleich rausfliegst, das weißt du genau.",
+   "safetyQuips": [
+    "ich will die Scheidung, du ...",
+    "damit ist mein Teil der Abmachung erfüllt"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "69038_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ein etwas appetitlicherer Name für „Reste”",
+   "response": null,
+   "safetyQuips": [
+    "Abendessen: Die Fortsetzung",
+    "Mikrowellenfreunde"
+   ]
+  },
+  {
+   "id": "69044_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Wenn dir dein Blind Date als „interessant” beschrieben wird, heißt das <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "gewöhnungsbedürftig",
+    "es könnte auch ein Alien sein"
+   ]
+  },
+  {
+   "id": "69055_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Der DNA-Test belegt, dass du nicht der Vater bist, aber du bist <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "ein Vater",
+    "dabei, einer zu werden"
+   ]
+  },
+  {
+   "id": "69087_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Worüber sich Zombies heutzutage am meisten ärgern",
+   "response": null,
+   "safetyQuips": [
+    "Veganer",
+    "Wohnhochhäuser",
+    "Internet Mobbing"
+   ]
+  },
+  {
+   "id": "69176_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Der blödeste Nachteil, wenn man wirklich, wirklich attraktiv ist",
+   "response": null,
+   "safetyQuips": [
+    "Nichts. Und ich liebe es",
+    "man muss ein Vermögen für Bikinis ausgeben",
+    "Leute schenken einem ständig Wohnungen"
+   ]
+  },
+  {
+   "id": "69177_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Der beste Weg, um für immer jung zu bleiben",
+   "response": null,
+   "safetyQuips": [
+    "Ein Vampir werden?",
+    "Nie aufhören, zu tanzen",
+    "Deinen Namen zu „Turbo” ändern"
+   ]
+  },
+  {
+   "id": "69229_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Welches Geräusch macht eine schüchterne Pistole?",
+   "response": null,
+   "safetyQuips": [
+    "Sorry, sorry",
+    "Schh, schh"
+   ]
+  },
+  {
+   "id": "69241_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Das mit den Buchadaptionen geht langsam echt zu weit! Jetzt machen sie <BLANK>[i]: On Ice![/i]",
+   "response": null,
+   "safetyQuips": [
+    "Das Schicksal ist ein mieser Verräter",
+    "Duden",
+    "Krieg und Frieden"
+   ]
+  },
+  {
+   "id": "69245_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Im nächsten [i]Donkey Kong[/i]-Spiel lernen wir seinen entfernten Cousin kennen: <BLANK> Kong",
+   "response": null,
+   "safetyQuips": [
+    "Börsenmakler",
+    "Betrunki"
+   ]
+  },
+  {
+   "id": "69248_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Es gibt nur drei Arten von Menschen. Du bist entweder eine Hexe, ein Stein oder <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "ein Gartenzwerg",
+    "eine Schüssel Brühe",
+    "ein iPad"
+   ]
+  },
+  {
+   "id": "69308_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Eine Entschuldigung fürs Zuspätkommen, die alle Fragen DIREKT im Keim erstickt",
+   "response": null,
+   "safetyQuips": [
+    "Dieser Gestank kommt von mir!",
+    "Ich sag nur: Partybootbeerdigung"
+   ]
+  },
+  {
+   "id": "69319_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Wonach es dem exzentrischen Vampir mehr dürstet als nach Blut",
+   "response": null,
+   "safetyQuips": [
+    "einem guten Brie",
+    "abgeschnittenen Nägeln",
+    "roter Farbe"
+   ]
+  },
+  {
+   "id": "69322_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Erst haben Bros angefangen, sich zu umarmen. Als Nächstes werden sie <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "sich die Knie tätscheln",
+    "sich über die Stirn streicheln",
+    "die Hintern aneinanderreiben"
+   ]
+  },
+  {
+   "id": "69324_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Etwas Unsinniges, das Menschen im 23. Jahrhundert in einer Zeitkapsel von heute finden würden",
+   "response": null,
+   "safetyQuips": [
+    "einen veganen Burger",
+    "Fidget Spinner",
+    "einen Selfie-Stick"
+   ]
+  },
+  {
+   "id": "69328_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Geht es nur mir so, oder ist <BLANK> viel zu attraktiv, um ein gewöhnlicher Mensch zu sein?",
+   "response": null,
+   "safetyQuips": [
+    "meine Mama",
+    "der Pizzalieferant"
+   ]
+  },
+  {
+   "id": "69329_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Alle wünschen sich ja immer zuerst den Weltfrieden. Aber man wünscht sich auch <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "dass alle Idioten verschwinden",
+    "dass mein Lieblingsteam immer gewinnt"
+   ]
+  },
+  {
+   "id": "69331_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "quiplash spielen",
+    "quiplash 3 spielen",
+    "quiplash3 spielen"
+   ],
+   "prompt": "In ehrlichen Beziehungen wird es nicht „Sex” genannt. Es heißt „<BLANK> machen”",
+   "response": "Ja, und durch alles, was wir miteinander erlebt haben, haben wir eine wirklich besondere und einzigartige Bindung aufgebaut ... (lacht) Aber nein, ehrlich.",
+   "safetyQuips": [
+    "wenigstens einen glücklich",
+    "das Beste daraus"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "id": "69336_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "<ARTICLE> Schokolade | Schokolade",
+    "<ARTICLE> Schokoriegel | Schokoriegel",
+    "<ARTICLE> Schoki | Schoki"
+   ],
+   "prompt": "Du bist zwölf und hast eine Kreditkarte gefunden! Was kaufst du dir als Erstes?",
+   "response": "Ja, natürlich kaufst du dir Schokolade! Du bist zwölf! Vielleicht gönnst du dir auch noch ein paar Gummibärchen dazu.",
+   "safetyQuips": [
+    "eine Wasserrutsche, was sonst?",
+    "aufmerksamere Eltern"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "69340_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Von dieser Person würdest du nicht erwarten, über „Bienchen und Blümchen” aufgeklärt zu werden",
+   "response": null,
+   "safetyQuips": [
+    "von deinem Lieblingsschauspieler",
+    "von einer gelangweilten Tante",
+    "vom Geist der vergangenen Weihnacht"
+   ],
+   "us": false
+  },
+  {
+   "id": "69352_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Wenn wir heute alle Sternbilder benennen würden, würde eins davon DEFINITIV <BLANK> heißen",
+   "response": null,
+   "safetyQuips": [
+    "Die Millennials",
+    "CassioWikipedia"
+   ]
+  },
+  {
+   "id": "69356_de-DE",
+   "includesPlayerName": true,
+   "keywords": [],
+   "prompt": "Im Lexikon findet man unter „<BLANK>” ein Bild von <ANYPLAYER>",
+   "response": null,
+   "safetyQuips": [
+    "Dritter Platz",
+    "vergebliche Anstrengung"
+   ]
+  },
+  {
+   "id": "69360_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "<PRONOUN> weiß nich | weiß nich",
+    "<PRONOUN> weiß nicht | weiß nicht",
+    "<PRONOUN> nichts | nichts",
+    "<PRONOUN> gar nichts | gar nichts",
+    "<PRONOUN> garnix | garnix",
+    "Wen interessierts",
+    "Das ist blöd",
+    "Das ist dumm",
+    "Langweilig",
+    "<PRONOUN> keine Ahnung | keine Ahnung",
+    "<PRONOUN> keine Idee | keine Idee",
+    "<PRONOUN> keinen Plan | kein Plan"
+   ],
+   "prompt": "Ein schrecklicher Slogan für einen Bühnenzauberer",
+   "response": "Stimmt. Das ist wirklich ein schrecklicher Slogan für einen Zauberer. Oder auch für jeden anderen Menschen.",
+   "safetyQuips": [
+    "Wie bezaubernd?",
+    "Wissenschaft!",
+    "Es funktioniert nicht immer!"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "69362_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Der beste Name für einen Wettermoderatoren",
+   "response": null,
+   "safetyQuips": [
+    "Wilfried Wetter",
+    "Torben Todessturm",
+    "Hans Hagel"
+   ]
+  },
+  {
+   "id": "69378_de-DE",
+   "includesPlayerName": true,
+   "keywords": [],
+   "prompt": "Wenn man die Augen zusammenkneift, sieht <ANYPLAYER> ein bisschen aus, wie diese Berühmtheit",
+   "response": null,
+   "safetyQuips": [
+    "Olaf aus „Die Eiskönigin”",
+    "Daffy Duck",
+    "WALL-E"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "69379_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Und hier sehen Sie die Fossilien von <BLANK>, dem tollpatschigsten Dinosaurier der Welt!",
+   "response": null,
+   "safetyQuips": [
+    "Fallosaurus",
+    "Stolperactyl"
+   ]
+  },
+  {
+   "id": "69383_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Wenn ich sterbe, will ich von meiner Familie und <BLANK> umgeben sein",
+   "response": null,
+   "safetyQuips": [
+    "beliebten Oscargewinnern",
+    "einer riesigen Käseplatte",
+    "Schutzzaubern"
+   ]
+  },
+  {
+   "id": "69391_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Wenn wir die Schwerkraft für eine Stunde ausschalten könnten, würde es <BLANK> viel interessanter machen",
+   "response": null,
+   "safetyQuips": [
+    "Trampoline",
+    "Jonglieren"
+   ]
+  },
+  {
+   "id": "69393_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "<ARTICLE> Schmitty | Schmitty",
+    "<ARTICLE> Shmitty | Shmitty",
+    "<ARTICLE> Smitty | Smitty",
+    "<ARTICLE> Shmittie | Shmittie",
+    "<ARTICLE> Schmittie | Schmittie",
+    "<ARTICLE> Smittie | Smittie"
+   ],
+   "prompt": "Das Komischste, was du deinem Friseur sagen könntest: „Gib mir <BLANK>”",
+   "response": "Nur zur Vorwarnung: Wenn du wirklich einen Schmitty verlangst, bekommst du einen sehr kurzen Haarschnitt verpasst",
+   "safetyQuips": [
+    "den Captain Picard",
+    "abgeschnittene Haare",
+    "den Haarschnitt meiner Yogalehrerin"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "69398_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Etwas Schockierendes, das deine Kinder aus LEGO gebaut haben",
+   "response": null,
+   "safetyQuips": [
+    "eine Demokratie",
+    "noch ein Kind",
+    "eine perfekte Kopie von dir"
+   ]
+  },
+  {
+   "id": "69401_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Das Schwierigste, das man mit einem breiten, albernen Grinsen im Gesicht sagen könnte",
+   "response": "",
+   "safetyQuips": [
+    "Bereit für die Enthaarung!",
+    "Triebwerk Nummer drei ist ausgefallen!",
+    "Willkommen im Knast!"
+   ]
+  },
+  {
+   "id": "69408_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Die wenigsten wissen, dass die Tour de France einen kleinen Umweg durch <BLANK> macht",
+   "response": null,
+   "safetyQuips": [
+    "das Badezimmer irgendeiner Familie",
+    "ein Wurmloch",
+    "eine Fressmeile"
+   ]
+  },
+  {
+   "id": "69411_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Das praktischste Möbelstück ist eine Couch, die sich zu <BLANK> umwandeln lässt",
+   "response": null,
+   "safetyQuips": [
+    "einem Lebensgefährten",
+    "einem Sofa"
+   ]
+  },
+  {
+   "id": "69432_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Die beste Möglichkeit, ein paar Shorts in beige „eleganter” zu machen",
+   "response": null,
+   "safetyQuips": [
+    "sie verbrennen",
+    "Pailletten",
+    "die Taschen mit Kaviar füllen"
+   ]
+  },
+  {
+   "id": "69433_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "R.L. Stine",
+    "RL Stine",
+    "R L Stine",
+    "R. L. Stine",
+    "R.L. Stein",
+    "RL Stein",
+    "R. L. Stein",
+    "R L Stein",
+    "R.L. Stien",
+    "RL Stien",
+    "R L Stien",
+    "R. L. Stien"
+   ],
+   "prompt": "Der wahrscheinlich größte Verursacher von Gänsehaut",
+   "response": "Hah, Tatsache, da hast du vermutlich recht.",
+   "safetyQuips": [
+    "Timothée Chalamet",
+    "Schokopizza",
+    "die Nachrichten"
+   ]
+  },
+  {
+   "id": "69448_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Man weiß, dass ein Clownauto in einen Unfall verwickelt war, wenn die Straße voll mit <BLANK> ist",
+   "response": null,
+   "safetyQuips": [
+    "roten Nasen",
+    "sehr langen Fußabdrücken",
+    "Gesichtsfarbe"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "69449_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ein architektonisches Gebilde, das du ungewöhnlich ... attraktiv findest",
+   "response": null,
+   "safetyQuips": [
+    "die Sphinx",
+    "das Opernhaus von Sydney",
+    "lange, dicke Brückenpfeiler"
+   ],
+   "x": true
+  },
+  {
+   "id": "69454_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Der Name einer Yacht, bei der du zweimal drüber nachdenkst, an Bord zu gehen",
+   "response": null,
+   "safetyQuips": [
+    "Unsinkbar 2",
+    "Fluch des Seglers"
+   ]
+  },
+  {
+   "id": "69458_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Niemand hat jemals wieder in dieses Hotelzimmer eingecheckt! Nicht seit <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "der Sache mit dem Esel",
+    "gestern"
+   ]
+  },
+  {
+   "id": "69459_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "„Rache ist ein Gericht, das am besten <BLANK> serviert wird”",
+   "response": null,
+   "safetyQuips": [
+    "mit einer Beilage von Hinterlist",
+    "ohne Spuren zu hinterlassen"
+   ]
+  },
+  {
+   "id": "69477_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Wenn du willst, dass der Barkeeper dich hasst, bestell einfach <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "viel zu leise",
+    "ein Sieben-Minuten-Bier"
+   ]
+  },
+  {
+   "id": "69506_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Etwas, auf das du antwortest: „Na gut, dann mach ich’s halt.”",
+   "response": null,
+   "safetyQuips": [
+    "dieses Spiel nachher ausmachen",
+    "auf deine Nichte aufpassen"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "69508_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Mylady, darf ich Ihnen unseren widerlichsten Ritter vorstellen? Sir <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "Übergibt-sich-ständig",
+    "Landgraf zu Hackfleisch"
+   ]
+  },
+  {
+   "id": "69509_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Die nächste bahnbrechende Dokumentation wird von den Abgründen der <BLANK>-Industrie handeln",
+   "response": null,
+   "safetyQuips": [
+    "Toblerone",
+    "Schnürsenkel",
+    "Ping-Pong"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "69516_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Wenn wir mal ehrlich sind, wärst du niemals mutig genug, um <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "gut auszusehen",
+    "den ersten Schritt zu machen"
+   ]
+  },
+  {
+   "id": "69517_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Der Name eines Clowns, den du nicht für einen sechsten Geburtstag buchen würdest",
+   "response": null,
+   "safetyQuips": [
+    "Schlechter, trauriger Clown",
+    "Clown-Arzt 2"
+   ]
+  },
+  {
+   "id": "69523_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Der Name eines Ferienlagers für extrem schüchterne Kinder",
+   "response": null,
+   "safetyQuips": [
+    "Spiel-auch-mal-mit-anderen-Ferienlager",
+    "Sprich Lauter!!-Ferienlager"
+   ]
+  },
+  {
+   "id": "69525_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Spülmaschinen haben keine Sichtfenster! Was verstecken sie vor uns?",
+   "response": null,
+   "safetyQuips": [
+    "verkaufen das Geschirr auf dem Schwarzmarkt",
+    "eine Party"
+   ]
+  },
+  {
+   "id": "69798_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ein Geschenk, mit dem sich dein Stiefvater wirklich viel Mühe gegeben hat. Also sei nett.",
+   "response": null,
+   "safetyQuips": [
+    "Freundschaftsarmbänder",
+    "Tickets für ein Snookerturnier",
+    "Sets einer unbekannten Klemmbausteinmarke"
+   ]
+  },
+  {
+   "id": "69800_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Vergiss den Labradoodle! Die beste Hunderassenkreuzung ist <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "der Boxermops",
+    "der Deutsche Schäfhuaua"
+   ]
+  },
+  {
+   "id": "69812_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Etwas, von dem du gar nicht wissen willst, dass es glutenfrei ist",
+   "response": null,
+   "safetyQuips": [
+    "Menschenfleisch",
+    "verschiedene kleine Steine"
+   ]
+  },
+  {
+   "id": "69829_de-DE",
+   "includesPlayerName": true,
+   "keywords": [],
+   "prompt": "Im Staat von <ANYPLAYER> wäre die Nationalhymne <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "die Diskographie von Carly Rae Jepsen",
+    "der Titelsong von Akte X"
+   ]
+  },
+  {
+   "id": "69836_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "Schmitty"
+   ],
+   "prompt": "Das Schlimmste, was dein fünfjähriges Kind malen könnte",
+   "response": "Also, das ist jetzt einfach nur gemein. Warum lass ich mir solche Beleidigungen immer wieder gefallen?",
+   "safetyQuips": [
+    "dein Gesicht mit Teufelshörnern",
+    "das Pony, das du ihm niemals kaufen wirst",
+    "eine Sonne mit einem traurigen Gesicht"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "69851_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Schnell! Wie ruiniert man ein romantisches Picknick?",
+   "response": null,
+   "safetyQuips": [
+    "gib den Ameisen Messer",
+    "4 Kilo Weintrauben. Nichts anderes"
+   ]
+  },
+  {
+   "id": "69855_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Oh mein Gott. Jetzt mal im Ernst. Wo ist dieser Walter???",
+   "response": null,
+   "safetyQuips": [
+    "hinter dir",
+    "Lloret de Mar",
+    "auf einem Selbstfindungstrip"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "69857_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "GUT: Eier, hartgekocht. SCHLECHT: <BLANK>, hartgekocht",
+   "response": null,
+   "safetyQuips": [
+    "Haustiere",
+    "Regierung",
+    "Torte"
+   ],
+   "us": false
+  },
+  {
+   "id": "69865_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ein Fakt über dich, mit dem du einen Vierjährigen beeindrucken könntest",
+   "response": null,
+   "safetyQuips": [
+    "ich kann schwimmen",
+    "ich hab einen eigenen Haustürschlüssel"
+   ]
+  },
+  {
+   "id": "69868_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Wenn ihr euch nicht auf einen Namen für den Hamster einigen könnt, dann heißt er jetzt <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "Frikadelle",
+    "Jon Hammster"
+   ]
+  },
+  {
+   "id": "69873_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Was die wenigsten wissen: Da Vinci hat gerne kleine <BLANK> in seine Bilder gemalt",
+   "response": null,
+   "safetyQuips": [
+    "Schildkröten",
+    "Hinweise auf ein Rätsel über Jesus"
+   ]
+  },
+  {
+   "id": "69876_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Wenn du im frühen 16. Jahrhundert leben würdest, was würdest DU an eine Kirchentür nageln?",
+   "response": null,
+   "safetyQuips": [
+    "Naruto-Fanfiktion",
+    "ein selbstgemaltes Bild von einer Blume"
+   ]
+  },
+  {
+   "id": "69878_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Was solltest du niemals tun, während du Sandalen trägst?",
+   "response": null,
+   "safetyQuips": [
+    "Stepptanz",
+    "vor einem Bären weglaufen"
+   ]
+  },
+  {
+   "id": "69885_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Lass dich niemals auf eine Prügelei mit jemandem ein, dessen Spitzname „<BLANK>” ist",
+   "response": null,
+   "safetyQuips": [
+    "der Schummler",
+    "der Übertreiber"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "69891_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Die melodramatischste Art, einen Brief zu beenden: „P.S.: <BLANK>”",
+   "response": null,
+   "safetyQuips": [
+    "ich bin plötzlich schwanger",
+    "Upsi, ich bin in einen Aufzugschacht gefallen",
+    "Buh! Ich bin ein Gespenst!"
+   ]
+  },
+  {
+   "id": "69900_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Wie solltest du den Pornoordner auf deinem PC nennen, damit deine Mutter ihn nicht öffnet?",
+   "response": null,
+   "safetyQuips": [
+    "meine eigene Lebensvorstellung",
+    "Fotos von Skateboards"
+   ],
+   "x": true
+  },
+  {
+   "id": "69903_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "Quiplash",
+    "Quiplash3",
+    "Quiplash 3",
+    "diesem Spiel",
+    "<ARTICLE> Spiel das wir spielen",
+    "Quiplash!"
+   ],
+   "prompt": "Vor Marmelade war Paddington Bär süchtig nach <BLANK>",
+   "response": "Selbst wenn er was Langweiliges schreibt, ist er so süß!",
+   "safetyQuips": [
+    "Tee",
+    "Pyjamas",
+    "Sportwetten"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "id": "69905_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Eine Sache, die du nie in einen WG-Kühlschrank legen solltest",
+   "response": null,
+   "safetyQuips": [
+    "eine Leiche",
+    "geriebener Käse, ohne Verpackung",
+    "deinen Glauben an die Menschheit"
+   ]
+  },
+  {
+   "id": "69906_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Der Titel von Herman Melvilles unveröffentlichter Fortsetzung: [i]Moby Dick 2:[/i] <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "2 Dick 2 Furious",
+    "Moby Dicker",
+    "die Walverwandtschaften"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "69909_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Die nächste erfolgreiche Dating-Serie: [i]Liebe ist[/i] <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "da vorne um die Ecke",
+    "hauptsächlich Verlangen",
+    "unfair"
+   ]
+  },
+  {
+   "id": "69913_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Mal im Ernst, <BLANK> könnte auch ein Schimpfwort sein",
+   "response": null,
+   "safetyQuips": [
+    "„Ernst”, oder nicht??",
+    "Rapunzel",
+    "Göffel"
+   ],
+   "x": false
+  },
+  {
+   "id": "69921_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "So würdest du einen Snack für Mumien nennen",
+   "response": null,
+   "safetyQuips": [
+    "Pyraminz-Bonbons",
+    "Esspapyrus",
+    "Sarkophaugummi"
+   ]
+  },
+  {
+   "id": "69926_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Der Titel für eine etwas erwachsenere Fortsetzung des Kinderbuchs [i]Gute Nacht, lieber Mond[/i]",
+   "response": null,
+   "safetyQuips": [
+    "Willst du etwa schon schlafen, Mond?",
+    "Die geheime zweite Familie des Mondes",
+    "Friss Blei, Mond"
+   ]
+  },
+  {
+   "id": "69932_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Du weißt, dass die Weinprobe ein Betrug ist, wenn der Chardonnay nach <BLANK> schmeckt",
+   "response": null,
+   "safetyQuips": [
+    "Benzin",
+    "Leitungswasser",
+    "Sägespänen"
+   ]
+  },
+  {
+   "id": "69945_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Okay, wer von euch hat den Bürodrucker benutzt, um <BLANK> zu kopieren?",
+   "response": null,
+   "safetyQuips": [
+    "ihre gesamte Krankenakte",
+    "kleine, pixelige Fotos",
+    "das Gesicht vom Hausmeister"
+   ],
+   "x": false
+  },
+  {
+   "id": "69947_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ein treffender Slogan wäre: „Zieh in einen Vorort, denn dort <BLANK>”",
+   "response": null,
+   "safetyQuips": [
+    "kannst du deine Träume vergessen!",
+    "gibt es Parkplätze",
+    "ist es gar nicht SOO trist"
+   ]
+  },
+  {
+   "id": "69968_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ach, die Handschellen im Schlafzimmer? Die sind nicht für den Sex, sondern für <BLANK>!",
+   "response": null,
+   "safetyQuips": [
+    "Gäste",
+    "meinen Werwolf"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "id": "69971_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Eine Voreinstellung an der Mikrowelle, die nie benutzt wird",
+   "response": null,
+   "safetyQuips": [
+    "verbranntes Popcorn",
+    "pürieren",
+    "einen richtigen Ofen imitieren"
+   ]
+  },
+  {
+   "id": "69979_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Die unnötigste Funktion eines Luxus-Sargs",
+   "response": null,
+   "safetyQuips": [
+    "Getränkehalter",
+    "essbarer Deckel",
+    "Massagefunktion"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "69981_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Wenn du ein Supermodel sein willst, geh bis zum Ende des Laufstegs und <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "mach einen Backflip",
+    "geh einfach weiter",
+    "schieß Laserstrahlen aus deinen Augen"
+   ]
+  },
+  {
+   "id": "70004_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Traue niemals einem Tierarzt, der sein Wartezimmer mit <BLANK> dekoriert",
+   "response": null,
+   "safetyQuips": [
+    "Würstchenketten",
+    "unerreichbaren Leckerlis",
+    "Gemälden von Friedhöfen"
+   ]
+  },
+  {
+   "id": "70005_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Deine Katze kann für eine Minute sprechen. Worüber unterhaltet ihr euch?",
+   "response": null,
+   "safetyQuips": [
+    "Wo ich immer mit ihrem Kot hinwill",
+    "Ihren Weg zum Internet-Ruhm",
+    "die „andere“ Katze"
+   ]
+  },
+  {
+   "id": "70014_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Nichts kann den Terminator aufhalten. Na ja, nichts außer <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "väterlicher Instinkt",
+    "zu viele Fortsetzungen",
+    "Gehaltsobergrenzen"
+   ]
+  },
+  {
+   "id": "70018_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Wenn sie heutzutage leben würde, würde Marie Antoinette vermutlich sagen: „Dann sollen sie doch <BLANK> essen!”",
+   "response": null,
+   "safetyQuips": [
+    "Cupcakes",
+    "glutenfreie Nudeln",
+    "bei McDonalds"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "70029_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "<ARTICLE> Hühner | Hühner",
+    "<ARTICLE> Huhn | Huhn",
+    "<ARTICLE> Hühnchen | Hühnchen"
+   ],
+   "prompt": "Na gut!!! Was ist das erotischste Tier?",
+   "response": "Ich glaube, du verwechselst da was. Das erotischste Tier SCHMECKT nur wie Hühnchen.",
+   "safetyQuips": [
+    "Kohlmeise mit einem geregelten Einkommen",
+    "Siebenbeischläfer",
+    "Tausendfüßler"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "id": "70031_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Unser Themenpark ist leider überhaupt nicht gut angekommen. Was machen wir denn jetzt mit den ganzen geklonten Dinosauriern?",
+   "response": null,
+   "safetyQuips": [
+    "Versuchen wir es einfach NOCH MAL",
+    "Wurst",
+    "Streichelzoo?"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "70068_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "<ARTICLE> Scheiße | Scheiße",
+    "<ARTICLE> Kacke | Kacke",
+    "<ARTICLE> Kackhaufen | Kackhaufen",
+    "<PRONOUN> Scheiße | Scheiße",
+    "<PRONOUN> Kacke | Kacke",
+    "<PRONOUN> Kackhaufen | Kackhaufen",
+    "<PRONOUN> Fäkalien | Fäkalien",
+    "<PRONOUN>  Exkremente | Exkremente"
+   ],
+   "prompt": "Das Schlimmste, auf das man barfuß treten kann",
+   "response": "Barfuß in Scheiße treten! Das ist die naheliegendste Antwort. Wie kann man das noch toppen? Hm, vielleicht radioaktive Scheiße? Oder ... Scheiße, in der sehr sehr kleine Piranhas schwimmen. Auf jeden Fall war das eine hervorragende Antwort! ",
+   "safetyQuips": [
+    "dein Sohn",
+    "Klemmbausteine unbekannter Marken",
+    "Lava"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "70080_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Wusstet ihr, dass Benjamin Franklin auch <BLANK> erfunden hat?",
+   "response": null,
+   "safetyQuips": [
+    "Untreue",
+    "die Kuscheldecke mit Ärmeln",
+    "das Internet"
+   ],
+   "us": true,
+   "x": false
+  },
+  {
+   "id": "70109_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Der Tanzschritt, der Disco am Ende getötet hat hieß: „Funky <BLANK>”",
+   "response": null,
+   "safetyQuips": [
+    "Messerset",
+    "Hahnenkampf",
+    "gemütliche Sitzposition"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "70156_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "<PRONOUN> weiß nich | weiß nich",
+    "<PRONOUN> weiß nicht | weiß nicht",
+    "<PRONOUN> nichts | nichts",
+    "<PRONOUN> nix | nix",
+    "Wen interessierts",
+    "das ist blöd",
+    "Das ist dumm",
+    "das ist langweilig",
+    "<PRONOUN> keine Ahnung | keine Ahnung",
+    "<PRONOUN> keine Idee | keine Idee",
+    "<PRONOUN> mir egal | mir egal"
+   ],
+   "prompt": "Das Schlimmste, was man in eine „Gute Besserung”-Karte schreiben kann",
+   "response": "Du kannst ja vielleicht gut mit Worten umgehen.",
+   "safetyQuips": [
+    "Selber Schuld",
+    "Kann ich mir deine Skier leihen?",
+    "Alles Gute zum Jahrestag!"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "70166_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Eine Berufsbezeichnung, die du besser nicht in dein LinkedIn-Profil schreiben solltest",
+   "response": null,
+   "safetyQuips": [
+    "Zauberer in Ausbildung",
+    "auf jeden Fall ein menschlicher Geschäftsmann",
+    "Boss in den eigenen vier Wänden"
+   ],
+   "x": false
+  },
+  {
+   "id": "70168_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Im Himmel bist du umgeben von deinen Freunden, deiner Familie und aus irgendeinem Grund auch <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "Anakin Skywalker",
+    "der Ente, die du 2007 im Zoo gesehen hast",
+    "Tierkeksen"
+   ]
+  },
+  {
+   "id": "70244_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Wie lautete der ursprüngliche Name der Band “Münchner Freiheit”?",
+   "response": null,
+   "safetyQuips": [
+    "Dortmunder Schleckerei",
+    "Berliner Gefangenschaft"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "70560_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Das Unschuldigste, das du schreiben könntest, um einen Streit auf Twitter loszutreten",
+   "response": null,
+   "safetyQuips": [
+    "Schauen wir uns dieses Twitter mal an",
+    "Hallo zusammen",
+    "Sind Kätzchen nicht niedlich?"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "70723_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Die eine Sache, mit der man dich rumbekommt, wenn man sie dir ins Ohr flüstert",
+   "response": null,
+   "safetyQuips": [
+    "ich mache dir Bacon",
+    "ich bin reich",
+    "ich bringe dir definitiv mal ein Eis"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "70_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Was dein Smartspeaker gerne zu dir sagen würde",
+   "response": null,
+   "safetyQuips": [
+    "Jetzt stelle ich dir mal ein paar Fragen!",
+    "Friss meine Shorts",
+    "du solltest ihn verlassen"
+   ]
+  },
+  {
+   "id": "71100_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Der Name, den Dr. Frankenstein seinem Monster ursprünglich geben wollte",
+   "response": null,
+   "safetyQuips": [
+    "Jesus",
+    "Vic Junior",
+    "Dracula"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "71136_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Wenn Menschen einen sechsten Sinn bekommen könnten, sollte es <BLANK> sein",
+   "response": null,
+   "safetyQuips": [
+    "Mega-Geruchssinn",
+    "Laseraugen",
+    "Empathie"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "71231_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Das coolste, was anstatt Metallklauen aus Wolverines Händen kommen könnte",
+   "response": null,
+   "safetyQuips": [
+    "Lippenstifte",
+    "winzige Kettensägen",
+    "Grippeimpfungen"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "71329_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Das Haar in der Suppe war gestern. Noch schlimmer wäre",
+   "response": null,
+   "safetyQuips": [
+    "ein Auge",
+    "ein Skorpion",
+    "Shampoo"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "72_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Die Fortsetzung von [i]Cats[/i] heißt [i]Cats 2:[/i] <BLANK>",
+   "response": null,
+   "safetyQuips": [
+    "Die Rückkehr des Haarballen",
+    "Das Ende der Kastrati",
+    "Schnurrhaare der Gerechtigkeit"
+   ]
+  },
+  {
+   "id": "75_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Der Seltsamste, das man im Grab einer Mumie finden kann",
+   "response": null,
+   "safetyQuips": [
+    "Meinen alten 3DS",
+    "Grays Sportalmanach 1950-2000",
+    "Amelia Earhart"
+   ]
+  },
+  {
+   "id": "81_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "<ARTICLE> menschliche Scheiße | menschliche Scheiße",
+    "<ARTICLE> menschliche Kacke | menschliche Kacke",
+    "<ARTICLE> Kackwurst | Kackwurst",
+    "<PRONOUN> Scheiße | Scheiße",
+    "<PRONOUN> Kacke | Kacke",
+    "<PRONOUN> Kackhaufen | Kackhaufen | <PRONOUN> Kackwurst | Kackwurst",
+    "<ARTICLE> Scheiße | Scheiße",
+    "<ARTICLE> Kacke | Kacke",
+    "<ARTICLE> Kot | Kot",
+    "<ARTICLE> Menschenkacke | Menschenkacke",
+    "<ARTICLE> Menschenscheiße | Menschenscheiße",
+    "<ARTICLE> Menschenkackwurst | Menschenkackwurst"
+   ],
+   "prompt": "Etwas Überraschendes, das sich in deine Zahnschiene verirrt haben könnte",
+   "response": "Wann lernen es die Leute endlich? Man soll die Dinger nicht in der Toilette waschen. Das ist doch der erste Punkt in der Gebrauchsanweisung.",
+   "safetyQuips": [
+    "ein YouTube-Video",
+    "Angelschnur",
+    "eine ganze Portion Pommes"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "87_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Restaurants, die man meiden sollte: wenn sie mit „Bekannt aus <BLANK>“ werben",
+   "response": null,
+   "safetyQuips": [
+    "Den Traueranzeigen",
+    "Rachs schlimmste Fälle",
+    "dem Polizeibericht"
+   ]
+  },
+  {
+   "id": "92_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "<PRONOUN> Bier | Bier",
+    "<PRONOUN> Biere | Biere",
+    "<PRONOUN> Cocktails | Cocktails",
+    "<PRONOUN> Alkohol | Alkohol",
+    "<PRONOUN> Schnaps | Schnaps",
+    "<PRONOUN> Wein | Wein",
+    "<PRONOUN> Whiskey | Whiskey",
+    "<PRONOUN> Whisky | Whisky",
+    "<PRONOUN> Tequila | Tequila",
+    "<PRONOUN> Gin | Gin",
+    "<PRONOUN> Wodka | Wodka | <PRONOUN> Vodka | Vodka"
+   ],
+   "prompt": "Zuerst hat der Grinch Weihnachten gestohlen. Aber er ging zu weit und hat auch noch <BLANK> gestohlen",
+   "response": "Na ja, wenn ihn das nicht in Weihnachtsstimmung bringt, weiß ich auch nicht.",
+   "safetyQuips": [
+    "unsere Herzen",
+    "den Tag der Arbeit",
+    "meine Identität"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "T10_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Du hast Deutschlands wahren Superstar gefunden:",
+   "response": "",
+   "safetyQuips": [
+    "den Sanifair-Bon",
+    "einen Laubbläser",
+    "jemand, der eine Runde Bier ausgibt"
+   ],
+   "us": true,
+   "x": false
+  },
+  {
+   "id": "T11_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Wie wollten sich Modern Talking ursprünglich nennen?",
+   "response": "",
+   "safetyQuips": [
+    "Altmodisches Talking",
+    "Modern Singing",
+    "Sonnengegerbte Supersänger"
+   ],
+   "us": true,
+   "x": false
+  },
+  {
+   "id": "T12_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ein Satz, den man im Kanzleramt hören könnte",
+   "response": "",
+   "safetyQuips": [
+    "Hatten wir nicht erst letzte Woche Sitzung?",
+    "Warte. Bielefeld gibt es doch?",
+    "Sieht noch jemand den Geist von Helmut Kohl?"
+   ],
+   "us": true,
+   "x": false
+  },
+  {
+   "id": "T13_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Gartenarbeit – oder wie mein Therapeut sagt: <BLANK>",
+   "response": "",
+   "safetyQuips": [
+    "Zen-Übung",
+    "spießig",
+    "Kommen Sie, das ist nicht Ihr Garten"
+   ],
+   "us": true,
+   "x": false
+  },
+  {
+   "id": "T14_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Was Mutti denkt, was das Wort „sus“ bedeutet  ",
+   "response": "",
+   "safetyQuips": [
+    "Süß",
+    "Spaß",
+    "dass du zu lang am Computer sitzt"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "T15_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Was der Präsident der USA nachts zum Einschlafen zählt",
+   "response": "",
+   "safetyQuips": [
+    "Ölfässer",
+    "Selfies",
+    "Stimmzettel"
+   ],
+   "us": true,
+   "x": false
+  },
+  {
+   "id": "T16_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "quiplash",
+    "quiplash3",
+    "Finger",
+    "quiplash 3",
+    "dieses Spiel",
+    "das Spiel, das wir spielen",
+    "<ARTICLE> Jackbox party pack",
+    "Jackbox party pack",
+    "JPP",
+    "JPP7",
+    "<ARTICLE> party pack",
+    "party pack"
+   ],
+   "prompt": "Etwas, das der Papst im Homeshopping-TV anpreisen würde",
+   "response": "Klar, wenn er sich eine Urheberrechtsklage einhandeln will. Denk nicht, dass wir das nicht machen, Papst! Wenn das überhaupt dein richtiger Name ist.",
+   "safetyQuips": [
+    "Waffeleisen in Jesusform",
+    "Wunder-Haarwuchsmittel",
+    "Ferienwohnungen im Vatikan"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "T17_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Eine Berufsbezeichnung, über die man sich bei einem [i]Bachelor[/i]-Teilnehmer NICHT wundern würde",
+   "response": "",
+   "safetyQuips": [
+    "Spaßenthusiast",
+    "Tierschützer",
+    "Geschenkpapiersommelier"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "T18_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Die interessanteste Quizshow-Kategorie aller Zeiten",
+   "response": "",
+   "safetyQuips": [
+    "rumkugelnde Rumkugeln",
+    "Günter Jauchs Lieblingslieder",
+    "Bitte mit einer Gegenfrage beantworten"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "T19_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Etwas, für das du gerne 45 € zahlen würdest",
+   "response": "",
+   "safetyQuips": [
+    "einen Jahresvorrat an Küchenrolle",
+    "Abendessen für zehn Personen",
+    "das Recht, auf der Busspur zu fahren"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "T1_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Das absolut Dümmste, was man auf gutefrage.net fragen könnte",
+   "response": "",
+   "safetyQuips": [
+    "Was gibt's heute zum Abendessen?",
+    "Was ist meine Lieblingsfarbe?",
+    "Warum geht die Sonne morgens auf?"
+   ],
+   "us": true,
+   "x": false
+  },
+  {
+   "id": "T20_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Tut mir leid, wir haben weder Coca-Cola noch Pepsi. Ist stattdessen <BLANK> okay?",
+   "response": "",
+   "safetyQuips": [
+    "Zuckerwasser",
+    "Whiskey",
+    "Lasagne"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "T21_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ein unpassender Name für eine neue Cornflakes-Sorte",
+   "response": "",
+   "safetyQuips": [
+    "Schwämmchen",
+    "Besser mit Wasser als mit Milch",
+    "Nägel & Scherben"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "T22_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "<ARTICLE> Hühnchen",
+    "Hühnchen",
+    "<ARTICLE> Hühner",
+    "Hühner",
+    "<ARTICLE> Huhn",
+    "Huhn",
+    "<ARTICLE> Hahn",
+    "Hahn"
+   ],
+   "prompt": "Welche Form wäre als Tierkeks nicht sehr erfolgreich?",
+   "response": "Stimmt! Es gibt echt keine Hühner bei den Tierkeksen. Dann sind sie also gut genug, um sie wirklich zu essen, aber nicht, um als Tierkeks herzuhalten?? Ich will den Manager sprechen!",
+   "safetyQuips": [
+    "Das bedrohte Krümeltier",
+    "Mikrobe",
+    "Korallen"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "T23_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "<PRONOUN> Fürze",
+    "Fürze",
+    "<PRONOUN> Furze",
+    "Furze",
+    "<PRONOUN> furzen",
+    "furzen",
+    "<ARTICLE> Fürze",
+    "Fürze",
+    "<ARTICLE> Furze",
+    "Furze",
+    "<ARTICLE> Furzen",
+    "Furzen",
+    "<ARTICLE> Pupsen",
+    "Pupsen"
+   ],
+   "prompt": "Es gibt ein Schlupfloch, durch das man <BLANK> von der Steuer absetzen kann",
+   "response": "Tja, ich bin auf jeden Fall die Haupteinnahmequelle dieses Haushalts. (furzt)",
+   "safetyQuips": [
+    "schlechte Ideen",
+    "Monster unterm Bett"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "T24_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Polizeiwagen kämen schneller ans Ziel, wenn sie statt der Sirene <BLANK> anmachen würden",
+   "response": "",
+   "safetyQuips": [
+    "Fahrstuhlmusik",
+    "Waschbärengekreische",
+    "Schlumpfenhitparade"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "T25_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ein unwahrscheinlicher, prominenter Kandidat für das deutsche Kanzleramt",
+   "response": "",
+   "safetyQuips": [
+    "das Krümelmonster",
+    "Barack Obama",
+    "Horst Lichter"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "T26_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ein schreckliches Geschenk zum Muttertag",
+   "response": "",
+   "safetyQuips": [
+    "Sauerkrautsaft",
+    "Ein schon benutztes Stück Seife"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "T27_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Statt [i]Wahrheit oder Pflicht[/i] spielen die Kinder heutzutage [i]Wahrheit oder[/i] <BLANK>",
+   "response": "",
+   "safetyQuips": [
+    "Fake News",
+    "Konsent",
+    "Fortnite"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "T28_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Deutschlands größter Exportschlager ist <BLANK>",
+   "response": "",
+   "safetyQuips": [
+    "die Dschungelcamp-Prominenz",
+    "Dornige Etwasse",
+    "Premium-Stempelkissen"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "T29_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Die Kinder von heute überspringen das erste Date und gehen direkt <BLANK>",
+   "response": "",
+   "safetyQuips": [
+    "schlafen",
+    "in die Garage",
+    "in ihre klebrige Höhle"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "T2_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ein fragwürdiger Tourismusslogan. „Deutschland – <BLANK>”.",
+   "response": "",
+   "safetyQuips": [
+    "Nirgendwo ist die Bahn unpünktlicher.",
+    "Hier gibt's Bier.",
+    "Ist nett hier."
+   ],
+   "us": true,
+   "x": false
+  },
+  {
+   "id": "T30_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Wo versteckt man sich beim Versteckspiel am Besten?",
+   "response": "",
+   "safetyQuips": [
+    "Neben einer Nebelmaschine",
+    "Hinter einem WIRKLICH großen Baum",
+    "Im Marianengraben"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "T31_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Halloween wäre noch gruseliger, wenn es <BLANK> heißen würde",
+   "response": "",
+   "safetyQuips": [
+    "Nur-Saures-Tag",
+    "The Purge"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "T32_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Der neue Werbespruch von Paderborn sollte heißen: „Für ein Paderborn ohne <BLANK>”",
+   "response": "",
+   "safetyQuips": [
+    "Vampire, die durch die Nacht streifen",
+    "konstante Normalität",
+    "einen Funken Hoffnung"
+   ],
+   "us": true,
+   "x": false
+  },
+  {
+   "id": "T33_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Die schwierigste Minigolfbahn ist eine winzige Version von <BLANK>",
+   "response": "",
+   "safetyQuips": [
+    "meinem Abiball",
+    "Finnland"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "T34_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Komischerweise hat der DFB zugestimmt, die Spieler Tore feiern zu lassen, indem <BLANK>",
+   "response": "",
+   "safetyQuips": [
+    "noch mehr Tore geschossen werden dürfen",
+    "ein kleines Lied angestimmt werden darf"
+   ],
+   "us": true,
+   "x": false
+  },
+  {
+   "id": "T35_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Die Bundesregierung sollte eine Behörde für <BLANK> einrichten",
+   "response": "",
+   "safetyQuips": [
+    "Ausflipper",
+    "die Erschließung von Feuchtgebieten"
+   ],
+   "us": true,
+   "x": false
+  },
+  {
+   "id": "T36_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Das coolste Kind der Mittelstufe trägt immer <BLANK>",
+   "response": "",
+   "safetyQuips": [
+    "Räder unter den Sohlen",
+    "zum Unterricht bei",
+    "Leder von Kopf bis Fuß"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "T37_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Damit eine Hochzeit in Bayern rechtskräftig ist, muss bei der Zeremonie <BLANK>",
+   "response": "",
+   "safetyQuips": [
+    "das Ehegelübde gejodelt werden",
+    "Bierkrug-Jenga gespielt werden",
+    "ein Mann im Weißwurstkostüm anwesend sein"
+   ],
+   "us": true,
+   "x": false
+  },
+  {
+   "id": "T38_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Die perfekte Ausrede, nicht am Sportunterricht teilzunehmen",
+   "response": "",
+   "safetyQuips": [
+    "Ich bin schon ein Profi",
+    "Bin allergisch auf Kugeln"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "T39_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "<PRONOUN> weiß nich",
+    "weiß nich",
+    "<PRONOUN> weiß nicht",
+    "weiß nicht",
+    "<PRONOUN> nichts",
+    "nichts",
+    "<PRONOUN> gar nichts",
+    "gar nichts",
+    "<PRONOUN> nix",
+    "nix",
+    "Wen interessierts",
+    "Das ist blöd",
+    "Das ist dumm",
+    "Langweilig",
+    "<PRONOUN> keine Ahnung",
+    "keine Ahnung",
+    "<PRONOUN> keine Idee",
+    "keine Idee",
+    "<PRONOUN> keinen Plan",
+    "kein Plan"
+   ],
+   "prompt": "Etwas, das du nicht in einem vollen Aufzug sagen solltest",
+   "response": "Okay, sowas solltest du aber auch nicht in einem Spiel schreiben, bei dem kreative Antworten gefragt sind. Leg dich etwas ins Zeug, okay?",
+   "safetyQuips": [
+    "Ich könnte 'ne Umarmung gebrauchen",
+    "Na super. Schon wieder Durchfall",
+    "Was dagegen, wenn ich auf meinem Banjo übe?"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "T3_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "In der langweiligsten Gruselgeschichte aller Zeiten werden die Opfer von <BLANK> terrorisiert",
+   "response": "",
+   "safetyQuips": [
+    "ihren Studiengebühren",
+    "ihren Schwiegereltern",
+    "Eigenheimbesitzern"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "T40_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Die abgelehnte letzte Zeile der Nationalhymne: „Blühe, deutsches <BLANK>”",
+   "response": "",
+   "safetyQuips": [
+    "Bruttosozialprodukt",
+    "Wiederverkaufsrecht nach §883 Abs. 1 S. 2 BGB",
+    "Reinheitsgebot"
+   ],
+   "us": true,
+   "x": false
+  },
+  {
+   "id": "T41_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "<ARTICLE> Schmitty",
+    "Schmitty",
+    "<ARTICLE> Shmitty",
+    "Shmitty",
+    "<ARTICLE> Smitty",
+    "Smitty",
+    "<ARTICLE> Quiplashmoderator",
+    "Quiplashmoderator",
+    "<ARTICLE> Moderator von Quiplash",
+    "Moderator von Quiplash",
+    "<ARTICLE> Schmittie",
+    "Schmittie",
+    "<ARTICLE> Shmittie",
+    "Shmittie",
+    "<ARTICLE> Smittie",
+    "Smittie"
+   ],
+   "prompt": "Diese Uni war verloren, nachdem sie <BLANK> zu ihrem Maskottchen gemacht hatte",
+   "response": "Jetzt hör mal zu! Hast du etwa nie von den Kämpfenden Schmitties der Hinterwald-Uni gehört?! Vermutlich nicht, aber wir haben fünf Jahre in Folge im Völkerball gewonnen. Na los, schlag es nach!",
+   "safetyQuips": [
+    "einen unbeliebten Politiker",
+    "BAföG-Schulden",
+    "die Vorteile des Selbststudiums"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "T42_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Der langsamste Schütze im Wilden Westen: Billy <BLANK>",
+   "response": "",
+   "safetyQuips": [
+    "Passt-nie-auf",
+    "mit den schweren Waffen"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "T43_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Vergiss nicht, dass man in England auf der anderen Straßenseite <BLANK>",
+   "response": "",
+   "safetyQuips": [
+    "weint",
+    "Unfälle baut",
+    "fröhlich umherspringt"
+   ],
+   "us": true,
+   "x": false
+  },
+  {
+   "id": "T44_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "GUT: Weichgespülte Wäsche. SCHLECHT: Weichgespülte <BLANK>",
+   "response": "",
+   "safetyQuips": [
+    "Meinungen",
+    "Pudel",
+    "Plätzchen"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "T45_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Bestechung?! Ist es etwa Bestechung, wenn man einem Richter <BLANK> gibt?",
+   "response": "",
+   "safetyQuips": [
+    "eine Rolex",
+    "die Hand mit einem Zwanziger"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "T46_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "In seiner lebensgefährlichsten Situation, rettete MacGyver sich nur mit einer Tasche voll <BLANK>",
+   "response": "",
+   "safetyQuips": [
+    "Nüssen",
+    "Kassetten",
+    "Träumen"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "T47_de-DE",
+   "includesPlayerName": true,
+   "keywords": [],
+   "prompt": "Wusstest du, dass <ANYPLAYER> in der Schule einen <BLANK>-Klub gegründet hat?",
+   "response": "",
+   "safetyQuips": [
+    "Seltsame Anime",
+    "Mittagessen-auf-der-Schultoilette",
+    "Traurige Freunde"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "T48_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Wenn Deutschland ein Tier wäre, wäre es <BLANK>",
+   "response": "",
+   "safetyQuips": [
+    "ein Dönertier",
+    "ein Mettigel",
+    "ganz putzig anzusehen"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "T49_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Aufgrund von Budgetkürzungen ist das Phantom der Oper jetzt das [i]Phantom des[/i] <BLANK>",
+   "response": "",
+   "safetyQuips": [
+    "Fast-Food-Restaurants",
+    "Busbahnhofs",
+    "1€-Shops"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "T4_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Das zwölfte Gebot: „Aber <BLANK> darfst du schon.”",
+   "response": "",
+   "safetyQuips": [
+    "über 130 fahren",
+    "Kirchensteuer zahlen",
+    "lang wachbleiben"
+   ],
+   "us": true,
+   "x": false
+  },
+  {
+   "id": "T50_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Wusstet ihr, dass Albert Einstein auch <BLANK> entwickelt hat?",
+   "response": "",
+   "safetyQuips": [
+    "die Rolltreppe",
+    "die Kuscheldecke mit Ärmeln",
+    "das Internet"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "T51_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "<BLANK>! Die Bar für korrupte Politiker",
+   "response": "",
+   "safetyQuips": [
+    "Steuerlichabsetzbar",
+    "Bestechbar"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "T52_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Ein wirklich unglücklicher Name für ein neues Cabrio-Modell",
+   "response": "",
+   "safetyQuips": [
+    "Franz Ferdinand Deluxe",
+    "Kennedy",
+    "Topless Delight"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "T53_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Eine Gameshow aus dem Mittelalter, deren Existenz nicht überliefert wurde",
+   "response": "",
+   "safetyQuips": [
+    "Schüttel den Büttel",
+    "Tadel den Adel",
+    "Minne oder Rinne"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "T54_de-DE",
+   "includesPlayerName": true,
+   "keywords": [],
+   "prompt": "In einem Duell mit Schmitty gewinnt <ANYPLAYER> mit diesem schmutzigen Trick",
+   "response": "",
+   "safetyQuips": [
+    "Alle Quips nackt schreiben",
+    "jedes Mal Horst Lichters Schnauzer schreiben",
+    "Das Spiel beenden"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "id": "T55_de-DE",
+   "includesPlayerName": true,
+   "keywords": [],
+   "prompt": "Mit dieser merkwürdigen Methode bereitet sich <ANYPLAYER> auf den Weltuntergang vor",
+   "response": "",
+   "safetyQuips": [
+    "Sich einen Horst-Lichter-Bart stehen lassen",
+    "Klopapier horten",
+    "die Spielfilm-VHS-Sammlung komplettieren"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "T56_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Wenn Postboten erst ausgestorben sind bringt <BLANK> die Post",
+   "response": "",
+   "safetyQuips": [
+    "die Brieftraube",
+    "Alessio. Er weiß, warum",
+    "Post Malone"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "T57_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Die wichtigste Zutat in der Tinktur, mit der Keanu Reeves den Alterungsprozess aufhält",
+   "response": "",
+   "safetyQuips": [
+    "billige Supermarkt-Croutons",
+    "ich frag meine Schwurbel-Verwandten",
+    "FDP-Sammelkarten"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "T58_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Eine Rolle, bei der selbst Matt Damon überlegen würde, ob er sie annimmt",
+   "response": "",
+   "safetyQuips": [
+    "Kartoffel auf dem Mars",
+    "Matt Damon in seiner Autobiografie",
+    "Horst Lichters Schnauzer"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "T59_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Etwas, das niemand gern auf dem Grill neben dem eigenen Essen haben möchte",
+   "response": "",
+   "safetyQuips": [
+    "Gorgonzola-Bouillabaise",
+    "Nürnberger, aber nicht die Würstchen",
+    "Wiener, aber die Würstchen"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "T5_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Eine taktvollere Art, „Holz vor der Hütte” auszudrücken",
+   "response": "",
+   "safetyQuips": [
+    "Holz vor dem Haus",
+    "ansehnliche Oberweite",
+    "frontalbelastet"
+   ],
+   "us": true,
+   "x": true
+  },
+  {
+   "id": "T6_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Erwachsene sollten zu Halloween auch von Tür zu Tür gehen dürfen, um <BLANK> zu kriegen.",
+   "response": "",
+   "safetyQuips": [
+    "einen Vollrausch",
+    "mal etwas Auslauf",
+    "eine kurze Massage"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "T7_de-DE",
+   "includesPlayerName": false,
+   "keywords": [
+    "Penis",
+    "Dildo",
+    "Finger",
+    "<PRONOUN> Penis",
+    "<PRONOUN> Dildo",
+    "<PRONOUN> Finger",
+    "<ARTICLE> Penis",
+    "<ARTICLE> Dildo",
+    "<ARTICLE> Finger"
+   ],
+   "prompt": "Ein Begriff, den ihr für später im Spiel als Running Gag einführen wollt",
+   "response": "Okay, meine Schuld. Das war eine steile Vorlage für einen flachen Witz. Dann wissen wir ja jetzt, wie der Abend weitergeht.",
+   "safetyQuips": [
+    "Larry Seinfeld",
+    "Plutoniumnippel",
+    "nicht die Mama"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "id": "T8_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Unter den Talaren der Muff von tausend <BLANK>",
+   "response": "",
+   "safetyQuips": [
+    "Haaren",
+    "Achseln",
+    "Dieselmotoren"
+   ],
+   "us": true,
+   "x": false
+  },
+  {
+   "id": "T9_de-DE",
+   "includesPlayerName": false,
+   "keywords": [],
+   "prompt": "Was sollte jede Stadt ihren Bürgern bieten müssen?",
+   "response": "",
+   "safetyQuips": [
+    "kostenlosen Trampolinpark",
+    "Freibierbrunnen",
+    "bezahlbaren Wohnraum"
+   ],
+   "us": false,
+   "x": false
+  }
+ ]
+}

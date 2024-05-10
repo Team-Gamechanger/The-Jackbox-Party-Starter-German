@@ -1,0 +1,676 @@
+{
+ "content": [
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "„Musik der Nacht”"
+    },
+    {
+     "correct": true,
+     "text": "„Tag für Tag”"
+    },
+    {
+     "correct": false,
+     "text": "„Morgen schon”"
+    },
+    {
+     "correct": false,
+     "text": "„Wie vom Traum verführt”"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "55365_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "Wärst du zu meiner Schultheateraufführung des Musicals [i]Godspell[/i] gekommen, Vater, dann hättest du mich welches dieser Lieder singen gehört?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Tork"
+    },
+    {
+     "correct": false,
+     "text": "Bork"
+    },
+    {
+     "correct": true,
+     "text": "Ork"
+    },
+    {
+     "correct": false,
+     "text": "Work"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "55367_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "Vater, wie heißt der Heimatplanet von Mork aus der gleichnamigen Fernsehserie, zu dem ich als Kind immer ausreißen wollte?",
+   "us": true,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Schmusebärchi"
+    },
+    {
+     "correct": false,
+     "text": "Brummbärchi"
+    },
+    {
+     "correct": false,
+     "text": "Freundschaftsbärchi"
+    },
+    {
+     "correct": true,
+     "text": "Hurrabärchi"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "55370_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "Weil du ja nie da warst, war das Glücksbärchi mit dem Regenbogen auf dem Bauch meine erste Bezugsperson. Wie hieß dieses Glücksbärchi genau?",
+   "us": true,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Andorra"
+    },
+    {
+     "correct": false,
+     "text": "Bialya"
+    },
+    {
+     "correct": true,
+     "text": "Genovien"
+    },
+    {
+     "correct": false,
+     "text": "Zamunda"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "55428_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "Wenn du dich jemals dazu herabgelassen hättest, meinen Lieblingsfilm mit mir zu schauen, dann wüsstest du das ... Den Thron von welchem Land erbt Anne Hathaway in [i]Plötzlich Prinzessin[/i]?",
+   "us": true,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Cyclops"
+    },
+    {
+     "correct": true,
+     "text": "Griffin"
+    },
+    {
+     "correct": false,
+     "text": "Phoenix"
+    },
+    {
+     "correct": false,
+     "text": "Beast"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "55454_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "Du hast mir damals das falsche Halloweenkostüm gekauft, als ich 18 war! Ich wollte einer der X-Men sein! Aber diese Figur ist gar kein X-Man!",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Padre"
+    },
+    {
+     "correct": true,
+     "text": "Papa"
+    },
+    {
+     "correct": false,
+     "text": "Pops"
+    },
+    {
+     "correct": false,
+     "text": "Big Papi"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "55995_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "Als Junge hab ich immer gern Ernest Hemingway gelesen. Vermutlich, wegen seines Spitznamens ...",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "1940er"
+    },
+    {
+     "correct": false,
+     "text": "1950er"
+    },
+    {
+     "correct": false,
+     "text": "1960er"
+    },
+    {
+     "correct": true,
+     "text": "1970er"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "56014_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "Vater, du hast dich immer über mich lustig gemacht, weil ich nicht so erfolgreich bin wie Post-It-Zettel, die ja genauso alt sind wie ich. Aus welchem Jahrzehnt kommen wir noch mal?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Kategorum[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Tabu[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Murmelmikado[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Mensch ärger Dich nicht[/i]"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "56035_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "Immer wenn ich mit dir reden wollte, hast du nur auf die Tröte gedrückt, die welchem dieser Brettspiele beilag?",
+   "us": true,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Tantor"
+    },
+    {
+     "correct": false,
+     "text": "Tuffi"
+    },
+    {
+     "correct": false,
+     "text": "Madeleine"
+    },
+    {
+     "correct": true,
+     "text": "Celeste"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "56045_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "Ich habe Babar dem Elefantenkönig die Gattin ausgespannt. Vater, wie heißt dieses wundervolle Wesen?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Ollie"
+    },
+    {
+     "correct": true,
+     "text": "Goofy"
+    },
+    {
+     "correct": false,
+     "text": "Frontside"
+    },
+    {
+     "correct": false,
+     "text": "Railslide"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "56049_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "Wenn du jemals mit mir zum Skatepark gekommen wärst, wüsstest du, dass ich mit dem rechten Fuß vorne stehe, was mich zu welcher Sorte Skater macht?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Grimlock"
+    },
+    {
+     "correct": false,
+     "text": "Devastator"
+    },
+    {
+     "correct": false,
+     "text": "Megatron"
+    },
+    {
+     "correct": false,
+     "text": "Chompion"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "56050_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "Was war der Name meines Transformers, der zu einem Dinosaurier statt zu einem Fahrzeug werden konnte, Vater?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "acht Spiele"
+    },
+    {
+     "correct": true,
+     "text": "sechs Spiele"
+    },
+    {
+     "correct": false,
+     "text": "vier Spiele"
+    },
+    {
+     "correct": false,
+     "text": "zwei Spiele"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "56083_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "Du bist nicht zum Endspiel des Tennisturniers an meiner Schule gekommen, Vater. Kannst du mir trotzdem sagen, wie viele Spiele ich verlieren musste, um einen Satz zu verlieren?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Riggs & Murtaugh"
+    },
+    {
+     "correct": false,
+     "text": "Lowrey & Burnett"
+    },
+    {
+     "correct": false,
+     "text": "Tango & Cash"
+    },
+    {
+     "correct": true,
+     "text": "Tubbs & Crockett"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "56087_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "Du hast immer gesagt, ich darf mein Zimmer nicht wie [i]Miami Vice[/i] dekorieren, Vater. Aber ich hab nicht auf dich gehört und welches Ermittlerduo über mein Bett gemalt?",
+   "us": true,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Sokrates"
+    },
+    {
+     "correct": true,
+     "text": "Aristoteles"
+    },
+    {
+     "correct": false,
+     "text": "Pythagoras"
+    },
+    {
+     "correct": false,
+     "text": "Alexander der etwas Kleinere"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "56088_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "Wenn du dich auch nur ein bisschen um mich gekümmert hättest, Vater, dann hätte ich wie Alexander der Große werden können. Und du wie sein Mentor ...",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Josh: Der Kopfgeldjäger[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Maverick[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Rauchende Colts[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Westlich von Santa Fé[/i]"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "TMP2-END-10_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "In welcher dieser alten Westernserien gibt es eine liebende Vater-Sohn-Beziehung, wie ich sie mir immer gewünscht habe?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Tubbs & Crockett"
+    },
+    {
+     "correct": false,
+     "text": "Riggs & Murtaugh"
+    },
+    {
+     "correct": false,
+     "text": "Lowrey & Burnett"
+    },
+    {
+     "correct": false,
+     "text": "Tango & Cash"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "TMP2-END-11_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "Du hast immer gesagt, ich darf mein Zimmer nicht wie in [i]Miami Vice[/i] dekorieren, Vater. Aber ich hab nicht auf dich gehört und welches Ermittlerduo über mein Bett gemalt?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Vergissmeinnicht"
+    },
+    {
+     "correct": false,
+     "text": "Tulpe"
+    },
+    {
+     "correct": false,
+     "text": "Seerose"
+    },
+    {
+     "correct": true,
+     "text": "Löwenzahn"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "TMP2-END-12_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "Weil du nie da warst, wurde meine Erziehung größtenteils von welcher Pflanze übernommen?",
+   "us": true,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Work"
+    },
+    {
+     "correct": true,
+     "text": "Ork"
+    },
+    {
+     "correct": false,
+     "text": "Tork"
+    },
+    {
+     "correct": false,
+     "text": "Bork"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "TMP2-END-3_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "Vater, wie heißt der Heimatplanet von Mork aus der gleichnamigen Fernsehserie, zu dem ich als Kind immer ausreißen wollte?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Freundschaftsbärchi"
+    },
+    {
+     "correct": false,
+     "text": "Schmusebärchi"
+    },
+    {
+     "correct": false,
+     "text": "Brummbärchi"
+    },
+    {
+     "correct": true,
+     "text": "Hurrabärchi"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "TMP2-END-4_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "Weil du ja nie da warst, war das Glücksbärchi mit dem Regenbogen auf dem Bauch meine erste Bezugsperson. Wie hieß dieses Glücksbärchi genau?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Urmel aus dem Eis"
+    },
+    {
+     "correct": false,
+     "text": "Wolkenreiter und Sohn"
+    },
+    {
+     "correct": false,
+     "text": "Kater Mikesch"
+    },
+    {
+     "correct": true,
+     "text": "Jim Knopf und die Wilde 13"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "TMP2-END-5_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "Welches Stück von der Augsburger Puppenkiste durfte ich nie sehen, weil du meintest, der Drache Frau Mahlzahn erinnert dich zu sehr an Mama?",
+   "us": true,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Kiss"
+    },
+    {
+     "correct": true,
+     "text": "Iron Maiden"
+    },
+    {
+     "correct": false,
+     "text": "AC/DC"
+    },
+    {
+     "correct": false,
+     "text": "Journey"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "TMP2-END-6_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "Du bist damals von einem Rockkonzert nicht mehr wieder zurückgekommen. Aber diese Band gab es 1974 noch gar nicht.",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Genovien"
+    },
+    {
+     "correct": false,
+     "text": "Andorra"
+    },
+    {
+     "correct": false,
+     "text": "Zamunda"
+    },
+    {
+     "correct": false,
+     "text": "Bialya"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "TMP2-END-7_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "Wenn du dich jemals dazu herabgelassen hättest, meinen Lieblingsfilm mit mir zu schauen, dann wüsstest du das ... Den Thron von welchem Land erbt Anne Hathaway in [i]Plötzlich Prinzessin[/i]?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "[i]Die Gummibärenbande[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Thundercats[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]He-Man[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]My Little Pony[/i]"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "TMP2-END-8_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "Ich durfte dich ja nie „Papa” nennen ... Deswegen hab ich dich immer „Herzog Igzorn” genannt, wie den Bösewicht aus meiner Lieblingszeichentrickserie.",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Kategorum[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Tabu[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Murmelmikado[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Mensch ärgere Dich nicht[/i]"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "TMP2-END-9_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "Immer wenn ich mit dir reden wollte, hast du nur auf die Tröte gedrückt, die welchem dieser Brettspiele beilag?",
+   "us": false,
+   "x": false
+  }
+ ]
+}

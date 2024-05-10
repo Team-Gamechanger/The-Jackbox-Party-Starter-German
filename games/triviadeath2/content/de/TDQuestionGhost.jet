@@ -1,0 +1,32 @@
+{
+ "content": [
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Ja. Ich spende 50 $. Das gehört sich einfach."
+    },
+    {
+     "correct": false,
+     "text": "Nein."
+    },
+    {
+     "correct": false,
+     "text": "Auf keinen Fall."
+    },
+    {
+     "correct": false,
+     "text": "Mal überlegen. Hmm ... Nein."
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "55866_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Möchten Sie 50 $ Ihres Spielgewinns für den Exorzismus-Hilfsverband spenden?",
+   "us": false,
+   "x": false
+  }
+ ]
+}

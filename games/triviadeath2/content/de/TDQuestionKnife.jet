@@ -1,0 +1,648 @@
+{
+ "content": [
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Schildkröte"
+    },
+    {
+     "correct": false,
+     "text": "Aal"
+    },
+    {
+     "correct": true,
+     "text": "Krabbe"
+    },
+    {
+     "correct": false,
+     "text": "Schlange"
+    }
+   ],
+   "hasIntro": true,
+   "hasOutro": false,
+   "id": "55856_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Welches dieser Tiere gehört nicht zu den Wirbeltieren?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "weitläufige Hallen mit Hammerbalken-Gewölben"
+    },
+    {
+     "correct": true,
+     "text": "raffinierte, überbordende Verzierungen"
+    },
+    {
+     "correct": false,
+     "text": "neoklassizistische, freistehende Säulen"
+    },
+    {
+     "correct": false,
+     "text": "Fokus auf klare Linien und Symmetrie"
+    }
+   ],
+   "hasIntro": true,
+   "hasOutro": false,
+   "id": "55857_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Wodurch zeichnet sich die Architektur des Rokoko aus?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "„a holy place”"
+    },
+    {
+     "correct": false,
+     "text": "„a humble place”"
+    },
+    {
+     "correct": true,
+     "text": "„a hopeless place”"
+    },
+    {
+     "correct": false,
+     "text": "„a haunted place”"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "55862_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Also beweisen Sie mal Ihre Unschuld und sagen Sie mir, wo Calvin Harris und Rihanna in ihrem Lied „We Found Love” diese besagte Liebe gefunden haben.",
+   "us": true,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Merlot"
+    },
+    {
+     "correct": true,
+     "text": "Monastrell"
+    },
+    {
+     "correct": false,
+     "text": "Malbec"
+    },
+    {
+     "correct": false,
+     "text": "Cabernet Sauvignon"
+    }
+   ],
+   "hasIntro": true,
+   "hasOutro": false,
+   "id": "55864_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Welcher dieser Weine ist klassischerweise der kräftigste und dunkelste?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Europa"
+    },
+    {
+     "correct": false,
+     "text": "Afrika"
+    },
+    {
+     "correct": true,
+     "text": "Südamerika"
+    },
+    {
+     "correct": false,
+     "text": "Nordamerika"
+    }
+   ],
+   "hasIntro": true,
+   "hasOutro": false,
+   "id": "55900_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Von welchem Kontinent stammt die Kartoffel ursprünglich?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Der Goldene Kompass[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Das Magische Messer[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Das Hölzerne Tau[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Das Bernstein-Teleskop[/i]"
+    }
+   ],
+   "hasIntro": true,
+   "hasOutro": false,
+   "id": "55901_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Welcher dieser Titel ist nicht Teil der [i]His Dark Materials[/i]-Trilogie?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Cat Stevens"
+    },
+    {
+     "correct": true,
+     "text": "Joni Mitchell"
+    },
+    {
+     "correct": false,
+     "text": "Joan Baez"
+    },
+    {
+     "correct": false,
+     "text": "Alanis Morissette"
+    }
+   ],
+   "hasIntro": true,
+   "hasOutro": false,
+   "id": "55904_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Wer schrieb die beiden Songs „Big Yellow Taxi” und „River”?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Viola Davis"
+    },
+    {
+     "correct": false,
+     "text": "Danai Gurira"
+    },
+    {
+     "correct": false,
+     "text": "Sonequa Martin-Green"
+    },
+    {
+     "correct": true,
+     "text": "Lupita Nyong’o"
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "55915_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Ich lasse Sie gehen, wenn sie mir sagen können, wer die Hauptrolle in Jordan Peeles [i]Wir[/i] gespielt hat.",
+   "us": true,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Pablo Picasso"
+    },
+    {
+     "correct": false,
+     "text": "Frida Kahlo"
+    },
+    {
+     "correct": true,
+     "text": "Claude Monet"
+    },
+    {
+     "correct": false,
+     "text": "Grandma Moses"
+    }
+   ],
+   "hasIntro": true,
+   "hasOutro": false,
+   "id": "55916_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Welcher dieser Künstler hatte einen Hang dazu, Seerosen zu malen?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "„Was mich nicht umbringt, macht mich stärker.”"
+    },
+    {
+     "correct": false,
+     "text": "„Das ungeprüfte Leben ist nicht lebenswert.”"
+    },
+    {
+     "correct": true,
+     "text": "„Ich denke, also bin ich.”"
+    },
+    {
+     "correct": false,
+     "text": "„Wie können Spiegel wahr sein, wenn unsere Augen nicht wahr sind?”"
+    }
+   ],
+   "hasIntro": true,
+   "hasOutro": false,
+   "id": "55918_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Um Ihre Unschuld zu beweisen, müssen Sie mir nur sagen, welches dieser Zitate von René Descartes stammt.",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Russland"
+    },
+    {
+     "correct": false,
+     "text": "Kanada"
+    },
+    {
+     "correct": false,
+     "text": "China"
+    },
+    {
+     "correct": true,
+     "text": "Frankreich"
+    }
+   ],
+   "hasIntro": true,
+   "hasOutro": false,
+   "id": "55956_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Welches Land hat die meisten Zeitzonen?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "The Spiders from Mars"
+    },
+    {
+     "correct": false,
+     "text": "Ground Control"
+    },
+    {
+     "correct": false,
+     "text": "Space Jam"
+    },
+    {
+     "correct": false,
+     "text": "The Fires of Venus"
+    }
+   ],
+   "hasIntro": true,
+   "hasOutro": false,
+   "id": "55959_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Wie heißt die fiktionale Band, die mit Ziggy Stardust aufgetreten ist?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Sie sind gar keine echten Brüder."
+    },
+    {
+     "correct": false,
+     "text": "Sie wurden nur zehn Monate auseinander geboren."
+    },
+    {
+     "correct": false,
+     "text": "Sie sind zweieiige Zwillinge."
+    },
+    {
+     "correct": true,
+     "text": "Sie sind eineiige Zwillinge."
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "56020_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Welche Aussage über die [i]Property Brothers[/i] ist wahr?",
+   "us": true,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Er findet auf dem Wertstoffhof die letzte Ruhe."
+    },
+    {
+     "correct": false,
+     "text": "Er tritt in einem Werbespott für einen Toastersnack auf."
+    },
+    {
+     "correct": false,
+     "text": "Er wird an ein Altenheim gespendet."
+    },
+    {
+     "correct": true,
+     "text": "Er begleitet seinen Besitzer zur Uni."
+    }
+   ],
+   "hasIntro": false,
+   "hasOutro": false,
+   "id": "56022_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Was passiert mit dem namensgebenden Toaster am Ende von [i]Der tapfere kleine Toaster[/i]?",
+   "us": true,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Geronimo"
+    },
+    {
+     "correct": false,
+     "text": "Giuseppe"
+    },
+    {
+     "correct": true,
+     "text": "Geppetto"
+    },
+    {
+     "correct": false,
+     "text": "Jiminy Cricket"
+    }
+   ],
+   "hasIntro": true,
+   "hasOutro": false,
+   "id": "56041_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Wie heißt Pinocchios Vater?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Asien"
+    },
+    {
+     "correct": false,
+     "text": "Afrika"
+    },
+    {
+     "correct": false,
+     "text": "Australien"
+    },
+    {
+     "correct": true,
+     "text": "Antarktis"
+    }
+   ],
+   "hasIntro": true,
+   "hasOutro": false,
+   "id": "56069_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Ich weiß, dass Sie nicht der Killer sind, wenn Sie mir sagen können, welcher Kontinent die größte Wüste beherbergt.",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Worcestershiresauce"
+    },
+    {
+     "correct": false,
+     "text": "Knoblauch"
+    },
+    {
+     "correct": false,
+     "text": "Sardellen"
+    },
+    {
+     "correct": true,
+     "text": "Zucker"
+    }
+   ],
+   "hasIntro": true,
+   "hasOutro": false,
+   "id": "56078_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Welche dieser Zutaten gehört nicht in ein klassisches Caesar-Dressing?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "„a humble place”"
+    },
+    {
+     "correct": false,
+     "text": "„a holy place”"
+    },
+    {
+     "correct": false,
+     "text": "„a haunted place”"
+    },
+    {
+     "correct": true,
+     "text": "„a hopeless place”"
+    }
+   ],
+   "hasIntro": true,
+   "hasOutro": false,
+   "id": "TMP2-END-13_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Also beweisen Sie mal Ihre Unschuld und sagen Sie mir, wo Calvin Harris und Rihanna in ihrem Lied „We Found Love” diese besagte Liebe gefunden haben.",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Christina"
+    },
+    {
+     "correct": false,
+     "text": "Sabine"
+    },
+    {
+     "correct": true,
+     "text": "Bettina"
+    },
+    {
+     "correct": false,
+     "text": "Carola"
+    }
+   ],
+   "hasIntro": true,
+   "hasOutro": false,
+   "id": "TMP2-END-14_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Also sagen Sie mir, wer sich laut einem Song von [i]Fettes Brot[/i] bitte etwas anziehen sollte.",
+   "us": true,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Sonequa Martin-Green"
+    },
+    {
+     "correct": true,
+     "text": "Lupita Nyong’o"
+    },
+    {
+     "correct": false,
+     "text": "Danai Gurira"
+    },
+    {
+     "correct": false,
+     "text": "Viola Davis"
+    }
+   ],
+   "hasIntro": true,
+   "hasOutro": false,
+   "id": "TMP2-END-15_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Ich lasse Sie gehen, wenn sie mir sagen können, wer die Hauptrolle in Jordan Peeles [i]Wir[/i] gespielt hat.",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "The OA"
+    },
+    {
+     "correct": true,
+     "text": "The Handmaid's Tale"
+    },
+    {
+     "correct": false,
+     "text": "Sense8"
+    },
+    {
+     "correct": false,
+     "text": "The Crown"
+    }
+   ],
+   "hasIntro": true,
+   "hasOutro": false,
+   "id": "TMP2-END-16_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Also lasse ich Sie gehen, wenn Sie mir sagen können, welche dieser Serien nicht von Netflix produziert worden ist.",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Sie sind zweieiige Zwillinge"
+    },
+    {
+     "correct": false,
+     "text": "Sie sind gar keine echten Brüder"
+    },
+    {
+     "correct": false,
+     "text": "Sie wurden nur zehn Monate auseinander geboren"
+    },
+    {
+     "correct": true,
+     "text": "Sie sind eineiige Zwillinge"
+    }
+   ],
+   "hasIntro": true,
+   "hasOutro": false,
+   "id": "TMP2-END-17_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Welche Aussage über die [i]Property Brothers[/i] ist wahr?",
+   "us": false,
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Er findet auf dem Wertstoffhof die letzte Ruhe."
+    },
+    {
+     "correct": false,
+     "text": "Er wird an ein Altenheim gespendet."
+    },
+    {
+     "correct": false,
+     "text": "Er tritt in einem Werbespott für einen Toastersnack auf."
+    },
+    {
+     "correct": true,
+     "text": "Er begleitet seinen Besitzer zur Uni."
+    }
+   ],
+   "hasIntro": true,
+   "hasOutro": false,
+   "id": "TMP2-END-18_de-DE",
+   "isValid": "",
+   "pic": false,
+   "text": "[EventName=HOST/AltHost]Was passiert mit dem namensgebenden Toaster am Ende von [i]Der tapfere kleine Toaster[/i]?",
+   "us": false,
+   "x": false
+  }
+ ]
+}
