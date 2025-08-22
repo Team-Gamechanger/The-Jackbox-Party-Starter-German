@@ -15544,34 +15544,6 @@
    "choices": [
     {
      "correct": false,
-     "text": "Russland"
-    },
-    {
-     "correct": true,
-     "text": "Kanada"
-    },
-    {
-     "correct": false,
-     "text": "Japan"
-    },
-    {
-     "correct": false,
-     "text": "Australien"
-    }
-   ],
-   "hasIntro": false,
-   "hasOutro": false,
-   "id": "56707_de-DE",
-   "isValid": "",
-   "pic": false,
-   "text": "Welches Land hat die längste Küstenlinie?",
-   "us": false,
-   "x": false
-  },
-  {
-   "choices": [
-    {
-     "correct": false,
      "text": "Rudimentwinkel"
     },
     {
